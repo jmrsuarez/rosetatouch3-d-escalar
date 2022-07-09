@@ -1,0 +1,164 @@
+<svg width="200" height="130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <rect x="0" y="0" width="200" height="200" fill="black" />
+
+  <circle cx="100" cy="60" r="5" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="10" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="15" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="20" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="25" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="30" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="35" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="40" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="45" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="50" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="55" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="60" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="65" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="70" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="75" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="80" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="85" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="90" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="95" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="100" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="105" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="110" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="115" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="120" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="125" stroke="yellow" stroke-width=".1" fill="transparent" />
+
+  
+   <g stroke="yellow" stroke-width=".1" stroke-linecap="round">
+     
+   <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(0  100 60)" />
+     
+   <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(5.625  100 60)" />
+   <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(11.25   100 60)" />
+   <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(16.875   100 60)" />
+   <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(22.5   100 60)" />
+   
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(28.125  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(33.75   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(39.375   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(45   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(50.625   100 60)" />
+     
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(56.25   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(61.875  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(67.5   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(73.125   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(78.75   100 60)" />
+     
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(84.375   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(90   100 60)" />
+   
+     
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(95.625   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(101.25  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(106.875   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(112.5   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(118.125   100 60)" />
+     
+     
+          
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(123.75   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(129.375  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(135   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(140.625   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(146.25   100 60)" />
+     
+     
+     
+            
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(151.875   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(157.5  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(163.125  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(168.75   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(174.375  100 60)" />   
+     
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(180  100 60)" />   
+     
+                 
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(185.625   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(191.25  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(196.875  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(202.5  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(208.125 100 60)" /> 
+     
+     
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(213.75   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(219.375  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(225  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(230.635  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(236.5 100 60)" /> 
+     
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(241.875  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(247.5  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(253.125  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(258.75  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(264.375 100 60)" /> 
+     
+    
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(270   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(275.625  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(281.25  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(286.875  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(292.5 100 60)" /> 
+     
+         
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(298.125   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(303.75 100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(309.375  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(315  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(320.625  100 60)" /> 
+     
+         
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(326.25   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(331.875 100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(337.5  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(343.125  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(348.75  100 60)" /> 
+     
+         
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(354.375   100 60)" />
+
+     
+     
+     
+     <!--
+   
+       
+  
+   <line x1="0" y1="60" x2="95" y2="60" transform="rotate(180  100 60)" />
+  
+     
+   <line x1="0" y1="60" x2="95" y2="60" transform="rotate(-45  100 60)" />
+     
+
+   <line x1="0" y1="60" x2="95" y2="60" transform="rotate(180  100 60)" />
+
+     
+   <line x1="0" y1="60" x2="95" y2="60" transform="rotate(-90  100 60)" />
+   <line x1="0" y1="60" x2="95" y2="60" transform="rotate(135  100 60)" />
+   <line x1="0" y1="60" x2="95" y2="60" transform="rotate(-135 100 60)" />
+     
+     -->
+     
+  </g>
+  
+  
+  <defs>
+    <path d="M15,100a85,85 0 1,0 170,0a85,85 0 1,0 -170,0" id="coffeecircle" />
+    <path d="M100,37c34.8,0,63,28.2,63,63s-28.2,63-63,63s-63-28.2-63-63S65.2,37,100,37z" 
+          id="starbuckscircle" transform="rotate(-85 100 100)" />
+</defs>
+
+<text >
+    <textPath xlink:href="#starbuckscircle">Texto y simbolos siguiendo una -ruta-</textPath>
+</text>
+<text dx="55" textLength="160" >
+    <textPath xlink:href="#coffeecircle">Circular</textPath>
+</text>
+  
+  
+</svg>

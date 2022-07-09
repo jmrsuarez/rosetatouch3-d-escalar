@@ -1,0 +1,35 @@
+body
+{
+  background:black;
+  overflow: hidden; /* Hide scrollbars */
+}
+
+.quadrado {
+  margin: auto;
+  width: 800px;
+  height: 500px;
+  /*
+  border-color:red;
+  */
+  
+  
+  /*
+  animation: crescendo  1.5s  forwards ;
+  */
+  
+  animation: crescendo  8s  forwards ;
+  
+  */
+  splash 1s normal forwards ease-in-out;
+  */
+  border-color:red;
+    border-width: 4px;
+  border-style: solid;
+  
+   top: 50%;
+  left: 50%;
+}
+
+@keyframes crescendo {
+  0%   {transform: scale(.5);}
+  100% {transform: scale(4.5);}

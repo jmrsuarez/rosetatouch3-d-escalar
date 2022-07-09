@@ -1,0 +1,62 @@
+
+<link rel="stylesheet" href="/style.css">
+
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+
+<div 
+     ng-app="myApp" ng-controller="myCtrl"  ng-init="verbopre=[]">
+  
+<p>
+  <h2>
+    
+
+    -- {{ verbopret }},   -- 
+  {{ sustantivo }} -- 
+  {{ angulo_fraseo }} --.
+  </h2>    
+</p>
+
+    
+</div>
+
+
+
+    <script>
+    var app = angular.module('myApp', []);
+    var angulo_fraseos=['inmanencia','primer cardinal trasnfinito',
+                   'el vacio sin bordes','lengua materna',
+                   'dispositivo metaforico','multiple puro',
+                   'figura evanescente','multiple inconciente',
+                   'dispersion en eclipse','objeto fallido',
+                   'verbo','verbo','verbo','verbo','verbo'];
+    
+  
+      
+    var ddsustantivos=['algo que recordaba a un jardin','epejismo  preciso',
+                     'escafandra despresurizada',
+                    'una muñeca de museo','un busto de yeso',
+                     'una cara flexible','una niña triunfante'
+                    ,'la niebla que se cierra','instinto de predicccion'
+                     ,'alucinacion fuera del cuerpo'];
+    
+      
+    
+      var verboprets=['siempre que se proceda',
+                      'de las maquinaciones  y tinta reseca',
+                      'para recuperar las lagrimas',
+                      'tarde muy tarde','me siento impura sin lengua', 
+                      'me purifico entre adjetivos','la vida aqui',
+                      'ave grisacea contorneandose','llamadas de auxilio',
+                     'la soprano seudosalvaje','sustantivo 101','sustantivo 102','sustantivo 103','sustantivo 104','sustantivo 105','sustantivo 106','sustantivo 107' ];
+      
+      
+  
+      
+app.controller('myCtrl', function($scope) {
+    $scope.angulo_fraseo = angulo_fraseos[ Math.floor(Math.random() * angulo_fraseos.length)] ;
+    $scope.sustantivo = ddsustantivos[ Math.floor(Math.random() * ddsustantivos.length)] ;
+    $scope.verbopret = verboprets[ Math.floor(Math.random() * verboprets.length)] ;
+  
+   });
+</script>
+    

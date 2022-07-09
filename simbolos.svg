@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200">
+
+<defs>
+    <path d="M15,100a85,85 0 1,0 170,0a85,85 0 1,0 -170,0" id="coffeecircle" />
+    <path d="M100,37c34.8,0,63,28.2,63,63s-28.2,63-63,63s-63-28.2-63-63S65.2,37,100,37z" id="starbuckscircle" transform="rotate(-85 100 100)" />
+</defs>
+
+<text >
+    <textPath xlink:href="#starbuckscircle">Texto y simbolos siguiendo una -ruta-</textPath>
+</text>
+<text dx="55" textLength="160" class="coffee">
+    <textPath xlink:href="#coffeecircle">Circular</textPath>
+</text>
+</svg>

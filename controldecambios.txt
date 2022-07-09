@@ -1,0 +1,232 @@
+
+se cambio la imagen index07.png en el archvo index.html por una nueva version
+se subio el tipo de letra en rosetacsalida de 10 a 12px y el tamaño de los puntos de las estrellas a +1px
+se esta arreglando algoo de la generacion de la cadena de silabas.
+
+--------------
+Golem
+una proyecto increible, el estudio de lo fonetico en español-
+Luis Pineda busca: lenguaje y cualidades aleatorios- la entropia, lo cerca que esta un modelo de la realidad
+el codigo abierto , para conectar con inteligencia artifical
+
+Speech API de vos (application program interface)  Festival es un software de sinteis de vos y su caracteristica es que es open soorces- tiene una api
+alexa.siri.google asistante
+
+una AI tiene que estar en un entorno, 
+el entorno es que creas con el entropia,  es como el Game of life de Conway
+
+como las burbujas  que son sistemas autsuficientes, las que intenta imaginar como el hombre podria vivir en otros planeta ( canada. Biosfera 2)
+
+entropía en informatica, tipo de  aleatoriedad e incretidumbre
+-----------
+
+El tema de si el lenguaje esta en nuestra biologia, si en una expresion del hardaware mismo.
+
+si hay que compartir una neurobologia en comun para poder entablar comunicacion,
+confiemos en que toda forma de vida teien un lenguajes jerarquicos y recursivos.
+
+
+ahora se descubrio lo del genoma mitocondrial, el cuerpo humano no es solo nuestros gene, convivimos con la biomasa de las bacterias
+no hay orque poner en competencia el humano y  a la futura comunidad cbernetica,´púede ser una sinergia
+...................
+
+
+ROSETA PARTIMOS DEL DIAGRAMS DE GIORDANO BRUO, EL USO DEL LENGUAJE
+LAS LETRAS DEL ALFABETO  como acceso a la memoria
+ese escquema me inspiro mucho.
+esa memoria se expresa en estructuras del lenguaje , 
+
+Roseta es un dispositivo generador de lenguaje. que tiene varios modulos, lo que hace que funcione roseta es varios modulos, parecidos a Apis, 
+( dado cargado, combinacion silabica estadistica, una sintesis de vos, otro que le da interactividad)  
+
+Esta el alfabeto que usamos para la escritura, y luego un listado completo de la silabas en SAMPA procesamiento de vos 
+
+
+Roseta tiene teclado , un teclado touch, precioso, circular.
+Tene un aspecto grafico, visual con alfabetos, tiene una parte sonora. como Rosetas parlantes
+
+
+Puede reproducir o crear textos. Roseta puede generar poesia concreta, poesia matematica, como OULIPO
+tambien opera textos narrativos gramaticales
+O crear combianciones aleatorias del lenguaje. 
+en esto exploramos la relacion del lenguaje y la matematica.
+podria usar un softaware de reconocimiento de vos, es sencillo
+
+
+La idea de las letras simples nos llevo a la idea de las silabas como unidad del lenguaje. las ilabas vinculados al algoritmos
+con un tipo de aleatoriedad, vinvulada a la informacion estadistica del uso de las silabas,
+Estamos trabajando a partir de un listado de silabas que genramos pensando en usarlos como base para futuros interacciones conversacionales,
+sintacticas, para poder generar lenguajes poeticos, algo mas creativo con el lenguaje.
+
+
+como seguir con roseta? 
+
+me interesa la tecnologia linguistica, de modo creativo.  investigar modelos de la realidad con lenguaje.
+como un dispoitivo, como software con inetractividad, como limite entre el arte, lo creeativo y la inteligencia artificial. La ciencia depende mucho de la imaginacion. 
+
+estoy trabajando tambien con realidad aumentada. se puede vincular roseta  con un simple QR a otros dispositivos fisicos, 
+algo que tiene mucha utilidad para el arte, como un contenido asociado a una pieza fisica
+
+
+Isaac Bashevis Singer declaró que los robots y las computadoras de nuestros días son Golems,
+
+En mi caso la Roseta, evoca la piedra de roseta , porque es clave en el tema de la codificaion, de la posibilidad de comunicacion, y
+porque la piedra de roseta misma es como un tecnologia que teen ahi
+
+El lenguaje como una maquina de pensar, no es tanto los contenidos, como la peracion misma , es me atrae muchisimo.
+ 
+buscar las lengas interestelares?
+despues de mensaje de Arcecivo de Frances Drake y Sagan el siguiente proyecto importantes se llama Cosmic Call.
+se desarrollan lenguajes especialmente para contacto interestelar.
+Hay varios intentos de desarrollo de una lengua, tienen el mismo efoque; enseñar primero los numeros y aritmetica  simple. 
+pero ahor ala neurolinguistica sugiere que uede no ser la mejor manera-
+
+
+
+
+
+
+
+---------------------
+
+
+Itziar
+hay xenolingistas, astrolinguistas
+Conferencia Language y Cosmos. y hay un podcast sbre lenguaje extraterrestre (Chomsky)
+No se trata tanto de disctutir si hay o no ET , sino que planetarnos e ltema sacude alas presuposiciones por la base de os que p
+entenedemos por lenguaje
+
+La mutacion Fox p2, es una pieza genetica que nos da el lenguaje, 
+si abrimos ala pregunta de si existen seres inteligentes,es para invetsigar como hacemos con el lenguaje es transmitrnos pensamientos. 
+Carl sagan dice que como el universo se rige por las misma leyes fisicas, si aqui ha emergido la vida. e otros lugares tambien. 
+Carl Sagan hablaba de equivalencia funcional de los humanos, una criatura capas de construir un radiotelescopio
+( si tu enfoque es de darle poca imprtancia a l la bilogia en esto, entnces puedes ser optimista, pero si le das mucha importancia
+a la biologia como base de la comunicacion, entonces son muy escepticos.)
+
+
+La ciencia depende mucho de la imaginacion.
+
+el lenguaje no es un obejeto formal, sino una entidad fisica alojada en un cerebro, crece en es este cosistema biologico.
+si lo pnesamoa si,  la neurobiologia esta muy vinculado a esto.
+
+El lenguaje como una maquina de pensar, Esto es lo que nos cracteriza, es decir, no son contenidos que le almacenas, sino es la operacion misma
+lo que hace al lenguaje.
+EEl lenguaje como una maquina de pensar, recursiva  (language in the cosmos 1 Chomski video) ( es como una maquina de chmski, deonde la maquina esta definifda en la mismo sofweare)
+comunicarnos, trasnferir informacion relevante
+
+Jill Tarter Mujers consciencia. Blog .
+
+"La piedra Roseta lo que simbolisa es lo que compartes" Por eso ahora se trabaja con enormes corpus de lenguaje humano
+
+el platonismo de las matematicaa: dicen que la matemaica esta ahi y nosotros las descubrimos.
+los formalistas en matematicas dicen qe la cognicion humana tiene una serie de reglas y a veces se aplican y a aveces no 
+..................
+
+
+hbala sinusoidal. Robotito warrie
+
+
+en el Aleph, borges toca LO INFINITO,
+
+
+Artista: Irene Dubrovsky
+
+Motivo : Delaracion anual
+
+
+Formato HDA2
+Escrito Libre 
+Jpg de la obra a entregar en pago
+identificacion
+
+
+perrito robot japones ibot
+------
+Golem
+
+UN agente conversacional computacional. es genial que sea en esañol habaldo
+
+que la interpretacion del lenguaje atural se da en un contexto.  Lo cenral de este proyecto es modelar el contexto
+
+robot intergracion de la infomacion multimodal, linguistica 
+Sitema que es ua aruitectura de agentes distribuidos, sistemas autonomos independientes:
+un agente navegador, otro reconocedor de vos.un agente sintetizador de vos.uno agente que visualiza imagenes y videos.cada uno tien una modalidad de entrada o salida
+
+se hizo con Open agente arquitecture
+
+Sphinx corpusIMEX 100  conjuntoats de voces de hablantes, de 100 hablantes
+
+silograma de la horacion.analisi fonetico
+dividimos la "e N el primer nivel alofonico .54,44.22 fonemas, 17 consonanticos y 5 vocales 
+
+Modelo Acusticos.}diccionario de pronuncionacionn  (asOcia la palabra con la fonetica.)
+Modelo de lenguajes- para el rconocimineto de las palabras pronunciadas
+
+
+UN agente que reconoce las cadenas de texto- UN programa interprete  desarrollado en Prolog
+
+futuro:
+- enrieucer ala conducta linguistica. le estructura verbal de las explicaciones y en el reconocimiento de vos
+- la vision del robot, para identificar gestos
+- la conducat de navegacion. que sea mas inteligente apaara movrse.(con la vision y el movimient)
+Intergraf la info linguistica, visual y navegacion.
+
+-------
+
+empaquetaron rafagas de niformacion, el protocolo para internet que usamos, se uso para una red interplanetaria.
+Minsky de inteigencia artificial
+
+Una pregunta más profunda es si el lenguaje de ET será similar al nuestro. En otras palabras, si también obedecerá la gramática universal,
+ la estructura jerárquica y recursiva que el lingüista Noam Chomsky ha argumentado es la estructura profunda común a todos los lenguajes humanos.
+ Aunque los lenguajes tienden a ser analógicos como una forma de software que se ejecuta en el hardware de nuestro cerebro, trabajos recientes en 
+neurolingüística sugieren que el lenguaje, y la gramática universal, es en realidad una expresión del hardware en sí.
+
+El tema de si el lenguaje esta en nuestra biologia, si en una expresion del hardaware mismo.
+
+si hay que compartir una neurobologia en comun para poder entabkar comunicacion,
+
+astrobiologos 
+formas de vida, evolucion  y . si las leyes de la biologia dependen de la fisica, entonces, no vmos a encontra cubos de hileo sensibles.
+
+es decir: confiemos en que toda forma de vida teien un lenguajes jerarquicos y recursivos.
+enviar grandes corpus de textos
+que se entralacen la IA del aitierra con la IA de ET
+los algoritmos de rocesamineto de lengaje natural en la tierra no "comprenden el significado" , solo
+interpretan simbolos siegamente.
+
+codigos de la biblia
+
+Ray Kurzweil (un futurista, inventor del sintetizador Kurzweil y director de ingeniería de Google), que había predicho una 'singularidad tecnológica', 
+un punto en el que la IA superará con creces la inteligencia humana. . En este punto, según Kurzweil, los humanos se fusionarán con la IA,
+
+
+
+ahora se descubrio lo del genoma mitocondrial, el cuerpo humano no es solo nuestros gene, convivimos con la biomasa de las bacterias
+no hay orque poner en competencia el humano y  a la futura comunidad cbernetica,´púede ser una sinergia
+
+quizás incluso pueda engañarnos en una prueba de Turing, pero aún le faltará la vida mental interior que constituye la conciencia.
+ Nuestra llamada 'conciencia fenoménica' todavía está remotamente lejos de la conciencia cognitiva 
+
+la web semantica separa el codigo entre contenido y presentacion
+es como las leyes de la robotica
+con un escrito no podes alterar el contenido, solo la apiencia del contenido
+
+modular, que va con modulos, alguien se encarga de la vos, otra de la palabra
+
+metemos texxtos en el jason, los vamos obteniendo letra por letra
+
+un modulo de vision para usar uno codigo QR
+
+lo ideal seria que proyeto gutemberg tuviera una api
+----------------------------------------
+
+instituto  de Atrofisica de Canarias
+
+area de divulgaccion cientifica de IAC
+
+
+
+
+
+
+...............

@@ -1,0 +1,404 @@
+
+<link rel="stylesheet" href="/style.css">
+
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+
+<div 
+     ng-app="myApp" ng-controller="myCtrl"  ng-init="verbopre=[]">
+  
+<p>
+  <h3>
+
+  Constelación de palabras
+  <br>
+  {{ verbopret }} 
+      <br>
+  {{ sustantivo }} 
+      <br>
+  {{ angulo_fraseo }} 
+      <br>
+  {{ colcuatro }} 
+      <br>
+  {{ colcinco }} 
+      <br>
+  6 - {{numcolsiete}} : {{ colsiete }}.
+    
+  </h3>    
+</p>
+
+    
+</div>
+
+
+
+    <script>
+    var app = angular.module('myApp', []);
+    var angulo_fraseos=[
+'inmanencia',
+'primer cardinal trasnfinito',
+'el vacio sin bordes',
+'lengua materna',
+'dispositivo metaforico',
+'multiple puro',
+'figura evanescente',
+'multiple inconciente',
+'dispersion en eclipse',
+'objeto fallido',
+'bajo la descripcion del infinito',
+'Infinto configurado',
+'Llengua materna :',
+'la lineas que dibuja',
+'El mirada dibuja',
+'Habla, metaforico dispositivo',
+'Cardinal tranfinito',
+'palabras enlazadas como estrellas',
+'cielos de hemisferios sin nombre',
+'Un vacio sin bordes, la lengua',
+'Figura verbal evanescete',
+'Objeto fallido de la lengua',
+'silencio fallido',
+'Tremula escritura',
+'infinita inmanencia lingüística',
+'multple puro y callado',
+'palabras dispersas',
+'linguisticas',
+'cuadrantes linguisticos',
+'metaforica maquinaria',
+'en sueños despiertan voces',
+'incoropoereas escrituras',
+'otras seran las formas del lenguaje',
+'limites arborescentes del habla',
+'callar lo no dicho',
+'olvidar lo callado lo borrado',
+'lo no dicho borrado',
+'una palabra un silencio otra palabra',
+'dice lo que dice',
+'un silencio un rumor prohiibdo',
+'mujer vocalizacion voraz',
+'lengua prosodia de trasnoche',
+'confesion terapeutica de la vigilia',
+'lenguas disidencias',
+'Sueño recurrente',
+'un libro clandestino',
+'Un poema inconcluso',
+'Una mala traduccion',
+'canto de la lengua materna',
+'Silencio fallido',
+'lenguajes morficos',
+'conjuntos verbales',
+'pausa y palabra',
+'mundo sin plabaras',
+'mente recursiva',
+'infinidad de puntos',
+'w es infinito',
+'isomorfismo linguistico',
+'limite del habla',
+'habla sin restriccion',
+'escritura irrestricta',
+'indeterminacion entre palabras',
+'infinito en potencia',
+'cuerpo verbal finito',
+'naturaleza del tiempo',
+'finito perfecto infinito imperfecto',
+'gemas del infinito',
+'lenguaje atributo de infinitud',
+'lengua transfinita',
+'paradoja de infinitos'
+    
+    ];
+    
+  
+var ddsustantivos=[
+      
+'siempre que se proceda',
+'de las maquinaciones y tinta reseca',
+'para recuperar las lagrimas',
+'tarde muy tarde',
+'me siento impura sin lengua',
+'me purifico entre adjetivos',
+'la vida aqui',
+'ave grisacea contorneandose',
+'llamadas de auxilio',
+'la soprano seudosalvaje',
+'decricpion de un ser',
+'detras del telon de la noche',
+'vidas microscopicas',
+'organizsmos pulsantes estallidos',
+'microbiologias silentes',
+'euforicos insectos',
+'nidos de nuevos nacimientos',
+'florescentes microorganismos',
+'existencia insomne',
+'virus deviene tribu',
+'sangre en venas arborecentes',
+'uñas-lengua-dientes',
+'trasnlucidas amebas',
+'explosion de cardumen',
+'brazos de tentaculos',
+'ojos en la espalda en el abdomen',
+'coleopteros',
+'seres tentaculares de literatura',
+'esporas no las vemos',
+'arboles cantores',
+'aves ligeras amenzas de ternura',
+'el abrazo de Rama',
+'caricias supervivientes',
+'cuerpo cuerpas entrelazan',
+'ramificacion',
+'traslapado',
+'rizomas del deseo',
+'ser arborescente',
+'respiracion clorifila',
+'existencias de 3 reinos',
+'especies innumerables',
+'caricias cartilagos',
+'cetaceos azules'
+];
+    
+      
+    
+var verboprets=[
+        
+        
+'algo que recordaba a un jardin',
+'espejismo preciso',
+'escafandra despresurizada,',
+'una muñeca de museo',
+'un busto de yeso',
+'una cara flexible',
+'una niña triunfante',
+'la niebla que se cierra',
+'instinto de predicccion',
+'alucinacion fuera del cuerpo',
+'foto descolorida del centeno',
+'mapa de una ciudad abandonada',
+'una cudad de juguete',
+'un telefono gastado',
+'libros sin autor conocido',
+'y la caotica biblioteca',
+'unos ojos demasiado claros',
+'un pasillo aterrador',
+'un osito teddy',
+'un brujula en el desierto',
+'el aleph en el bosillo',
+'una pelota de plastico (olvidada)',
+'en la habitacion de los espejos',
+'y el eco de una risa familiar',
+'sonido metalico de un objeto filoso',
+'un patio de baldosas hymedas',
+'el pasto bajo la lluvia',
+'en chernovil',
+'la cama desconocida',
+'en la habitacion desconocida',
+'la puerta sin candado',
+'la ventana sin postigos',
+'tras la pared agujereada',
+'jardines antiguos',
+'el sendero paralelo',
+'el patio trasero',
+'la cocina vacia',
+'un marco sin ventana',
+'una pintura decorativa',
+'un verso plagiado',
+'un cello adentro de su estuche',
+'un piano que suena sin cesar',
+'un conejo de peluche',
+'un objeto magico',
+'un maso de carts',
+'una pila de libros',
+'un disco de vidrio',
+'un tocadiscos',
+'la alfombra bajo el piano',
+'los libros prohibidos',
+'biblioteca clandestina',
+'alfombra voladora',
+'el dibujo en el tapiz',
+'un juego de dados',
+'un cuaderno escolar',
+'el nombre deseado',
+'un niño palido',
+'el rio inmemorial',
+'un pequeño juguete',
+'un diente perdido',
+'el mantel descolorido',
+'un tejido de punto cruz',
+'una partitura',
+'una sonata de piano',
+'un cuarteto de cuerdas',
+'un herencia de sangre',
+'un ancestro desterrado',
+'jugar a la loteria'
+];
+      
+
+          
+var colcuatros=[
+'finales',
+'principios',
+'describir',
+'recuerda',
+'desenlaces',
+'amanece',
+'transicion',
+'despierta',
+'escribir',
+'entrevee',
+'declina',
+'disuade',
+'subyugaa',
+'sujetar',
+'atempera',
+'romances',
+'amantes',
+'asi mismo',
+'insesantemente',
+'renombra',
+'refulge',
+'refleja',
+'replica',
+'intuitiva',
+'intermedios',
+'reconciliacion',
+'reencuentro',
+'reconciliacion',
+'reencuentro'
+
+];
+
+      
+var colcincos=[
+  
+'unir estos dos grupos',
+'una psicosemantica poco adecuada',
+'una lexicologia para todo uso',
+'la presicion expresiva del arbol linguistico',
+'adentro arbol recursivo',
+'del metaleguaje hiper-apatrida',
+'sin verbos predicados',
+'sin sujetos predicativos',
+'verbos conjugados al azar',
+'una gramatica derivativa estelar',
+'la recursividad del laberinto',
+'una psicosemantica de supernova',
+'lexicologia de los asteroides furicos',
+'catalogo espectral del arbol linguistico',
+'arbol recursivo entrelazado',
+'metalenguaje de una enana blanca',
+'predicativos neptunianos',
+'conjugacion azarosa de asteroides',
+'gramatica exoplanetaria',
+'palabras meteoritos',
+'retorno a los satelites naturales',
+'verbos conjugados en cometas',
+'una luna gramatical',
+'un sol recursivo',
+'un cuerpo celeste de goce y laberintos',
+'recursivos asteroides',
+'conjugacion del polvo estelar',
+'Via Lactea sin adverbios',
+'presicion idiomatica de las estrellas',
+'disco de polvo de oro',
+'estrella doble de gerundios',
+'idioma de multiverso',
+'palabras de multiverso local',
+'verbos que expanden estrellas',
+'sujetos fuera del tiempo',
+'predicados frente al espejo',
+'desliza del lenguaje a la estrella',
+'materia oscura prelinguistic',
+'conjuncion de cometas',
+'predicados frente al espejo',
+'desliza del lenguaje a la estrella',
+'materia oscura prelinguistic',
+'conjuncion de cometas'
+];
+
+
+var colsietes=[  
+'objeto celeste',			
+'de una supernova local',			
+'del catalogo espectral',		
+'una enana blanca a punto de ebullicion',			
+'brillan estrellas fugaces',
+'planetarias',
+'satelites naturales',			
+'planetas enaos',
+'asteroides',
+'meteoroides',		
+'cometas',
+'objeto trasnneptuniano',
+'luna',
+'sol',	
+'cuerpo celeste',	
+'luz emitida',	
+'luz reflejada',			
+'via lactea',
+'polvo estelar',
+'espacio gaseoso',
+'espacop vacio',		
+'materia obscura',		
+'agujros negros',	
+'gigantesgaseosas',
+'hifdrgeno y helio',		
+'livianos cmponentes cosmicos',
+'energia funde luz calor',
+'gravedad que comprime estrellas',
+'expanden estrellas',
+'fuera del tiempo',
+'del multiverso local',			
+'en el espejo de otro multiverso',			
+'hidrogeno y helio califican',
+'conjugar gisgantes gseosas',	
+'silencios agujeros negros',	
+'polvo estelar',
+'universo arcoiris',			
+'cumulo de las pleyades',			
+'Orion',
+'Sirio',		
+'bucle fuera del tiempo',			
+'Teorema infinito',
+'atmosfera estelar',		
+'evento castastrofico de supernovas',			
+'final de supernova',
+'planeta rocoso',
+'planeta extrasolar',			
+'gigante gaseoso',
+'anillos de saturno',			
+'estratosferico',
+'catalogo de estrellas',
+'los tipos espectrales',
+'de la astronomia babilonica',
+'constelaciones identificables del cielo egipcio',
+'estrella circumpolar',
+'cartas estelares',
+'del ecuador celeste',			
+'la estrella que no puede perecer',			
+'astronomos ancestrales',
+'equinoccio',
+'alineacion oracular',			
+'ecliptica de la esfera celeste',			
+'codice del cielo Maya',
+'Libro de las etsrellas',		
+'enciclopedia cosmica',	
+'el cielo digitalizado',		
+'Argo Navis',
+'Osa Major',	
+'Observatorios del fin del mundo',			
+'Catalogos de la snda Gaia',
+'anudada con Andromeda'
+  
+];
+
+      
+app.controller('myCtrl', function($scope) {
+    $scope.angulo_fraseo = angulo_fraseos[ Math.floor(Math.random() * angulo_fraseos.length)] ;
+    $scope.sustantivo = ddsustantivos[ Math.floor(Math.random() * ddsustantivos.length)] ;
+    $scope.verbopret = verboprets[ Math.floor(Math.random() * verboprets.length)] ;
+    $scope.colcuatro= colcuatros[ Math.floor(Math.random() * colcuatros.length)] ;
+    $scope.colcinco= colcincos[ Math.floor(Math.random() * colcincos.length)] ;
+    $scope.colsiete= colsietes[ Math.floor(Math.random() * colsietes.length)] ;
+    $scope.numcolsiete= Math.floor(Math.random() * colsietes.length);
+  
+   });
+</script>
+    

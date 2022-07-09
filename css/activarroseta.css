@@ -1,0 +1,28 @@
+body
+{
+ /* background-image:'https://i.imgur.com/7J9w9l6.png';*/
+  background:black;
+  overflow: hidden; /* Hide scrollbars */
+}
+
+.mySlides {
+  display:none;
+}
+
+.sobre
+{
+  position:absolute;
+}
+
+
+sub {
+  font-size: 0.55em;
+}
+
+.desvanecer
+{animation:fading 10s infinite}@keyframes fading{0%{opacity:0}50%{opacity:1}100%{opacity:0}
+}
+
+.desvanecer2
+{animation:fading 7s infinite}@keyframes fading{0%{opacity:0}30%{opacity:1}80%{opacity:1}100%{opacity:0}
+}

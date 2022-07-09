@@ -1,0 +1,2622 @@
+<svg width="200" height="130" 
+     version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 200 130">
+  
+  <!--
+  <rect x="0" y="0" width="200" height="130" fill="black" />
+-->
+  
+<circle cx="100" cy="60" r="4" stroke="DeepSkyblue" stroke-width="0.1" fill="transparent"/>
+<circle cx="100" cy="60" r="9" stroke="DeepSkyblue" stroke-width="0.1" fill="transparent"/>
+<circle cx="100" cy="60" r="14" stroke="DeepSkyblue" stroke-width="0.1" fill="transparent"/>
+<circle cx="100" cy="60" r="19" stroke="DeepSkyblue" stroke-width="0.1" fill="transparent"/>
+<circle cx="100" cy="60" r="24" stroke="DeepSkyblue" stroke-width="0.1" fill="transparent"/>
+<circle cx="100" cy="60" r="29" stroke="DeepSkyblue" stroke-width="0.1" fill="transparent"/>
+<circle cx="100" cy="60" r="34" stroke="DeepSkyblue" stroke-width="0.1" fill="transparent"/>
+<circle cx="100" cy="60" r="39" stroke="DeepSkyblue" stroke-width="0.1" fill="transparent"/>
+<circle cx="100" cy="60" r="44" stroke="DeepSkyblue" stroke-width="0.1" fill="transparent"/>
+<circle cx="100" cy="60" r="49" stroke="DeepSkyblue" stroke-width="0.1" fill="transparent"/>
+<circle cx="100" cy="60" r="54" stroke="DeepSkyblue" stroke-width="0.1" fill="transparent"/>
+<circle cx="100" cy="60" r="59" stroke="DeepSkyblue" stroke-width="0.1" fill="transparent"/>
+<circle cx="100" cy="60" r="64" stroke="DeepSkyblue" stroke-width="0.1" fill="transparent"/>
+<circle cx="100" cy="60" r="69" stroke="DeepSkyblue" stroke-width="0.1" fill="transparent"/>
+<circle cx="100" cy="60" r="74" stroke="DeepSkyblue" stroke-width="0.1" fill="transparent"/>
+<circle cx="100" cy="60" r="79" stroke="DeepSkyblue" stroke-width="0.1" fill="transparent"/>
+<circle cx="100" cy="60" r="84" stroke="DeepSkyblue" stroke-width="0.1" fill="transparent"/>
+<circle cx="100" cy="60" r="89" stroke="DeepSkyblue" stroke-width="0.1" fill="transparent"/>
+<circle cx="100" cy="60" r="94" stroke="DeepSkyblue" stroke-width="0.1" fill="transparent"/>
+  
+  
+    
+  <!--
+  <circle cx="100" cy="60" r="97.9" stroke="DeepSkyBlue" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="102.9" stroke="DeepSkyBlue" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="107.9" stroke="DeepSkyBlue" stroke-width=".1" fill="transparent" />
+  
+  
+  
+  <circle cx="100" cy="60" r="112.9" stroke="DeepSkyBlue" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="117.9" stroke="DeepSkyBlue" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="125" stroke="DeepSkyBlue" stroke-width=".1" fill="transparent" />
+
+  -->
+  
+   <g stroke="DeepSkyBlue" stroke-width=".1" stroke-linecap="round">
+     
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(357.1875  100 60)" />
+     
+   <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(3.375 100 60)" />
+   <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(9   100 60)" />
+   <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(14.625   100 60)" />
+   <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(20.25   100 60)" />
+   
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(25.875  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(31.5   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(37.125  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(42.75  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(48.375   100 60)" />
+     
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(54   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(59.625  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(65.25   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(70.875   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(76.5   100 60)" />
+     
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(82.125   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(87.75   100 60)" />
+   
+     
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(93.375   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(99  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(104.625   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(110.25   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(115.875   100 60)" />
+          
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(121.5   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(127.125  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(132.75   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(138.375   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(144   100 60)" />
+            
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(149.625   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(155.25  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(160.875  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(166.5   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(172.125 100 60)" />   
+     
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(177.75  100 60)" />   
+     
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(183.375   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(189  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(194.625  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(200.25  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(205.875 100 60)" /> 
+     
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(211.5  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(217.125  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(222.75  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(228.375  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(234 100 60)" /> 
+     
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(239.625  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(245.25  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(250.875  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(256.5  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(262.125 100 60)" /> 
+     
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(267.75  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(273.375  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(279  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(284.625  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(290.25 100 60)" /> 
+         
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(295.875   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(301.5 100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(307.125  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(312.75  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(318.375  100 60)" /> 
+     
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(324  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(329.625 100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(335.25  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(340.875 100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(346.5 100 60)" /> 
+        
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(352.125  100 60)" />
+     
+     
+  </g>
+  
+  
+<defs>
+    
+     
+</defs>
+
+
+
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(0 100 60)">
+  
+ <tspan x="100" y="-30" font-size="0.25em">τ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="-25" font-size="0.24em">I <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="-20" font-size="0.23em">π <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="-15" font-size="0.22em">π <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="-10" font-size="0.21em">E <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">σ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="0" font-size="0.19em">Ω <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="5" font-size="0.18em">X <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="10" font-size="0.17em">Γ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="15" font-size="0.16em">φ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">I <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="25" font-size="0.14em">E <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="30" font-size="0.13em">U <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="35" font-size="0.12em">β <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="40" font-size="0.11em">δ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">E <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">U <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">E <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">M <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">8 <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">8 <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">φ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">Γ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">µ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">φ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+  
+</text>
+
+
+  
+  <text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(5.625 100 60)">
+
+    
+ <tspan x="100" y="-30" font-size="0.25em">β <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="-25" font-size="0.24em"> <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="-20" font-size="0.23em"> <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="-15" font-size="0.22em">K <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="-10" font-size="0.21em">X <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">τ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="0" font-size="0.19em">τ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="5" font-size="0.18em"> <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="10" font-size="0.17em">σ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="15" font-size="0.16em">τ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">π <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="25" font-size="0.14em">Θ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="30" font-size="0.13em">W <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="35" font-size="0.12em">E <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="40" font-size="0.11em">O <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">µ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">X <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">U <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">A <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">µ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">τ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">µ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">µ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">Σ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">K <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+    
+</text>
+
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(11 100 60)">
+
+ <tspan x="100" y="-30" font-size="0.25em">Θ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="-25" font-size="0.24em">Σ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="-20" font-size="0.23em">φ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="-15" font-size="0.22em">ε <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="-10" font-size="0.21em">σ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">U <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="0" font-size="0.19em">U <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="5" font-size="0.18em">ε <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="10" font-size="0.17em">Σ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="15" font-size="0.16em">φ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">Ω <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="25" font-size="0.14em">π <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="30" font-size="0.13em">ε <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="35" font-size="0.12em">Ω <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="40" font-size="0.11em">8 <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">X <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">E <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">Ω <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">Γ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">M <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">ε <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">Γ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">E <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">Ω <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">J <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/>  </tspan>  
+  
+  
+</text>
+
+  
+
+<text  class="textorotado"     style="fill:DeepSkyBlue;"  transform = "rotate(16 100 60)">
+
+    <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >E<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="5s" begin="4s" repeatCount="indefinite"/></tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="4s" begin="4s" repeatCount="indefinite"/></tspan>
+    <tspan x="100" y="5" font-size="0.18em" >E</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="5s" begin="4s" repeatCount="indefinite"/></tspan>
+    <tspan x="100" y="15" font-size="0.16em" >E<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="3s" begin="4s" repeatCount="indefinite"/></tspan>
+    <tspan x="100" y="35" font-size="0.12em" >E</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >E<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="5s" begin="4s" repeatCount="indefinite"/></tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+    <tspan x="100" y="60" font-size="0.07em" >E<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+    <tspan x="100" y="65" font-size="0.06em" >E</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >E</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >E</tspan>
+  
+</text>
+  
+  
+  
+  
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(22 100 60)">
+
+  
+ <tspan x="100" y="-30" font-size="0.25em">β <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="6s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="-25" font-size="0.24em">Θ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="1s" begin="1s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="-20" font-size="0.23em">X <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="4s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="-15" font-size="0.22em">ε <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="5s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="-10" font-size="0.21em">W <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="1s" begin="1s" repeatCount="indefinite"/>  </tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">U <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="6s" begin="3s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="0" font-size="0.19em">O <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="5" font-size="0.18em">M <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="6s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="10" font-size="0.17em">X <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="6s" begin="3s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="15" font-size="0.16em">µ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="3s" begin="1s" repeatCount="indefinite"/>  </tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">β <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="3s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="25" font-size="0.14em">A <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="3s" begin="1s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="30" font-size="0.13em">φ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="3s" begin="3s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="35" font-size="0.12em">J <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="1s" begin="3s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="40" font-size="0.11em">O <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="3s" begin="3s" repeatCount="indefinite"/>  </tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em"> <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="4s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">σ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="4s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">M <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="3s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">ε <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="5s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">U <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="2s" repeatCount="indefinite"/>  </tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">U <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="6s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">E <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="1s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">φ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="1s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">φ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="6s" begin="1s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">K <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="7s" begin="1s" repeatCount="indefinite"/>  </tspan>  
+  
+  
+</text>
+  
+  
+  
+  
+  
+<text  class="textorotado"     style="fill:DeepSkyBlue;"  transform = "rotate(28 100 60)">
+
+
+  <tspan x="100" y="-30" font-size="0.25em">8 <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="1s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="-25" font-size="0.24em">A <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="5s" begin="1s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="-20" font-size="0.23em">α <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="7s" begin="3s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="-15" font-size="0.22em">δ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="3s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="-10" font-size="0.21em">τ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="4s" begin="3s" repeatCount="indefinite"/>  </tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">X <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="4s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="0" font-size="0.19em">δ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="5s" begin="3s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="5" font-size="0.18em">X <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="6s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="10" font-size="0.17em">8 <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="1s" begin="1s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="15" font-size="0.16em">π <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="1s" repeatCount="indefinite"/>  </tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">Φ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="3s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="25" font-size="0.14em">8 <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="7s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="30" font-size="0.13em">E <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="7s" begin="3s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="35" font-size="0.12em">α <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="4s" begin="3s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="40" font-size="0.11em">W <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="4s" begin="3s" repeatCount="indefinite"/>  </tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">8 <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="3s" begin="1s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">α <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="7s" begin="1s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">ε <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="1s" begin="3s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">8 <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="1s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">U <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="3s" begin="3s" repeatCount="indefinite"/>  </tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">J <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">µ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="5s" begin="1s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">α <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="6s" begin="3s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">φ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="5s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">M <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="3s" repeatCount="indefinite"/>  </tspan>
+  
+</text>
+  
+  
+<text  class="textorotado"     style="fill:DeepSkyBlue;"  transform = "rotate(33 100 60)">
+
+ <tspan x="100" y="-30" font-size="0.25em">X <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="1s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="-25" font-size="0.24em">Σ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="6s" begin="1s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="-20" font-size="0.23em">ε <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="3s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="-15" font-size="0.22em">M <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="1s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="-10" font-size="0.21em">K <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="1s" repeatCount="indefinite"/>  </tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">Ω <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="1s" begin="3s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="0" font-size="0.19em">M <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="3s" begin="3s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="5" font-size="0.18em">K <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="6s" begin="1s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="10" font-size="0.17em">δ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="7s" begin="1s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="15" font-size="0.16em">K <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="7s" begin="2s" repeatCount="indefinite"/>  </tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">M <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="5s" begin="1s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="25" font-size="0.14em">Σ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="5s" begin="3s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="30" font-size="0.13em">K <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="6s" begin="3s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="35" font-size="0.12em">U <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="7s" begin="1s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="40" font-size="0.11em">φ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="4s" begin="3s" repeatCount="indefinite"/>  </tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">µ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="6s" begin="3s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">X <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="3s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">Ω <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="3s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">π <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="7s" begin="3s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">Θ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="3s" begin="1s" repeatCount="indefinite"/>  </tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">φ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="3s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">W <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="3s" begin="3s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">δ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">Ω <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="5s" begin="1s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">σ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="5s" begin="2s" repeatCount="indefinite"/>  </tspan>
+
+</text>
+  
+  
+  
+  
+  
+<text  class="textorotado"     style="fill:DeepSkyBlue;"  transform = "rotate(39 100 60)">
+
+  
+ <tspan x="100" y="-30" font-size="0.25em">Θ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="3s" begin="3s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="-25" font-size="0.24em">Θ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="-20" font-size="0.23em">W <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="3s" begin="1s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="-15" font-size="0.22em">π <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="5s" begin="3s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="-10" font-size="0.21em">µ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="6s" begin="1s" repeatCount="indefinite"/>  </tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">M <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="7s" begin="1s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="0" font-size="0.19em">Θ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="7s" begin="1s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="5" font-size="0.18em">J <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="4s" begin="3s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="10" font-size="0.17em">X <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="7s" begin="3s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="15" font-size="0.16em">Σ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="1s" begin="3s" repeatCount="indefinite"/>  </tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">Θ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="7s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="25" font-size="0.14em">φ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="6s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="30" font-size="0.13em">µ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="1s" begin="3s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="35" font-size="0.12em">E <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="4s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="40" font-size="0.11em">ε <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="1s" begin="1s" repeatCount="indefinite"/>  </tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">K <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="3s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em"> <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="6s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">σ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="5s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">α <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="6s" begin="3s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">β <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="4s" begin="1s" repeatCount="indefinite"/>  </tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">K <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="5s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">O <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="1s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">σ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="7s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">A <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="1s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">β <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="3s" begin="1s" repeatCount="indefinite"/>  </tspan>
+  
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(45 100 60)">
+
+ 
+   <tspan x="100" y="-30" font-size="0.25em">Φ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="6s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="-25" font-size="0.24em">I <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="6s" begin="3s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="-20" font-size="0.23em">U <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="1s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="-15" font-size="0.22em">σ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="6s" begin="1s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="-10" font-size="0.21em">I <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="1s" begin="3s" repeatCount="indefinite"/>  </tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">Φ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="5s" begin="3s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="0" font-size="0.19em">Γ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="3s" begin="3s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="5" font-size="0.18em"> <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="1s" begin="1s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="10" font-size="0.17em">Φ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="1s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="15" font-size="0.16em">U <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="4s" begin="1s" repeatCount="indefinite"/>  </tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">Γ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="6s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="25" font-size="0.14em">σ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="5s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="30" font-size="0.13em">Φ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="1s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="35" font-size="0.12em">Θ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="4s" begin="3s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="40" font-size="0.11em">M <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="6s" begin="2s" repeatCount="indefinite"/>  </tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">O <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">Γ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="3s" begin="3s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em"> <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="6s" begin="1s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em"> <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="6s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">E <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="7s" begin="3s" repeatCount="indefinite"/>  </tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">φ <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="6s" begin="1s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">M <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="1s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em"> <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="7s" begin="2s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">A <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="6s" begin="3s" repeatCount="indefinite"/>  </tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">J <animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="5s" begin="3s" repeatCount="indefinite"/>  </tspan>
+  
+  
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(50 100 60)">
+
+  <tspan x="100" y="-30" font-size="0.25em">Ω</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">τ</tspan>
+ <tspan x="100" y="-20" font-size="0.23em">M<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-15" font-size="0.22em">φ</tspan>
+ <tspan x="100" y="-10" font-size="0.21em">µ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="1s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-5" font-size="0.2em">Σ</tspan>
+ <tspan x="100" y="0" font-size="0.19em">σ</tspan>
+ <tspan x="100" y="5" font-size="0.18em">τ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="10" font-size="0.17em">Ω</tspan>
+ <tspan x="100" y="15" font-size="0.16em">O<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="1s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="20" font-size="0.15em">8<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="25" font-size="0.14em">π<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="30" font-size="0.13em">A</tspan>
+ <tspan x="100" y="35" font-size="0.12em">I<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="40" font-size="0.11em">β</tspan>
+ <tspan x="100" y="45" font-size="0.0999999999999999em">Ω</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">τ</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">ε<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="1s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">M<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em"></tspan>
+ <tspan x="100" y="70" font-size="0.0499999999999999em">U</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">Γ</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">8</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">Σ</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">µ</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"   style="fill:DeepSkyBlue;"  transform = "rotate(56 100 60)">
+
+ 
+ <tspan x="100" y="-30" font-size="0.25em">Γ</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">J</tspan>
+ <tspan x="100" y="-20" font-size="0.23em">I<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-15" font-size="0.22em">Θ</tspan>
+ <tspan x="100" y="-10" font-size="0.21em">Γ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="2s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-5" font-size="0.2em">O</tspan>
+ <tspan x="100" y="0" font-size="0.19em">µ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em">τ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="1s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="10" font-size="0.17em">I</tspan>
+ <tspan x="100" y="15" font-size="0.16em">X</tspan>
+ <tspan x="100" y="20" font-size="0.15em"></tspan>
+ <tspan x="100" y="25" font-size="0.14em">Σ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="30" font-size="0.13em">δ</tspan>
+ <tspan x="100" y="35" font-size="0.12em">τ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="1s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="40" font-size="0.11em">Ω</tspan>
+ <tspan x="100" y="45" font-size="0.0999999999999999em">A</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">J<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em"></tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">α<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">δ</tspan>
+ <tspan x="100" y="70" font-size="0.0499999999999999em">τ</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">M<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="1s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">Φ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">α</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">Ω</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"   style="fill:DeepSkyBlue;"  transform = "rotate(61 100 60)">
+
+  
+ <tspan x="100" y="-30" font-size="0.25em">M</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">ε</tspan>
+ <tspan x="100" y="-20" font-size="0.23em">M<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-15" font-size="0.22em">K<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="1s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-10" font-size="0.21em">Φ</tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">J</tspan>
+ <tspan x="100" y="0" font-size="0.19em">µ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em">K</tspan>
+ <tspan x="100" y="10" font-size="0.17em">Θ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="1s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="15" font-size="0.16em">Σ</tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">I</tspan>
+ <tspan x="100" y="25" font-size="0.14em">J<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="30" font-size="0.13em">M</tspan>
+ <tspan x="100" y="35" font-size="0.12em">M<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="1s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="40" font-size="0.11em">O</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">Σ</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">µ</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">Φ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="1s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">I</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">I<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em"></tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">Ω</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">O</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">σ</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">Ω</tspan>
+  
+  
+  
+</text>
+  
+  
+  
+  
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(67 100 60)">
+
+  
+  
+ <tspan x="100" y="-30" font-size="0.25em">K</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">I</tspan>
+ <tspan x="100" y="-20" font-size="0.23em">φ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="1s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-15" font-size="0.22em">Φ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-10" font-size="0.21em"></tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">K</tspan>
+ <tspan x="100" y="0" font-size="0.19em">β<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em">τ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="1s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="10" font-size="0.17em">σ</tspan>
+ <tspan x="100" y="15" font-size="0.16em">Γ</tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">τ</tspan>
+ <tspan x="100" y="25" font-size="0.14em">A<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="30" font-size="0.13em">I<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="1s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="35" font-size="0.12em">ε</tspan>
+ <tspan x="100" y="40" font-size="0.11em">σ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">δ</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">π<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">Θ</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">β</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">I</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">Σ</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">M</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">σ</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">Σ</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">X</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"     style="fill:DeepSkyBlue;"  transform = "rotate(73.125 100 60)">
+
+ 
+ <tspan x="100" y="-30" font-size="0.25em">E</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">β</tspan>
+ <tspan x="100" y="-20" font-size="0.23em">µ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-15" font-size="0.22em">X</tspan>
+ <tspan x="100" y="-10" font-size="0.21em">σ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">K</tspan>
+ <tspan x="100" y="0" font-size="0.19em">Σ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em">Ω</tspan>
+ <tspan x="100" y="10" font-size="0.17em">ε<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="15" font-size="0.16em">E</tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">Θ</tspan>
+ <tspan x="100" y="25" font-size="0.14em">J<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="30" font-size="0.13em">Θ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="35" font-size="0.12em">Γ</tspan>
+ <tspan x="100" y="40" font-size="0.11em">E</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">ε<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">8<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">I</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em"></tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">τ</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">Φ</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">X</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">α</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">A</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">Γ</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"   style="fill:DeepSkyBlue;"  transform = "rotate(78.75 100 60)">
+
+  
+ <tspan x="100" y="-30" font-size="0.25em">Σ</tspan>
+ <tspan x="100" y="-25" font-size="0.24em"></tspan>
+ <tspan x="100" y="-20" font-size="0.23em">M<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-15" font-size="0.22em">X</tspan>
+ <tspan x="100" y="-10" font-size="0.21em">Φ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">I</tspan>
+ <tspan x="100" y="0" font-size="0.19em">I</tspan>
+ <tspan x="100" y="5" font-size="0.18em">Σ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="10" font-size="0.17em">Θ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="15" font-size="0.16em">O</tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">W<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="25" font-size="0.14em">δ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="30" font-size="0.13em">π</tspan>
+ <tspan x="100" y="35" font-size="0.12em">τ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="40" font-size="0.11em">Φ</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">M</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">M<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">Γ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">σ</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">Γ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">K</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">O<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">Σ</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">W</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">J</tspan>
+  
+</text>
+  
+  
+  
+  
+<text  class="textorotado"     style="fill:DeepSkyBlue;"  transform = "rotate(84.375 100 60)">
+
+ <tspan x="100" y="-30" font-size="0.25em">Γ</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">τ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-20" font-size="0.23em">J<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-15" font-size="0.22em">φ</tspan>
+ <tspan x="100" y="-10" font-size="0.21em">O<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">π</tspan>
+ <tspan x="100" y="0" font-size="0.19em">U<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em">U<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="10" font-size="0.17em">J</tspan>
+ <tspan x="100" y="15" font-size="0.16em">8<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">Γ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="25" font-size="0.14em">ε</tspan>
+ <tspan x="100" y="30" font-size="0.13em">I<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="35" font-size="0.12em">W<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="40" font-size="0.11em">A</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">E<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">α</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">I<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">U</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em"></tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">Φ</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">M<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">A</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">δ</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">W</tspan>
+  
+  
+</text>
+  
+  
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(90 100 60)">
+
+ <tspan x="100" y="-30" font-size="0.25em">A</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">U<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-20" font-size="0.23em">δ</tspan>
+ <tspan x="100" y="-15" font-size="0.22em">µ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-10" font-size="0.21em">Σ</tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">τ</tspan>
+ <tspan x="100" y="0" font-size="0.19em">Ω<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em">Φ</tspan>
+ <tspan x="100" y="10" font-size="0.17em">O<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="15" font-size="0.16em">Σ</tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">I</tspan>
+ <tspan x="100" y="25" font-size="0.14em">β<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="30" font-size="0.13em">σ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="35" font-size="0.12em">O</tspan>
+ <tspan x="100" y="40" font-size="0.11em">J<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">X</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">Θ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">δ</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">W<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">α</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">M<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">τ</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">W</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">µ</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">α</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"  style="fill:DeepSkyBlue;"  transform = "rotate(95.625 100 60)">
+
+ <tspan x="100" y="-30" font-size="0.25em">E</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">A<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-20" font-size="0.23em">Σ</tspan>
+ <tspan x="100" y="-15" font-size="0.22em">Ω<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-10" font-size="0.21em">π</tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">O</tspan>
+ <tspan x="100" y="0" font-size="0.19em">X<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em">β<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="10" font-size="0.17em">π</tspan>
+ <tspan x="100" y="15" font-size="0.16em">O<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">π</tspan>
+ <tspan x="100" y="25" font-size="0.14em">M<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="30" font-size="0.13em">σ</tspan>
+ <tspan x="100" y="35" font-size="0.12em">α<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="40" font-size="0.11em">β<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">φ</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">Φ</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">A</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">Ω</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">A</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">U</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">K</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">A</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">O</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">J</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(101.25 100 60)">
+
+ <tspan x="100" y="-30" font-size="0.25em">W</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">K<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-20" font-size="0.23em">W<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="3s" begin="2s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-15" font-size="0.22em">σ</tspan>
+ <tspan x="100" y="-10" font-size="0.21em">X<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="4s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">A</tspan>
+ <tspan x="100" y="0" font-size="0.19em">W<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="2s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em"></tspan>
+ <tspan x="100" y="10" font-size="0.17em">8<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="15" font-size="0.16em">I</tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">τ</tspan>
+ <tspan x="100" y="25" font-size="0.14em">φ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="4s" begin="3s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="30" font-size="0.13em">φ</tspan>
+ <tspan x="100" y="35" font-size="0.12em">α<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="40" font-size="0.11em">U<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">E</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">Γ</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">α</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">Σ</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">Σ</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">Φ</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">Φ</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">β</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">µ</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">M</tspan>
+  
+  
+</text>
+  
+  
+  
+  
+<text  class="textorotado"   style="fill:DeepSkyBlue;"  transform = "rotate(106.875 100 60)">
+
+  
+ <tspan x="100" y="-30" font-size="0.25em">U</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">σ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-20" font-size="0.23em">ε</tspan>
+ <tspan x="100" y="-15" font-size="0.22em">Φ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-10" font-size="0.21em">σ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">δ</tspan>
+ <tspan x="100" y="0" font-size="0.19em">Θ</tspan>
+ <tspan x="100" y="5" font-size="0.18em">U<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="10" font-size="0.17em">α<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="15" font-size="0.16em">K</tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">W</tspan>
+ <tspan x="100" y="25" font-size="0.14em">W<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="30" font-size="0.13em">α<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="35" font-size="0.12em">8</tspan>
+ <tspan x="100" y="40" font-size="0.11em">Σ</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">Θ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">W</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">K</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">U</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">K</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">β</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">τ</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">τ</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">Σ</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">A</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(112.5 100 60)">
+
+ <tspan x="100" y="-30" font-size="0.25em">A</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">E<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-20" font-size="0.23em">ε</tspan>
+ <tspan x="100" y="-15" font-size="0.22em">O<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-10" font-size="0.21em">E</tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">Ω</tspan>
+ <tspan x="100" y="0" font-size="0.19em">σ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em">α<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="10" font-size="0.17em">Γ</tspan>
+ <tspan x="100" y="15" font-size="0.16em">Ω<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">α</tspan>
+ <tspan x="100" y="25" font-size="0.14em">Γ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="30" font-size="0.13em">K<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="35" font-size="0.12em">δ</tspan>
+ <tspan x="100" y="40" font-size="0.11em">δ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">φ</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">E<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">Φ</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">Φ</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">8</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">U</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">τ</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">J</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">I</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">W</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"     style="fill:DeepSkyBlue;"  transform = "rotate(118.125 100 60)">
+
+  
+ <tspan x="100" y="-30" font-size="0.25em">Φ</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">J<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-20" font-size="0.23em">Γ</tspan>
+ <tspan x="100" y="-15" font-size="0.22em">β<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-10" font-size="0.21em">δ</tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">X<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="0" font-size="0.19em">ε<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em">ε</tspan>
+ <tspan x="100" y="10" font-size="0.17em">φ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="15" font-size="0.16em">J<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">δ</tspan>
+ <tspan x="100" y="25" font-size="0.14em">Γ</tspan>
+ <tspan x="100" y="30" font-size="0.13em">K<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="35" font-size="0.12em">X</tspan>
+ <tspan x="100" y="40" font-size="0.11em">ε</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">τ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">Γ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">Θ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">µ</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">µ</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">β</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">τ</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">Θ</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">Γ</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">β</tspan>
+  
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(123.75 100 60)">
+
+ <tspan x="100" y="-30" font-size="0.25em">8</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">τ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-20" font-size="0.23em">X<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-15" font-size="0.22em">φ</tspan>
+ <tspan x="100" y="-10" font-size="0.21em">µ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">φ</tspan>
+ <tspan x="100" y="0" font-size="0.19em">Ω<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em">M</tspan>
+ <tspan x="100" y="10" font-size="0.17em">Σ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="15" font-size="0.16em">π<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">β</tspan>
+ <tspan x="100" y="25" font-size="0.14em">Φ</tspan>
+ <tspan x="100" y="30" font-size="0.13em">Γ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="35" font-size="0.12em">A</tspan>
+ <tspan x="100" y="40" font-size="0.11em">U</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">U</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">φ</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">τ</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">X</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">M</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">M</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">U</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">σ</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">δ</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">I</tspan>
+  
+  
+  
+</text>
+  
+  
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(129.375 100 60)">
+
+ <tspan x="100" y="-30" font-size="0.25em">8</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">Γ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-20" font-size="0.23em">K</tspan>
+ <tspan x="100" y="-15" font-size="0.22em">ε<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-10" font-size="0.21em">τ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">M</tspan>
+ <tspan x="100" y="0" font-size="0.19em"></tspan>
+ <tspan x="100" y="5" font-size="0.18em">A<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="10" font-size="0.17em">I</tspan>
+ <tspan x="100" y="15" font-size="0.16em">I<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">Φ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="25" font-size="0.14em">ε</tspan>
+ <tspan x="100" y="30" font-size="0.13em">τ</tspan>
+ <tspan x="100" y="35" font-size="0.12em">J</tspan>
+ <tspan x="100" y="40" font-size="0.11em">O<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">Φ</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">τ</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">Γ</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">E</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">A</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">X</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">α</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">Φ</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">Σ</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em"></tspan>
+  
+  
+</text>
+  
+  
+<text  class="textorotado"     style="fill:DeepSkyBlue;"  transform = "rotate(135 100 60)">
+
+  
+ <tspan x="100" y="-30" font-size="0.25em">X</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">X</tspan>
+ <tspan x="100" y="-20" font-size="0.23em">β<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-15" font-size="0.22em"></tspan>
+ <tspan x="100" y="-10" font-size="0.21em">Σ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">M</tspan>
+ <tspan x="100" y="0" font-size="0.19em">Ω<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em">π<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="10" font-size="0.17em">8</tspan>
+ <tspan x="100" y="15" font-size="0.16em"></tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">O</tspan>
+ <tspan x="100" y="25" font-size="0.14em">Ω</tspan>
+ <tspan x="100" y="30" font-size="0.13em">K<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="35" font-size="0.12em">φ</tspan>
+ <tspan x="100" y="40" font-size="0.11em">α<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">M</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">Φ</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">Γ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">β</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">8<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">Ω<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">M</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">δ</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">A</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">A</tspan>
+  
+  
+</text>
+  
+  
+<text  class="textorotado"     style="fill:DeepSkyBlue;"  transform = "rotate(140.625 100 60)">
+
+  
+   <tspan x="100" y="-30" font-size="0.25em">ε</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">8<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-20" font-size="0.23em">O<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-15" font-size="0.22em">π</tspan>
+ <tspan x="100" y="-10" font-size="0.21em">δ</tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">ε</tspan>
+ <tspan x="100" y="0" font-size="0.19em">A</tspan>
+ <tspan x="100" y="5" font-size="0.18em">O<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="10" font-size="0.17em">Ω<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="15" font-size="0.16em">Σ</tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">U</tspan>
+ <tspan x="100" y="25" font-size="0.14em">M</tspan>
+ <tspan x="100" y="30" font-size="0.13em">E<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="35" font-size="0.12em">W</tspan>
+ <tspan x="100" y="40" font-size="0.11em">α</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">µ</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">µ</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">E</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">Ω</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">8</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">β</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">J</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">φ</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">W</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">Φ</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(146.25 100 60)">
+
+<tspan x="100" y="-30" font-size="0.25em">δ</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">A<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-20" font-size="0.23em">Γ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-15" font-size="0.22em">ε</tspan>
+ <tspan x="100" y="-10" font-size="0.21em">K</tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">Θ</tspan>
+ <tspan x="100" y="0" font-size="0.19em">K<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em">Θ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="10" font-size="0.17em">K</tspan>
+ <tspan x="100" y="15" font-size="0.16em">Σ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">Γ</tspan>
+ <tspan x="100" y="25" font-size="0.14em">τ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="30" font-size="0.13em">π</tspan>
+ <tspan x="100" y="35" font-size="0.12em">Φ</tspan>
+ <tspan x="100" y="40" font-size="0.11em">τ</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">X</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">ε</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">µ</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">I</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">X</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">U</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">β</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">Φ</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">Ω</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">Θ</tspan>
+  
+  
+</text>
+  
+  
+<text  class="textorotado"     style="fill:DeepSkyBlue;"  transform = "rotate(151.875 100 60)">
+
+  
+ <tspan x="100" y="-30" font-size="0.25em">Σ</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">I</tspan>
+ <tspan x="100" y="-20" font-size="0.23em">µ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-15" font-size="0.22em">α</tspan>
+ <tspan x="100" y="-10" font-size="0.21em">Σ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">I</tspan>
+ <tspan x="100" y="0" font-size="0.19em">Ω</tspan>
+ <tspan x="100" y="5" font-size="0.18em">A<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="10" font-size="0.17em">µ</tspan>
+ <tspan x="100" y="15" font-size="0.16em">Γ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">K</tspan>
+ <tspan x="100" y="25" font-size="0.14em">δ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="30" font-size="0.13em">A</tspan>
+ <tspan x="100" y="35" font-size="0.12em">E</tspan>
+ <tspan x="100" y="40" font-size="0.11em"></tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">δ</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">Σ</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">Σ</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">φ</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">W</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">µ</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">M</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">E</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">π</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">M</tspan>
+  
+</text>
+  
+  
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(157.5 100 60)">
+
+  
+ <tspan x="100" y="-30" font-size="0.25em">δ</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">φ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-20" font-size="0.23em">σ</tspan>
+ <tspan x="100" y="-15" font-size="0.22em">A<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-10" font-size="0.21em">β</tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">σ</tspan>
+ <tspan x="100" y="0" font-size="0.19em">φ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em">µ</tspan>
+ <tspan x="100" y="10" font-size="0.17em">Ω<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="15" font-size="0.16em">µ</tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">8</tspan>
+ <tspan x="100" y="25" font-size="0.14em">J<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="30" font-size="0.13em">E<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="35" font-size="0.12em">I</tspan>
+ <tspan x="100" y="40" font-size="0.11em">8</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">Γ</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em"></tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">φ</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">π</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em"></tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">Θ</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">Φ</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">X</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">A</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">Θ</tspan>
+  
+  
+</text>
+  
+  
+  
+<text  class="textorotado"     style="fill:DeepSkyBlue;"  transform = "rotate(163.125 100 60)">
+
+  
+ <tspan x="100" y="-30" font-size="0.25em">α</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">U<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-20" font-size="0.23em">W</tspan>
+ <tspan x="100" y="-15" font-size="0.22em">Θ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-10" font-size="0.21em">Γ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">τ</tspan>
+ <tspan x="100" y="0" font-size="0.19em">Ω<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em">M<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="10" font-size="0.17em">O</tspan>
+ <tspan x="100" y="15" font-size="0.16em">Σ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">I</tspan>
+ <tspan x="100" y="25" font-size="0.14em"></tspan>
+ <tspan x="100" y="30" font-size="0.13em">K<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="35" font-size="0.12em">8</tspan>
+ <tspan x="100" y="40" font-size="0.11em">δ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">Ω</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">A</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">Θ</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">Φ</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">A</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">A</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">X</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">8</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">X</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">O</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"     style="fill:DeepSkyBlue;"  transform = "rotate(168.75 100 60)">
+
+  
+ <tspan x="100" y="-30" font-size="0.25em">X</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">O</tspan>
+ <tspan x="100" y="-20" font-size="0.23em">I<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-15" font-size="0.22em">I</tspan>
+ <tspan x="100" y="-10" font-size="0.21em">σ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">W</tspan>
+ <tspan x="100" y="0" font-size="0.19em">U</tspan>
+ <tspan x="100" y="5" font-size="0.18em">Ω<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="10" font-size="0.17em">O</tspan>
+ <tspan x="100" y="15" font-size="0.16em">X</tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">A</tspan>
+ <tspan x="100" y="25" font-size="0.14em">τ</tspan>
+ <tspan x="100" y="30" font-size="0.13em">π<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="35" font-size="0.12em">Θ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="40" font-size="0.11em">Σ</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">8</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">α</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">A</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">σ</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">Θ</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">µ</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">Γ</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">U</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">α</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">A</tspan>
+  
+</text>
+  
+  
+<text  class="textorotado"     style="fill:DeepSkyBlue;"  transform = "rotate(174.375 100 60)">
+
+  
+ <tspan x="100" y="-30" font-size="0.25em">U</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">π</tspan>
+ <tspan x="100" y="-20" font-size="0.23em">I<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-15" font-size="0.22em">A</tspan>
+ <tspan x="100" y="-10" font-size="0.21em">O</tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">α</tspan>
+ <tspan x="100" y="0" font-size="0.19em">U<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em">φ</tspan>
+ <tspan x="100" y="10" font-size="0.17em">Σ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="15" font-size="0.16em">Ω</tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">O<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="25" font-size="0.14em">Θ</tspan>
+ <tspan x="100" y="30" font-size="0.13em">φ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="35" font-size="0.12em">I</tspan>
+ <tspan x="100" y="40" font-size="0.11em">α</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">Σ</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">W<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">A</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">E</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">A</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">τ</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">8</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">Γ</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">M</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">Θ</tspan>
+  
+  
+</text>
+  
+  
+  
+<text  class="textorotado"     style="fill:DeepSkyBlue;"  transform = "rotate(180 100 60)">
+
+  
+ <tspan x="100" y="-30" font-size="0.25em">Ω</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">φ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-20" font-size="0.23em">A</tspan>
+ <tspan x="100" y="-15" font-size="0.22em">J<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-10" font-size="0.21em">π</tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">M</tspan>
+ <tspan x="100" y="0" font-size="0.19em">8</tspan>
+ <tspan x="100" y="5" font-size="0.18em">J<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="10" font-size="0.17em">U<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="15" font-size="0.16em">β</tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">I</tspan>
+ <tspan x="100" y="25" font-size="0.14em">K</tspan>
+ <tspan x="100" y="30" font-size="0.13em">J<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="35" font-size="0.12em">M<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="40" font-size="0.11em"></tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">Ω</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">Ω</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">σ</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">Γ</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">τ</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">U</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em"></tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">ε</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">8</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">X</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(185.625 100 60)">
+
+ <tspan x="100" y="-30" font-size="0.25em">µ</tspan>
+ <tspan x="100" y="-25" font-size="0.24em"></tspan>
+ <tspan x="100" y="-20" font-size="0.23em">µ</tspan>
+ <tspan x="100" y="-15" font-size="0.22em">δ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-10" font-size="0.21em">I</tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">Φ</tspan>
+ <tspan x="100" y="0" font-size="0.19em">E<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em">µ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="10" font-size="0.17em">E</tspan>
+ <tspan x="100" y="15" font-size="0.16em"></tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">X</tspan>
+ <tspan x="100" y="25" font-size="0.14em">σ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="30" font-size="0.13em">Γ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="35" font-size="0.12em">X</tspan>
+ <tspan x="100" y="40" font-size="0.11em">K</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">Σ</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">W</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">τ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">O</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">β</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">W</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">A</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">M</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">O</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">O</tspan>
+  
+  
+</text>
+  
+  
+  
+  
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(174.375 100 60)">
+
+  
+ <tspan x="100" y="-30" font-size="0.25em">M</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">δ</tspan>
+ <tspan x="100" y="-20" font-size="0.23em">X<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-15" font-size="0.22em">ε</tspan>
+ <tspan x="100" y="-10" font-size="0.21em">Ω<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">ε</tspan>
+ <tspan x="100" y="0" font-size="0.19em">φ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em">Φ</tspan>
+ <tspan x="100" y="10" font-size="0.17em">σ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="15" font-size="0.16em">τ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">E</tspan>
+ <tspan x="100" y="25" font-size="0.14em">ε<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="30" font-size="0.13em">J</tspan>
+ <tspan x="100" y="35" font-size="0.12em">E<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="40" font-size="0.11em">Θ</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">A</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">K</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">Θ</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">δ</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">δ</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">8</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">ε</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">σ</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">Σ</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">K</tspan>
+  
+  
+</text>
+  
+  
+  
+<text  class="textorotado"     style="fill:DeepSkyBlue;"  transform = "rotate(180 100 60)">
+
+  
+ <tspan x="100" y="-30" font-size="0.25em">I<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-25" font-size="0.24em">σ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-20" font-size="0.23em">Σ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-15" font-size="0.22em">J<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-10" font-size="0.21em">µ</tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">φ</tspan>
+ <tspan x="100" y="0" font-size="0.19em">π<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em">K</tspan>
+ <tspan x="100" y="10" font-size="0.17em">τ</tspan>
+ <tspan x="100" y="15" font-size="0.16em"></tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">A<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="25" font-size="0.14em">φ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="30" font-size="0.13em">µ</tspan>
+ <tspan x="100" y="35" font-size="0.12em">I<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="40" font-size="0.11em">Ω</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">U</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">ε</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">U</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">σ</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">M</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">Φ</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">α</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">α</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">J</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">U</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(185.625 100 60)">
+
+  
+ <tspan x="100" y="-30" font-size="0.25em">π</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">X<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-20" font-size="0.23em">O</tspan>
+ <tspan x="100" y="-15" font-size="0.22em">σ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-10" font-size="0.21em">W</tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">π</tspan>
+ <tspan x="100" y="0" font-size="0.19em">Θ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em">Σ</tspan>
+ <tspan x="100" y="10" font-size="0.17em">Φ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="15" font-size="0.16em">δ</tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">Γ</tspan>
+ <tspan x="100" y="25" font-size="0.14em">Γ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="30" font-size="0.13em">I</tspan>
+ <tspan x="100" y="35" font-size="0.12em">ε<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="40" font-size="0.11em">α</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em"></tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">Φ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">Σ</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">J</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">E</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">σ</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">W</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">A</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em"></tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">W</tspan>
+  
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(191.25 100 60)">
+
+ <tspan x="100" y="-30" font-size="0.25em">O</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">φ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-20" font-size="0.23em">E<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-15" font-size="0.22em">Θ</tspan>
+ <tspan x="100" y="-10" font-size="0.21em">ε<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">W</tspan>
+ <tspan x="100" y="0" font-size="0.19em">φ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em">α</tspan>
+ <tspan x="100" y="10" font-size="0.17em">β<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="15" font-size="0.16em">τ</tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">φ</tspan>
+ <tspan x="100" y="25" font-size="0.14em">U<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="30" font-size="0.13em">σ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="35" font-size="0.12em">α<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="40" font-size="0.11em">ε</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">τ</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">I<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">I</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">M</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em"></tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">W</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">W</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">π</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em"></tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">I</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"     style="fill:DeepSkyBlue;"  transform = "rotate(196.875 100 60)">
+
+ <tspan x="100" y="-30" font-size="0.25em">8</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">E<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-20" font-size="0.23em">A</tspan>
+ <tspan x="100" y="-15" font-size="0.22em">A<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-10" font-size="0.21em">K</tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">8</tspan>
+ <tspan x="100" y="0" font-size="0.19em">β<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em">Θ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="10" font-size="0.17em">I</tspan>
+ <tspan x="100" y="15" font-size="0.16em">K</tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">Ω</tspan>
+ <tspan x="100" y="25" font-size="0.14em">α<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="30" font-size="0.13em">ε</tspan>
+ <tspan x="100" y="35" font-size="0.12em">π<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="40" font-size="0.11em">X</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">µ</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">O<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">φ</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">Γ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">J</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">8</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">τ</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">W</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">K</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">J</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"     style="fill:DeepSkyBlue;"  transform = "rotate(202.5 100 60)">
+
+  
+ <tspan x="100" y="-30" font-size="0.25em">π</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">Φ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-20" font-size="0.23em"></tspan>
+ <tspan x="100" y="-15" font-size="0.22em">µ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-10" font-size="0.21em">π</tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">σ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="0" font-size="0.19em">σ</tspan>
+ <tspan x="100" y="5" font-size="0.18em">A<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="10" font-size="0.17em">φ</tspan>
+ <tspan x="100" y="15" font-size="0.16em">Σ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">K</tspan>
+ <tspan x="100" y="25" font-size="0.14em">α</tspan>
+ <tspan x="100" y="30" font-size="0.13em"></tspan>
+ <tspan x="100" y="35" font-size="0.12em">U<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="40" font-size="0.11em">π</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">J</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">Γ</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em"></tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">J</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">X</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">π</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">π</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">β</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">X</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">O</tspan>
+  
+  
+</text>
+  
+  
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(208.125 100 60)">
+
+ <tspan x="100" y="-30" font-size="0.25em">α</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">Φ</tspan>
+ <tspan x="100" y="-20" font-size="0.23em">µ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-15" font-size="0.22em"></tspan>
+ <tspan x="100" y="-10" font-size="0.21em">τ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">8</tspan>
+ <tspan x="100" y="0" font-size="0.19em">A<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em">µ</tspan>
+ <tspan x="100" y="10" font-size="0.17em">I<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="15" font-size="0.16em">E</tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">Φ</tspan>
+ <tspan x="100" y="25" font-size="0.14em">τ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="30" font-size="0.13em">τ</tspan>
+ <tspan x="100" y="35" font-size="0.12em">M<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="40" font-size="0.11em">Γ</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">τ</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">φ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">O</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">A</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">ε</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">K</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">Γ</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">J</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">J</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">Θ</tspan>
+  
+  
+</text>
+  
+  
+  
+  
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(213.75 100 60)">
+
+ <tspan x="100" y="-30" font-size="0.25em">W</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">β<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-20" font-size="0.23em">O</tspan>
+ <tspan x="100" y="-15" font-size="0.22em">Σ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-10" font-size="0.21em">α</tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">ε</tspan>
+ <tspan x="100" y="0" font-size="0.19em">Φ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em">δ</tspan>
+ <tspan x="100" y="10" font-size="0.17em"></tspan>
+ <tspan x="100" y="15" font-size="0.16em">τ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">Γ</tspan>
+ <tspan x="100" y="25" font-size="0.14em">α<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="30" font-size="0.13em">σ</tspan>
+ <tspan x="100" y="35" font-size="0.12em">Γ</tspan>
+ <tspan x="100" y="40" font-size="0.11em">π<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">σ</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">M</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">K</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">M</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">π</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">W</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">µ</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">W</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">X</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">O</tspan>
+  
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(219.375 100 60)">
+
+  
+ <tspan x="100" y="-30" font-size="0.25em">φ</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">Ω<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-20" font-size="0.23em">A</tspan>
+ <tspan x="100" y="-15" font-size="0.22em">φ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-10" font-size="0.21em">A</tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">Σ</tspan>
+ <tspan x="100" y="0" font-size="0.19em">J<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em">E</tspan>
+ <tspan x="100" y="10" font-size="0.17em">Γ</tspan>
+ <tspan x="100" y="15" font-size="0.16em">τ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">M</tspan>
+ <tspan x="100" y="25" font-size="0.14em">Θ</tspan>
+ <tspan x="100" y="30" font-size="0.13em">π<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="35" font-size="0.12em">K<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="40" font-size="0.11em">X<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">M</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">E<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">A</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">ε</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">α</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">I</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">X</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">M</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">K</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">I</tspan>
+  
+</text>
+  
+  
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(225 100 60)">
+
+  
+ <tspan x="100" y="-30" font-size="0.25em">τ</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">Ω<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-20" font-size="0.23em">Φ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-15" font-size="0.22em">µ</tspan>
+ <tspan x="100" y="-10" font-size="0.21em">K</tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">K<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="0" font-size="0.19em">M</tspan>
+ <tspan x="100" y="5" font-size="0.18em">π<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="10" font-size="0.17em">Φ</tspan>
+ <tspan x="100" y="15" font-size="0.16em">M<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">E</tspan>
+ <tspan x="100" y="25" font-size="0.14em">Ω<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="30" font-size="0.13em">τ</tspan>
+ <tspan x="100" y="35" font-size="0.12em">J<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="40" font-size="0.11em">O</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">W</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">M<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">α</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em"></tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">α</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">Θ</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">σ</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">X</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">W</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">σ</tspan>
+  
+</text>
+  
+  
+  
+  
+  
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(230.625 100 60)">
+
+ <tspan x="100" y="-30" font-size="0.25em">U</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">U<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-20" font-size="0.23em">β</tspan>
+ <tspan x="100" y="-15" font-size="0.22em">α<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-10" font-size="0.21em">α</tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">U</tspan>
+ <tspan x="100" y="0" font-size="0.19em">U<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em">I</tspan>
+ <tspan x="100" y="10" font-size="0.17em">A<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="15" font-size="0.16em">K</tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">Θ</tspan>
+ <tspan x="100" y="25" font-size="0.14em">X<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="30" font-size="0.13em">ε</tspan>
+ <tspan x="100" y="35" font-size="0.12em"></tspan>
+ <tspan x="100" y="40" font-size="0.11em">8<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">σ</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">Γ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">φ</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">ε</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">8</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">τ</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">Γ</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">J</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">π</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">τ</tspan>
+  
+  
+</text>
+  
+  
+  
+  
+<text  class="textorotado"   style="fill:DeepSkyBlue;"  transform = "rotate(236.25 100 60)">
+
+ <tspan x="100" y="-30" font-size="0.25em">A</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">X<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-20" font-size="0.23em">J</tspan>
+ <tspan x="100" y="-15" font-size="0.22em">K<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-10" font-size="0.21em">α<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">M</tspan>
+ <tspan x="100" y="0" font-size="0.19em"></tspan>
+ <tspan x="100" y="5" font-size="0.18em">σ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="10" font-size="0.17em">J</tspan>
+ <tspan x="100" y="15" font-size="0.16em">σ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">Ω</tspan>
+ <tspan x="100" y="25" font-size="0.14em">α<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="30" font-size="0.13em">φ</tspan>
+ <tspan x="100" y="35" font-size="0.12em">σ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="40" font-size="0.11em">α</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">Σ</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">M</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">µ</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">α</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">φ</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">K</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">J</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">8</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">µ</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">I</tspan>
+  
+</text>
+  
+  
+  
+  
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(241.875 100 60)">
+
+  
+ <tspan x="100" y="-30" font-size="0.25em">8</tspan>
+ <tspan x="100" y="-25" font-size="0.24em"></tspan>
+ <tspan x="100" y="-20" font-size="0.23em">I<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-15" font-size="0.22em">E<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-10" font-size="0.21em"></tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">O</tspan>
+ <tspan x="100" y="0" font-size="0.19em">τ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em"></tspan>
+ <tspan x="100" y="10" font-size="0.17em">E</tspan>
+ <tspan x="100" y="15" font-size="0.16em">µ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="20" font-size="0.15em"></tspan>
+ <tspan x="100" y="25" font-size="0.14em">π</tspan>
+ <tspan x="100" y="30" font-size="0.13em">Φ</tspan>
+ <tspan x="100" y="35" font-size="0.12em">J</tspan>
+ <tspan x="100" y="40" font-size="0.11em">Γ</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">Γ</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">Ω</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">Θ</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">φ</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">M</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">Θ</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">K</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">M</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">X</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">Σ</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(247.5 100 60)">
+
+ <tspan x="100" y="-30" font-size="0.25em">I</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">X<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-20" font-size="0.23em">σ</tspan>
+ <tspan x="100" y="-15" font-size="0.22em"></tspan>
+ <tspan x="100" y="-10" font-size="0.21em">Σ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">τ</tspan>
+ <tspan x="100" y="0" font-size="0.19em">ε</tspan>
+ <tspan x="100" y="5" font-size="0.18em">M</tspan>
+ <tspan x="100" y="10" font-size="0.17em">X</tspan>
+ <tspan x="100" y="15" font-size="0.16em">Φ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">E</tspan>
+ <tspan x="100" y="25" font-size="0.14em">O</tspan>
+ <tspan x="100" y="30" font-size="0.13em"></tspan>
+ <tspan x="100" y="35" font-size="0.12em"></tspan>
+ <tspan x="100" y="40" font-size="0.11em">A</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">Ω</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">U</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">Ω</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">I</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">M</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">µ</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">K</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">π</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">U</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">O</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"   style="fill:DeepSkyBlue;"  transform = "rotate(253.125 100 60)">
+
+  
+ <tspan x="100" y="-30" font-size="0.25em">σ</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">X<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-20" font-size="0.23em">φ</tspan>
+ <tspan x="100" y="-15" font-size="0.22em">8</tspan>
+ <tspan x="100" y="-10" font-size="0.21em">Θ</tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">Φ</tspan>
+ <tspan x="100" y="0" font-size="0.19em">α</tspan>
+ <tspan x="100" y="5" font-size="0.18em">J<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="10" font-size="0.17em">X</tspan>
+ <tspan x="100" y="15" font-size="0.16em">α</tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">π</tspan>
+ <tspan x="100" y="25" font-size="0.14em">M</tspan>
+ <tspan x="100" y="30" font-size="0.13em">α</tspan>
+ <tspan x="100" y="35" font-size="0.12em">8</tspan>
+ <tspan x="100" y="40" font-size="0.11em">J</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">Θ</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">Ω</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">Θ</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">Γ</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">U</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">M</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em"></tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">δ</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">8</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">8</tspan>
+  
+  
+</text>
+  
+  
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(258.75 100 60)">
+
+  
+ <tspan x="100" y="-30" font-size="0.25em">δ</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">ε<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-20" font-size="0.23em">µ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-15" font-size="0.22em">E</tspan>
+ <tspan x="100" y="-10" font-size="0.21em">Φ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">J</tspan>
+ <tspan x="100" y="0" font-size="0.19em">8<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em">A</tspan>
+ <tspan x="100" y="10" font-size="0.17em">µ</tspan>
+ <tspan x="100" y="15" font-size="0.16em">δ</tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">K<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="25" font-size="0.14em">φ</tspan>
+ <tspan x="100" y="30" font-size="0.13em">8<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="35" font-size="0.12em">Ω</tspan>
+ <tspan x="100" y="40" font-size="0.11em">M</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">E</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">α<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">τ</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">A</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">O</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">Γ</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">π</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">K</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">E</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">Θ</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(264.375 100 60)">
+
+ <tspan x="100" y="-30" font-size="0.25em">Φ</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">β</tspan>
+ <tspan x="100" y="-20" font-size="0.23em">K<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-15" font-size="0.22em">φ</tspan>
+ <tspan x="100" y="-10" font-size="0.21em">ε</tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">µ</tspan>
+ <tspan x="100" y="0" font-size="0.19em">α<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em">Γ</tspan>
+ <tspan x="100" y="10" font-size="0.17em"></tspan>
+ <tspan x="100" y="15" font-size="0.16em">δ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">A</tspan>
+ <tspan x="100" y="25" font-size="0.14em">A<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="30" font-size="0.13em">K</tspan>
+ <tspan x="100" y="35" font-size="0.12em">M</tspan>
+ <tspan x="100" y="40" font-size="0.11em">ε</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">β</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">Θ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">Φ</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">J</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">µ</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">τ</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">δ</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">Σ</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">Ω</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">φ</tspan>
+  
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(270 100 60)">
+
+  
+ <tspan x="100" y="-30" font-size="0.25em">α</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">Γ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-20" font-size="0.23em">E</tspan>
+ <tspan x="100" y="-15" font-size="0.22em">α<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-10" font-size="0.21em">E</tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">J</tspan>
+ <tspan x="100" y="0" font-size="0.19em">Σ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em">8<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="10" font-size="0.17em"></tspan>
+ <tspan x="100" y="15" font-size="0.16em"></tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">π</tspan>
+ <tspan x="100" y="25" font-size="0.14em">K</tspan>
+ <tspan x="100" y="30" font-size="0.13em">α</tspan>
+ <tspan x="100" y="35" font-size="0.12em">K</tspan>
+ <tspan x="100" y="40" font-size="0.11em">Σ</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">W</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">ε</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">E</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">K</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">Σ</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">σ</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">α</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">Φ</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">A</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">α</tspan>
+  
+  
+</text>
+  
+  
+  
+  
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(275.625 100 60)">
+
+  
+ <tspan x="100" y="-30" font-size="0.25em">M</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">Γ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-20" font-size="0.23em">β</tspan>
+ <tspan x="100" y="-15" font-size="0.22em">X<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-10" font-size="0.21em">A</tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">X</tspan>
+ <tspan x="100" y="0" font-size="0.19em">E<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em">8</tspan>
+ <tspan x="100" y="10" font-size="0.17em">X<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="15" font-size="0.16em">K</tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">ε</tspan>
+ <tspan x="100" y="25" font-size="0.14em">α<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="30" font-size="0.13em">W</tspan>
+ <tspan x="100" y="35" font-size="0.12em">Σ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="40" font-size="0.11em">O</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">σ</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">π</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">σ</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">π</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">J</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">σ</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">π</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">O</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">µ</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">Σ</tspan>
+  
+  
+</text>
+  
+  
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(281.25 100 60)">
+
+ <tspan x="100" y="-30" font-size="0.25em">8</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">J</tspan>
+ <tspan x="100" y="-20" font-size="0.23em">U<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-15" font-size="0.22em">π</tspan>
+ <tspan x="100" y="-10" font-size="0.21em">ε<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">M</tspan>
+ <tspan x="100" y="0" font-size="0.19em">O<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em"></tspan>
+ <tspan x="100" y="10" font-size="0.17em">µ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="15" font-size="0.16em">J</tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">δ</tspan>
+ <tspan x="100" y="25" font-size="0.14em">ε</tspan>
+ <tspan x="100" y="30" font-size="0.13em">U<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="35" font-size="0.12em">Φ</tspan>
+ <tspan x="100" y="40" font-size="0.11em">W</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">Θ</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">ε</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">X</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">σ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">Ω</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">E</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">M</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">J</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">X</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">A</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(286.875 100 60)">
+
+  
+ <tspan x="100" y="-30" font-size="0.25em">M</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">A<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-20" font-size="0.23em">Σ</tspan>
+ <tspan x="100" y="-15" font-size="0.22em">Θ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-10" font-size="0.21em">ε</tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">Θ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="0" font-size="0.19em">τ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em">π</tspan>
+ <tspan x="100" y="10" font-size="0.17em">β<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="15" font-size="0.16em">α<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">Σ</tspan>
+ <tspan x="100" y="25" font-size="0.14em">Θ</tspan>
+ <tspan x="100" y="30" font-size="0.13em">σ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="35" font-size="0.12em">E</tspan>
+ <tspan x="100" y="40" font-size="0.11em">β</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">J</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">X</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">α</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">8</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">µ</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">J</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">W</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">8</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">π</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">A</tspan>
+  
+  
+</text>
+  
+  
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(292.5 100 60)">
+
+  
+ <tspan x="100" y="-30" font-size="0.25em">M<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-25" font-size="0.24em">O</tspan>
+ <tspan x="100" y="-20" font-size="0.23em">K<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-15" font-size="0.22em">Σ</tspan>
+ <tspan x="100" y="-10" font-size="0.21em"></tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em"></tspan>
+ <tspan x="100" y="0" font-size="0.19em">Φ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em"></tspan>
+ <tspan x="100" y="10" font-size="0.17em">I</tspan>
+ <tspan x="100" y="15" font-size="0.16em">K</tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">M</tspan>
+ <tspan x="100" y="25" font-size="0.14em">U<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="30" font-size="0.13em">M</tspan>
+ <tspan x="100" y="35" font-size="0.12em">X</tspan>
+ <tspan x="100" y="40" font-size="0.11em">β</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">Θ</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">τ</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">β</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">8</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">φ</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">δ</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">φ</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">Ω</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">K</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">δ</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(298.125 100 60)">
+
+  
+ <tspan x="100" y="-30" font-size="0.25em">J</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">O</tspan>
+ <tspan x="100" y="-20" font-size="0.23em">E<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-15" font-size="0.22em">µ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-10" font-size="0.21em">W</tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">ε</tspan>
+ <tspan x="100" y="0" font-size="0.19em">φ</tspan>
+ <tspan x="100" y="5" font-size="0.18em">W</tspan>
+ <tspan x="100" y="10" font-size="0.17em">σ</tspan>
+ <tspan x="100" y="15" font-size="0.16em">O<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">8</tspan>
+ <tspan x="100" y="25" font-size="0.14em">W</tspan>
+ <tspan x="100" y="30" font-size="0.13em">ε</tspan>
+ <tspan x="100" y="35" font-size="0.12em">M</tspan>
+ <tspan x="100" y="40" font-size="0.11em">φ</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">Σ</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">M</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">σ</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">J</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">K</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">Θ</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">Θ</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">µ</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">φ</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">O</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(303.75 100 60)">
+
+ <tspan x="100" y="-30" font-size="0.25em">X</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">π</tspan>
+ <tspan x="100" y="-20" font-size="0.23em">ε</tspan>
+ <tspan x="100" y="-15" font-size="0.22em">ε</tspan>
+ <tspan x="100" y="-10" font-size="0.21em">Γ</tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">U</tspan>
+ <tspan x="100" y="0" font-size="0.19em">φ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em">8</tspan>
+ <tspan x="100" y="10" font-size="0.17em"></tspan>
+ <tspan x="100" y="15" font-size="0.16em">8</tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">E</tspan>
+ <tspan x="100" y="25" font-size="0.14em"></tspan>
+ <tspan x="100" y="30" font-size="0.13em">I</tspan>
+ <tspan x="100" y="35" font-size="0.12em">U</tspan>
+ <tspan x="100" y="40" font-size="0.11em">δ</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">τ</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">φ</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">O</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">X</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">W</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">O</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">K</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">E</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">Φ</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em"></tspan>
+  
+  
+</text>
+  
+  
+  
+<text  class="textorotado"     style="fill:DeepSkyBlue;"  transform = "rotate(309.375 100 60)">
+
+ 
+ <tspan x="100" y="-30" font-size="0.25em">E</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">M</tspan>
+ <tspan x="100" y="-20" font-size="0.23em">τ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-15" font-size="0.22em">Ω</tspan>
+ <tspan x="100" y="-10" font-size="0.21em">µ</tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">X</tspan>
+ <tspan x="100" y="0" font-size="0.19em">E<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em">O</tspan>
+ <tspan x="100" y="10" font-size="0.17em">Θ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="15" font-size="0.16em">ε<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">E</tspan>
+ <tspan x="100" y="25" font-size="0.14em">Σ</tspan>
+ <tspan x="100" y="30" font-size="0.13em">M<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="35" font-size="0.12em">W</tspan>
+ <tspan x="100" y="40" font-size="0.11em">A</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">X</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">φ</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">µ</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">A</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">K</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">δ</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">I</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">U</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">A</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">Γ</tspan>
+  
+</text>
+  
+  
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(315 100 60)">
+
+  
+
+<tspan x="100" y="-30" font-size="0.25em">M</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">8<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-20" font-size="0.23em">µ</tspan>
+ <tspan x="100" y="-15" font-size="0.22em">Γ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-10" font-size="0.21em">φ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">M</tspan>
+ <tspan x="100" y="0" font-size="0.19em">8<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em">X<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="10" font-size="0.17em">A</tspan>
+ <tspan x="100" y="15" font-size="0.16em">µ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">π</tspan>
+ <tspan x="100" y="25" font-size="0.14em">ε<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="30" font-size="0.13em">O<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="35" font-size="0.12em">φ</tspan>
+ <tspan x="100" y="40" font-size="0.11em">M</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">σ</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">Θ</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">W</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">ε</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">K</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">β</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">Γ</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">Ω</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">φ</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">µ</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(320.625 100 60)">
+
+  
+  
+ <tspan x="100" y="-30" font-size="0.25em">K</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">τ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-20" font-size="0.23em">O</tspan>
+ <tspan x="100" y="-15" font-size="0.22em">O</tspan>
+ <tspan x="100" y="-10" font-size="0.21em">Ω<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">Φ</tspan>
+ <tspan x="100" y="0" font-size="0.19em">Ω</tspan>
+ <tspan x="100" y="5" font-size="0.18em">π<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="10" font-size="0.17em">α</tspan>
+ <tspan x="100" y="15" font-size="0.16em">Γ</tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">E</tspan>
+ <tspan x="100" y="25" font-size="0.14em">Ω<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="30" font-size="0.13em">µ</tspan>
+ <tspan x="100" y="35" font-size="0.12em">ε<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="40" font-size="0.11em">Ω</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">W</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">O</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">σ</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">α</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">Ω</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">δ</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">E</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">δ</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">K</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">I</tspan>
+  
+</text>
+  
+  
+<text  class="textorotado"  style="fill:DeepSkyBlue;"  transform = "rotate(326.25 100 60)">
+
+  
+ <tspan x="100" y="-30" font-size="0.25em">π</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">π</tspan>
+ <tspan x="100" y="-20" font-size="0.23em">τ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-15" font-size="0.22em">Σ</tspan>
+ <tspan x="100" y="-10" font-size="0.21em">α<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="6s" begin="1s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">Σ</tspan>
+ <tspan x="100" y="0" font-size="0.19em">φ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em">O<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="10" font-size="0.17em">W</tspan>
+ <tspan x="100" y="15" font-size="0.16em">Γ</tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">τ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="7s" begin="3s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="25" font-size="0.14em">δ</tspan>
+ <tspan x="100" y="30" font-size="0.13em">O</tspan>
+ <tspan x="100" y="35" font-size="0.12em">J<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="40" font-size="0.11em">π</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">Ω</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">τ</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">Θ</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">ε</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">O</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">E</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">W</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">Θ</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">X</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">δ</tspan>
+  
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(331.875 100 60)">
+
+  
+ <tspan x="100" y="-30" font-size="0.25em">Ω</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">δ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="1s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-20" font-size="0.23em">W</tspan>
+ <tspan x="100" y="-15" font-size="0.22em">Φ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="5s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-10" font-size="0.21em">β</tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">A</tspan>
+ <tspan x="100" y="0" font-size="0.19em">M</tspan>
+ <tspan x="100" y="5" font-size="0.18em">τ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="4s" begin="2s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="10" font-size="0.17em"></tspan>
+ <tspan x="100" y="15" font-size="0.16em">W<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="3s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">µ</tspan>
+ <tspan x="100" y="25" font-size="0.14em">φ</tspan>
+ <tspan x="100" y="30" font-size="0.13em">δ</tspan>
+ <tspan x="100" y="35" font-size="0.12em">Θ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="40" font-size="0.11em">β</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">τ</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">α</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">Γ</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">X</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">Σ</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">Φ</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">Ω</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">M</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">µ</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">A</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(337.5 100 60)">
+
+  
+ <tspan x="100" y="-30" font-size="0.25em">I</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">8<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-20" font-size="0.23em">8</tspan>
+ <tspan x="100" y="-15" font-size="0.22em">α<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="5s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-10" font-size="0.21em">J<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">K</tspan>
+ <tspan x="100" y="0" font-size="0.19em">δ</tspan>
+ <tspan x="100" y="5" font-size="0.18em">Θ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="4s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="10" font-size="0.17em">µ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="15" font-size="0.16em">δ</tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">β</tspan>
+ <tspan x="100" y="25" font-size="0.14em">W<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="3s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="30" font-size="0.13em">σ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="35" font-size="0.12em">Γ</tspan>
+ <tspan x="100" y="40" font-size="0.11em">Σ</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">W</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">J</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">σ</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">µ</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">β</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">ε</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">Ω</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">φ</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">Ω</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">δ</tspan>
+  
+</text>
+  
+  
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(343.125 100 60)">
+
+  
+ <tspan x="100" y="-30" font-size="0.25em">σ</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">τ</tspan>
+ <tspan x="100" y="-20" font-size="0.23em">Θ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="9s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-15" font-size="0.22em">δ</tspan>
+ <tspan x="100" y="-10" font-size="0.21em">A<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="7s" begin="1s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">A</tspan>
+ <tspan x="100" y="0" font-size="0.19em">M<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em">α</tspan>
+ <tspan x="100" y="10" font-size="0.17em">δ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="9s" begin="5s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="15" font-size="0.16em">φ</tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">π</tspan>
+ <tspan x="100" y="25" font-size="0.14em">O<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="7s" begin="7s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="30" font-size="0.13em">E<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="4s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="35" font-size="0.12em">π</tspan>
+ <tspan x="100" y="40" font-size="0.11em">Φ</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">β</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">K</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">τ</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">K</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">τ</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">I</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">X</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">O</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">ε</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em"></tspan>
+  
+
+  
+</text>
+  
+
+<text  class="textorotado"     style="fill:DeepSkyBlue;"  transform = "rotate(348.75 100 60)">
+
+  
+ <tspan x="100" y="-30" font-size="0.25em">Θ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-25" font-size="0.24em">X<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="3s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-20" font-size="0.23em">β<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-15" font-size="0.22em">σ</tspan>
+ <tspan x="100" y="-10" font-size="0.21em">β<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="2s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">φ</tspan>
+ <tspan x="100" y="0" font-size="0.19em">A</tspan>
+ <tspan x="100" y="5" font-size="0.18em">A<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="1s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="10" font-size="0.17em">σ</tspan>
+ <tspan x="100" y="15" font-size="0.16em">Γ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">µ</tspan>
+ <tspan x="100" y="25" font-size="0.14em">W</tspan>
+ <tspan x="100" y="30" font-size="0.13em">A<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="5s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="35" font-size="0.12em">π</tspan>
+ <tspan x="100" y="40" font-size="0.11em">8</tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">Θ</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">Φ</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">X</tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">α</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">O</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">β</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">O</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">π</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">π</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">K</tspan>
+  
+</text>
+  
+  
+<text  class="textorotado"    style="fill:DeepSkyBlue;"  transform = "rotate(354.375 100 60)">
+
+  
+  
+ <tspan x="100" y="-30" font-size="0.25em">Ω</tspan>
+ <tspan x="100" y="-25" font-size="0.24em">U</tspan>
+ <tspan x="100" y="-20" font-size="0.23em">Σ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="2s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="-15" font-size="0.22em">I</tspan>
+ <tspan x="100" y="-10" font-size="0.21em">M</tspan>
+
+ <tspan x="100" y="-5" font-size="0.2em">W<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="0" font-size="0.19em">α<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="2s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="5" font-size="0.18em">π</tspan>
+ <tspan x="100" y="10" font-size="0.17em">Φ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="15" font-size="0.16em">J<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="3s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="20" font-size="0.15em">Σ</tspan>
+ <tspan x="100" y="25" font-size="0.14em"></tspan>
+ <tspan x="100" y="30" font-size="0.13em">φ<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="35" font-size="0.12em">X</tspan>
+ <tspan x="100" y="40" font-size="0.11em">I<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="2s" repeatCount="indefinite"/></tspan>
+
+ <tspan x="100" y="45" font-size="0.0999999999999999em">Σ</tspan>
+ <tspan x="100" y="50" font-size="0.0899999999999999em">K</tspan>
+ <tspan x="100" y="55" font-size="0.0799999999999999em">A<animate attributeType="CSS" attributeName="opacity" from="1" to="0" dur="2s" begin="4s" repeatCount="indefinite"/></tspan>
+ <tspan x="100" y="60" font-size="0.0699999999999999em">X</tspan>
+ <tspan x="100" y="65" font-size="0.0599999999999999em">µ</tspan>
+
+ <tspan x="100" y="70" font-size="0.0499999999999999em">τ</tspan>
+ <tspan x="100" y="75" font-size="0.0399999999999999em">φ</tspan>
+ <tspan x="100" y="80" font-size="0.0299999999999999em">E</tspan>
+ <tspan x="100" y="85" font-size="0.0199999999999999em">π</tspan>
+ <tspan x="100" y="90" font-size="0.00999999999999991em">σ</tspan>
+  
+</text>
+  
+  
+  <!--
+   <animate attributeName="viewBox" begin="0s" dur="4s"
+
+           values="20 6 100 65; 0 0 200 130" fill="freeze" />
+  
+-->
+</svg>

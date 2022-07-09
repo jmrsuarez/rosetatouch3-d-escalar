@@ -1,0 +1,2946 @@
+<html>
+  
+<head>
+  <link rel="stylesheet" href="./css/constelaciondepalabras.css">
+  </head>
+<body>
+
+<!--
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+-->
+<script src="./js/angular.min.js"></script>
+
+  
+<a href="./activarroseta.html" style="display:block;">
+
+
+<svg id="svg" style="background-color:green" Height="400px">
+</svg>
+
+<div class="btn" >  
+</div> 
+</a>
+
+<div ng-app="myApp" ng-controller="myCtrl"  ng-init="verbopre=[]" class="geeks">
+
+    
+  <span id="constelacion">
+
+  <h1 style="font-size:1.2em">
+  CONSTELACIÓN {{ numpoema }}
+  </h1>
+  
+  <p>
+<span style="font-size:1.4em;">
+  {{ verbopret }} 
+</span>
+
+  <span class="geeksi">
+  {{ sustantivo }} 
+  </span>
+  
+  <span class="geeksa">
+  {{ angulo_fraseo }} 
+  
+  </span>
+  
+  <span class="geeksb">
+  {{ colcuatro }} 
+  </span>
+  
+  <span class="geeksc">
+  {{ colcinco }} 
+  </span>
+  
+  <span class="geeksd">
+  {{ colsiete }}
+  </span>
+
+</span>  
+
+<!--Note: Use the <br> tag to enter line breaks, not to add space between paragraphs.
+-->
+  <br>
+    
+  <br>
+    
+  <br>
+    
+    
+  <br>
+    
+    <!-- 
+{{ cuantas }}
+    -->
+<span class="geekgran">   
+<span id="sic01" >{{ silaba1 }}</span><span id="sic02">{{ silaba2 }}</span><span id="sic03">{{ silaba3 }}</span><span id="sic04">{{ silaba4 }}</span><span id="sic05">{{ silaba5 }}</span><span id="sic06">{{ silaba6 }}</span><span id="sic07" >{{ silaba7 }}</span><span id="sic08">{{ silaba8 }}</span><span id="sic09">{{ silaba9 }}</span><span id="sic10">{{ silaba10 }}</span><span id="sic11">{{ silaba11 }}</span><span id="sic12">{{ silaba12 }}</span>
+
+<span id="sic13" >{{ silaba13 }}</span><span id="sic14">{{ silaba14 }}</span><span id="sic15">{{ silaba15 }}</span><span id="sic16">{{ silaba16 }}</span><span id="sic17">{{ silaba17 }}</span><span id="sic18">{{ silaba18 }}</span>  
+   
+</span>
+</p>    
+
+<br>
+  
+</div>
+
+<script>
+
+/* Para la muerte el poeta no existe, Jaime Sabines*/
+
+function getParameterByName(name, url) {
+        if (!url) url = window.location.href;
+        name = name.replace(/[\[\]]/g, '\\$&');
+        var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+            results = regex.exec(url);
+        if (!results) return null;
+        if (!results[2]) return '';
+        return decodeURIComponent(results[2].replace(/\+/g, ' '));
+    }
+
+  
+function muestrapalabra() {
+if (numestrellas >0) { 
+document.getElementById("sic01").style.display= 'inline';
+document.getElementById("constelacion").style.display= 'inline';
+
+}  
+if (numestrellas >1) { 
+document.getElementById("sic02").style.display= 'inline';
+}  
+
+if (numestrellas >2) { 
+document.getElementById("sic03").style.display= 'inline';
+}  
+  
+if (numestrellas >3) { 
+document.getElementById("sic04").style.display= 'inline';
+}    
+  
+if (numestrellas >4) { 
+document.getElementById("sic05").style.display= 'inline';
+}    
+
+if (numestrellas >5) { 
+document.getElementById("sic06").style.display= 'inline';
+}    
+
+if (numestrellas >6) { 
+document.getElementById("sic07").style.display= 'inline';
+}  
+if (numestrellas >7) { 
+document.getElementById("sic08").style.display= 'inline';
+}  
+
+if (numestrellas >8) { 
+document.getElementById("sic09").style.display= 'inline';
+}  
+  
+if (numestrellas >9) { 
+document.getElementById("sic10").style.display= 'inline';
+}    
+  
+if (numestrellas >10) { 
+document.getElementById("sic11").style.display= 'inline';
+}    
+
+if (numestrellas >11) { 
+document.getElementById("sic12").style.display= 'inline';
+}    
+  
+if (numestrellas >12) { 
+document.getElementById("sic13").style.display= 'inline';
+}  
+if (numestrellas >13) { 
+document.getElementById("sic14").style.display= 'inline';
+}  
+
+if (numestrellas >14) { 
+document.getElementById("sic15").style.display= 'inline';
+}  
+  
+if (numestrellas >15) { 
+document.getElementById("sic16").style.display= 'inline';
+}    
+  
+if (numestrellas >16) { 
+document.getElementById("sic17").style.display= 'inline';
+}    
+
+if (numestrellas >17) { 
+document.getElementById("sic18").style.display= 'inline';
+}    
+  
+}
+
+var numpoema =  Math.random()*(900-0)+0;
+var app = angular.module('myApp', []);
+var numestrellas =getParameterByName('estrellas'); 
+var starpath = getParameterByName('camino'); 
+
+alert(starpath);
+
+muestrapalabra();
+  
+var silabas=[
+"a",
+"ab",
+"abs",
+"ad",
+"ads",
+"ah",
+"ahí",
+"ai",
+"ain",
+"ais",
+"aiz",
+"al",
+"am",
+"an",
+"ar",
+"at",
+"au",
+"aun",
+"aus",
+"az",
+"ba",
+"bab",
+"bac",
+"bad",
+"bai",
+"bais" ,
+"baj" ,
+"bam" ,
+"bal" ,
+"ban" ,
+"bap" ,
+"bar" ,
+"bas" ,
+"bau" ,
+"bax" ,
+"bay" ,
+"be" ,
+"beb" ,
+"bec" ,
+"bei" ,
+"beis" ,
+"bem" ,
+"bed" ,
+"bel" ,
+"ben" ,
+"ber" ,
+"beu" ,
+"biam" ,
+"bes" ,
+"bi" ,
+"bia" ,
+"biad" ,
+"bial" ,
+"bian" ,
+"biar" ,
+"bias" ,
+"bic" ,
+"bid" ,
+"bie" ,
+"biel" ,
+"bien" ,
+"bier" ,
+"bies" ,
+"bik" ,
+"biom" ,
+"bion" ,
+"bio" ,
+"bis" ,
+"bla" ,
+"blad" ,
+"blan" ,
+"blar" ,
+"blas" ,
+"ble" ,
+"blen" ,
+"bles" ,
+"bli" ,
+"blia" ,
+"blie" ,
+"blin" ,
+"blio" ,
+"blo" ,
+"bo" ,
+"bom" ,
+"bor" ,
+"bra" ,
+"brad" ,
+"bran" ,
+"brar" ,
+"bras" ,
+"bre" ,
+"brean" ,
+"bren" ,
+"bres" ,
+"bri" ,
+"brian" ,
+"brias" ,
+"brie" ,
+"brin" ,
+"brio" ,
+"briz" ,
+"broz" ,
+"brir" ,
+"bro" ,
+"bron" ,
+"bros" ,
+"bru" ,
+"bu" ,
+"bue" ,
+"buen" ,
+"bui" ,
+"bul" ,
+"bur" ,
+"bus" ,
+"brus" ,
+"bue" ,
+"buey" ,
+"brup" ,
+"bua" ,
+"bui" ,
+"bu" ,
+"ca" ,
+"car" ,
+"cai" ,
+"cal" ,
+"can" ,
+"cau" ,
+"cas" ,
+"cie" ,
+"ce" ,
+"cel" ,
+"chau" ,
+"che" ,
+"chi" ,
+"ci" ,
+"cian" ,
+"cias" ,
+"cla" ,
+"clau" ,
+"cli" ,
+"clue" ,
+"con" ,
+"clo" ,
+"cri" ,
+"cha" ,
+"chan" ,
+"char" ,
+"chas" ,
+"che" ,
+"chen" ,
+"ches" ,
+"chi" ,
+"chis" ,
+"cho" ,
+"chos" ,
+"chu" ,
+"da" ,
+"cru" ,
+"cruel" ,
+"cruen" ,
+"cruz" ,
+"cuer" ,
+"cues" ,
+"cui" ,
+"cuo" ,
+"dau" ,
+"dad" ,
+"dan" ,
+"dar" ,
+"das" ,
+"de" ,
+"del" ,
+"den" ,
+"der" ,
+"des" ,
+"dez" ,
+"di" ,
+"dia" ,
+"dos" ,
+"dial" ,
+"dian" ,
+"diar" ,
+"dias" ,
+"did" ,
+"die" ,
+"dien" ,
+"dies" ,
+"diez" ,
+"dio" ,
+"dial" ,
+"dic" ,
+"diur" ,
+"doy" ,
+"dir" ,
+"dis" ,
+"do" ,
+"doi" ,
+"don" ,
+"dop" ,
+"dor" ,
+"dos" ,
+"du" ,
+"dra" ,
+"clon" ,
+"dran" ,
+"drar" ,
+"dras" ,
+"dre" ,
+"dren" ,
+"dres" ,
+"dria" ,
+"drian" ,
+"dual" ,
+"dron" ,
+"dru" ,
+"du" ,
+"dua" ,
+"duad" ,
+"duan" ,
+"duar" ,
+"duas" ,
+"due" ,
+"duen" ,
+"duer" ,
+"dues" ,
+"duc" ,
+"dum" ,
+"duo" ,
+"duz" ,
+"e" ,
+"ez" ,
+"ec" ,
+"ex" ,
+"el" ,
+"em" ,
+"en" ,
+"er" ,
+"es" ,
+"fa" ,
+"fic" ,
+"fac" ,
+"fal" ,
+"fan" ,
+"far" ,
+"fas" ,
+"fe" ,
+"fec" ,
+"fen" ,
+"fer" ,
+"fes" ,
+"fi" ,
+"fia" ,
+"fian" ,
+"fiar" ,
+"fias" ,
+"fie" ,
+"fies" ,
+"fil" ,
+"fin" ,
+"fir" ,
+"fis" ,
+"fla" ,
+"flec" ,
+"flic" ,
+"flo" ,
+"flu" ,
+"fluen" ,
+"flui" ,
+"fluia" ,
+"fluir" ,
+"fluis" ,
+"fo" ,
+"fon" ,
+"for" ,
+"fra" ,
+"fran" ,
+"fras" ,
+"fre" ,
+"fren" ,
+"fres" ,
+"fri" ,
+"fria" ,
+"frian" ,
+"frias" ,
+"frie" ,
+"frien" ,
+"fries" ,
+"fron" ,
+"fu" ,
+"fue" ,
+"fuen" ,
+"fuer" ,
+"fui" ,
+"fuis" ,
+"fun" ,
+"ga" ,
+"gal" ,
+"gan" ,
+"gar" ,
+"gas" ,
+"gue" ,
+"gen" ,
+"gue" ,
+"gues" ,
+"gui" ,
+"guia" ,
+"guiar" ,
+"guias" ,
+"guie" ,
+"guien" ,
+"gil" ,
+"gir" ,
+"gis" ,
+"gla" ,
+"glan" ,
+"glar" ,
+"glas" ,
+"gle" ,
+"glen" ,
+"gles" ,
+"glo" ,
+"go" ,
+"gol" ,
+"gon" ,
+"gor" ,
+"gos" ,
+"gra" ,
+"gran" ,
+"grar" ,
+"gras" ,
+"gre" ,
+"gren" ,
+"gres" ,
+"gri" ,
+"gris" ,
+"gro" ,
+"gros" ,
+"gru" ,
+"gu" ,
+"gua" ,
+"guad" ,
+"gual" ,
+"guan" ,
+"guar" ,
+"guas" ,
+"güe" ,
+"güen" ,
+"cons" ,
+"güi" ,
+"gun" ,
+"guo" ,
+"gus" ,
+"i" ,
+"ia" ,
+"ian" ,
+"ias" ,
+"id" ,
+"hie" ,
+"hier" ,
+"im" ,
+"in" ,
+"ins" ,
+"ir" ,
+"is" ,
+"iz" ,
+"ja" ,
+"jac" ,
+"jal" ,
+"jan" ,
+"jar" ,
+"jas" ,
+"jaz" ,
+"ge" ,
+"jem" ,
+"gen" ,
+"jer" ,
+"ges" ,
+"gi" ,
+"gia" ,
+"gian" ,
+"giar" ,
+"jias" ,
+"gie" ,
+"gir" ,
+"gis" ,
+"jo" ,
+"jon" ,
+"jor" ,
+"jos" ,
+"ju" ,
+"juez" ,
+"jun" ,
+"jus" ,
+"juz" ,
+"quen" ,
+"ques" ,
+"que" ,
+"qui" ,
+"quiar" ,
+"quie" ,
+"quier" ,
+"quin" ,
+"cor" ,
+"cot" ,
+"cra" ,
+"cre" ,
+"cres" ,
+"crez" ,
+"cri" ,
+"queer" ,
+"cro" ,
+"cru" ,
+"cu" ,
+"cua" ,
+"cual" ,
+"cuan" ,
+"cuar" ,
+"cuas" ,
+"cue" ,
+"cul" ,
+"cum" ,
+"cun" ,
+"cuns" ,
+"cuo" ,
+"cur" ,
+"la" ,
+"lan" ,
+"lar" ,
+"las" ,
+"le" ,
+"lea" ,
+"lean" ,
+"lear" ,
+"leas" ,
+"lec" ,
+"len" ,
+"ler" ,
+"les" ,
+"lez" ,
+"li" ,
+"lia" ,
+"lian" ,
+"liar" ,
+"lias" ,
+"lie" ,
+"lien" ,
+"lies" ,
+"lim" ,
+"lin" ,
+"lir" ,
+"lis" ,
+"lla" ,
+"llad" ,
+"llan" ,
+"llar" ,
+"llas" ,
+"lle" ,
+"llen" ,
+"lles" ,
+"lli" ,
+"llo" ,
+"llon" ,
+"llos" ,
+"lo" ,
+"lom" ,
+"lon" ,
+"lor" ,
+"los" ,
+"lu" ,
+"lua" ,
+"luar" ,
+"lud" ,
+"lue" ,
+"lum" ,
+"lun" ,
+"lus" ,
+"lus" ,
+"ma" ,
+"mac" ,
+"mal" ,
+"man" ,
+"mar" ,
+"mas" ,
+"me" ,
+"mea" ,
+"mean" ,
+"mear" ,
+"meas" ,
+"med" ,
+"mex" ,
+"men" ,
+"mer" ,
+"mes" ,
+"mez" ,
+"mi" ,
+"mia" ,
+"mian" ,
+"mias" ,
+"mid" ,
+"mie" ,
+"miem" ,
+"mien" ,
+"mier" ,
+"mil" ,
+"min" ,
+"mir" ,
+"mis" ,
+"miz" ,
+"mo" ,
+"mon" ,
+"mor" ,
+"mos" ,
+"mu" ,
+"mue" ,
+"muer" ,
+"mues" ,
+"mui" ,
+"mul" ,
+"mun" ,
+"na" ,
+"nad" ,
+"nal" ,
+"nan" ,
+"nar" ,
+"nas" ,
+"naz" ,
+"ne" ,
+"nea" ,
+"neas" ,
+"ned" ,
+"nen" ,
+"ner" ,
+"nes" ,
+"net" ,
+"nez" ,
+"ni" ,
+"nia" ,
+"nian" ,
+"nias" ,
+"nid" ,
+"nie" ,
+"nien" ,
+"nin" ,
+"nir" ,
+"nis" ,
+"nn" ,
+"no" ,
+"nom" ,
+"nor" ,
+"nos" ,
+"noz" ,
+"nu" ,
+"nua" ,
+"nuad" ,
+"nuan" ,
+"nuar" ,
+"nuas" ,
+"nue" ,
+"nuen" ,
+"nues" ,
+"nui" ,
+"nuia" ,
+"nuian" ,
+"nuias" ,
+"nuid" ,
+"nuir" ,
+"nuis" ,
+"nun" ,
+"nuo" ,
+"ña" ,
+"ñan" ,
+"ñar" ,
+"ñas" ,
+"ñe" ,
+"ñen" ,
+"ñes" ,
+"ñi" ,
+"ñia" ,
+"ñias" ,
+"ñir" ,
+"ñis" ,
+"ño" ,
+"ñol" ,
+"ñor" ,
+"ños" ,
+"o" ,
+"ob" ,
+"oi" ,
+"oia" ,
+"oian" ,
+"oias" ,
+"oid" ,
+"oim" ,
+"oir" ,
+"ois" ,
+"oc" ,
+"ol" ,
+"on" ,
+"op" ,
+"or" ,
+"os" ,
+"pa" ,
+"pad" ,
+"pac" ,
+"pal" ,
+"pan" ,
+"par" ,
+"pas" ,
+"paz" ,
+"pe" ,
+"pea" ,
+"pec" ,
+"pel" ,
+"pen" ,
+"per" ,
+"pers" ,
+"pes" ,
+"pez" ,
+"pi" ,
+"pia" ,
+"piad" ,
+"pian" ,
+"piar" ,
+"pias" ,
+"pie" ,
+"pien" ,
+"pier" ,
+"pies" ,
+"pin" ,
+"pis" ,
+"pla" ,
+"plan" ,
+"plas" ,
+"ple" ,
+"plea" ,
+"plean" ,
+"plear" ,
+"pleas" ,
+"plen" ,
+"ples" ,
+"pli" ,
+"plia" ,
+"plian" ,
+"plias" ,
+"plie" ,
+"plien" ,
+"plir" ,
+"plis" ,
+"plo" ,
+"plus" ,
+"po" ,
+"pon" ,
+"por" ,
+"pos" ,
+"pra" ,
+"prac" ,
+"pran" ,
+"prar" ,
+"pras" ,
+"pre" ,
+"pren" ,
+"prer" ,
+"pres" ,
+"pri" ,
+"prie" ,
+"prin" ,
+"pro" ,
+"proe" ,
+"proi" ,
+"prox" ,
+"pru" ,
+"prue" ,
+"pu" ,
+"pue" ,
+"puer" ,
+"pues" ,
+"pul" ,
+"pun" ,
+"pur" ,
+"pus" ,
+"ra" ,
+"ral" ,
+"ran" ,
+"rar" ,
+"ras" ,
+"raz" ,
+"re" ,
+"rea" ,
+"reas" ,
+"red" ,
+"rec" ,
+"ren" ,
+"res" ,
+"rez" ,
+"ri" ,
+"ria" ,
+"riad" ,
+"rial" ,
+"rian" ,
+"riar" ,
+"rias" ,
+"rid" ,
+"rie" ,
+"rien" ,
+"ries" ,
+"rins" ,
+"rir" ,
+"ris" ,
+"ro" ,
+"roa" ,
+"roe" ,
+"ron" ,
+"ros" ,
+"rra" ,
+"rrad" ,
+"rran" ,
+"rrar" ,
+"rras" ,
+"rre" ,
+"rrea" ,
+"reac" ,
+"ria" ,
+"rriar" ,
+"rias" ,
+"rriera" ,
+"rrien" ,
+"ries" ,
+"rin" ,
+"rrir" ,
+"rrir" ,
+"rro" ,
+"rrom" ,
+"rru" ,
+"rrue" ,
+"ru" ,
+"run" ,
+"sa" ,
+"sad" ,
+"sac" ,
+"sal" ,
+"san" ,
+"sar" ,
+"sas" ,
+"saz" ,
+"se" ,
+"sea" ,
+"sead" ,
+"sean" ,
+"sear" ,
+"seas" ,
+"sed" ,
+"sec" ,
+"sem" ,
+"sen" ,
+"sep" ,
+"ser" ,
+"ses" ,
+"si" ,
+"sia" ,
+"sian" ,
+"sias" ,
+"sie" ,
+"siem" ,
+"sien" ,
+"sig" ,
+"sil" ,
+"sim" ,
+"sin" ,
+"sir" ,
+"sis" ,
+"so" ,
+"soi" ,
+"sol" ,
+"son" ,
+"sor" ,
+"sos" ,
+"ss" ,
+"su" ,
+"sua" ,
+"sual" ,
+"sub" ,
+"sul" ,
+"sun" ,
+"sur" ,
+"sus" ,
+"ta" ,
+"tad" ,
+"tal" ,
+"tam" ,
+"tan" ,
+"tar" ,
+"tas" ,
+"te" ,
+"tea" ,
+"tean" ,
+"tear" ,
+"teas" ,
+"ted" ,
+"tec" ,
+"tex" ,
+"tem" ,
+"ten" ,
+"ter" ,
+"tes" ,
+"ti" ,
+"tia" ,
+"tial" ,
+"tian" ,
+"tias" ,
+"tie" ,
+"tiem" ,
+"tien" ,
+"tin" ,
+"tir" ,
+"tis" ,
+"tlan" ,
+"to" ,
+"toi" ,
+"ton" ,
+"tor" ,
+"tos" ,
+"tra" ,
+"tral" ,
+"tram" ,
+"tran" ,
+"trans" ,
+"trar" ,
+"tras" ,
+"tre" ,
+"tren" ,
+"tres" ,
+"tri" ,
+"tro" ,
+"trol" ,
+"tros" ,
+"tros" ,
+"tru" ,
+"trui" ,
+"truia" ,
+"truian" ,
+"truias" ,
+"truid" ,
+"truir" ,
+"truis" ,
+"truc" ,
+"tu" ,
+"tua" ,
+"tuad" ,
+"tual" ,
+"tuan" ,
+"tuar" ,
+"tuas" ,
+"tud" ,
+"tue" ,
+"tuen" ,
+"tuer" ,
+"tues" ,
+"tui" ,
+"tuia" ,
+"tuian" ,
+"tuias" ,
+"tuid" ,
+"tuir" ,
+"tuis" ,
+"tum" ,
+"tun" ,
+"tuo" ,
+"tur" ,
+"tus" ,
+"u" ,
+"web" ,
+"hues" ,
+"uia" ,
+"uian" ,
+"uias" ,
+"uid" ,
+"win" ,
+"uir" ,
+"uis" ,
+"ul" ,
+"um" ,
+"un" ,
+"ur" ,
+"us" ,
+"xa" ,
+"qi" ,
+"ha" ,
+"he" ,
+"han" ,
+"gi" ,
+"hue" ,
+"llu" ,
+"ya" ,
+"yan" ,
+"yar" ,
+"yas" ,
+"ye" ,
+"yec" ,
+"yen" ,
+"yer" ,
+"yes" ,
+"llan" ,
+"yo" ,
+"yor" ,
+"llen" ,
+"yun" ,
+"za" ,
+"zam" ,
+"zan" ,
+"zar" ,
+"zas" ,
+"ze" ,
+"zea" ,
+"sed" ,
+"zean" ,
+"zear" ,
+"zeas" ,
+"ced" ,
+"zen" ,
+"zep" ,
+"cer" ,
+"ces" ,
+"ci" ,
+"cia" ,
+"cial" ,
+"ciar" ,
+"cias" ,
+"cie" ,
+"ciem" ,
+"cien" ,
+"zies" ,
+"cin",
+"cir",
+"cis",
+"cit",
+"zo",
+"zon",
+"zos" 
+];
+
+/* dado cargado inicia */
+
+function dadocargado() {
+
+var dcresponde="";
+let silabario = [
+
+ { "silaba" : "nir", "porcentaje" : 0.03  ,"pc":0.03},
+ { "silaba" : "nuad", "porcentaje" : 0.03  ,"pc":0.06},
+ { "silaba" : "o", "porcentaje" : 0.03  ,"pc":0.09},
+ { "silaba" : "pan", "porcentaje" : 0.03  ,"pc":0.12},
+ { "silaba" : "pel", "porcentaje" : 0.03  ,"pc":0.15},
+ { "silaba" : "per", "porcentaje" : 0.03  ,"pc":0.18},
+ { "silaba" : "plian", "porcentaje" : 0.03  ,"pc":0.21},
+ { "silaba" : "por", "porcentaje" : 0.03  ,"pc":0.24},
+ { "silaba" : "prer", "porcentaje" : 0.03  ,"pc":0.27},
+ { "silaba" : "pru", "porcentaje" : 0.03  ,"pc":0.3},
+ { "silaba" : "pun", "porcentaje" : 0.03  ,"pc":0.33},
+ { "silaba" : "sac", "porcentaje" : 0.03  ,"pc":0.36},
+ { "silaba" : "sus", "porcentaje" : 0.03  ,"pc":0.39},
+ { "silaba" : "tal", "porcentaje" : 0.03  ,"pc":0.42},
+ { "silaba" : "tem", "porcentaje" : 0.03  ,"pc":0.45},
+ { "silaba" : "tir", "porcentaje" : 0.03  ,"pc":0.48},
+ { "silaba" : "tis", "porcentaje" : 0.03  ,"pc":0.51},
+ { "silaba" : "tram", "porcentaje" : 0.03  ,"pc":0.54},
+ { "silaba" : "tus", "porcentaje" : 0.03  ,"pc":0.57},
+ { "silaba" : "hues", "porcentaje" : 0.03  ,"pc":0.6},
+ { "silaba" : "yen", "porcentaje" : 0.03  ,"pc":0.63},
+ { "silaba" : "zos", "porcentaje" : 0.03  ,"pc":0.66},
+ { "silaba" : "ben", "porcentaje" : 0.04  ,"pc":0.7},
+ { "silaba" : "biam", "porcentaje" : 0.04  ,"pc":0.74},
+ { "silaba" : "bes", "porcentaje" : 0.04  ,"pc":0.78},
+ { "silaba" : "bian", "porcentaje" : 0.04  ,"pc":0.820000000000001},
+ { "silaba" : "biel", "porcentaje" : 0.04  ,"pc":0.860000000000001},
+ { "silaba" : "bla", "porcentaje" : 0.04  ,"pc":0.900000000000001},
+ { "silaba" : "brad", "porcentaje" : 0.04  ,"pc":0.940000000000001},
+ { "silaba" : "bue", "porcentaje" : 0.04  ,"pc":0.980000000000001},
+ { "silaba" : "bua", "porcentaje" : 0.04  ,"pc":1.02},
+ { "silaba" : "bui", "porcentaje" : 0.04  ,"pc":1.06},
+ { "silaba" : "dar", "porcentaje" : 0.04  ,"pc":1.1},
+ { "silaba" : "das", "porcentaje" : 0.04  ,"pc":1.14},
+ { "silaba" : "dian", "porcentaje" : 0.04  ,"pc":1.18},
+ { "silaba" : "dor", "porcentaje" : 0.04  ,"pc":1.22},
+ { "silaba" : "flo", "porcentaje" : 0.04  ,"pc":1.26},
+ { "silaba" : "fluia", "porcentaje" : 0.04  ,"pc":1.3},
+ { "silaba" : "gue", "porcentaje" : 0.04  ,"pc":1.34},
+ { "silaba" : "gren", "porcentaje" : 0.04  ,"pc":1.38},
+ { "silaba" : "is", "porcentaje" : 0.04  ,"pc":1.42},
+ { "silaba" : "gia", "porcentaje" : 0.04  ,"pc":1.46},
+ { "silaba" : "gis", "porcentaje" : 0.04  ,"pc":1.5},
+ { "silaba" : "lla", "porcentaje" : 0.04  ,"pc":1.54},
+ { "silaba" : "lon", "porcentaje" : 0.04  ,"pc":1.58},
+ { "silaba" : "mar", "porcentaje" : 0.04  ,"pc":1.62},
+ { "silaba" : "mid", "porcentaje" : 0.04  ,"pc":1.66},
+ { "silaba" : "miem", "porcentaje" : 0.04  ,"pc":1.7},
+ { "silaba" : "mul", "porcentaje" : 0.04  ,"pc":1.74},
+ { "silaba" : "ner", "porcentaje" : 0.04  ,"pc":1.78},
+ { "silaba" : "nua", "porcentaje" : 0.04  ,"pc":1.82},
+ { "silaba" : "nuo", "porcentaje" : 0.04  ,"pc":1.86},
+ { "silaba" : "ñor", "porcentaje" : 0.04  ,"pc":1.9},
+ { "silaba" : "pe", "porcentaje" : 0.04  ,"pc":1.94},
+ { "silaba" : "plan", "porcentaje" : 0.04  ,"pc":1.98},
+ { "silaba" : "plea", "porcentaje" : 0.04  ,"pc":2.02},
+ { "silaba" : "pues", "porcentaje" : 0.04  ,"pc":2.06},
+ { "silaba" : "pur", "porcentaje" : 0.04  ,"pc":2.1},
+ { "silaba" : "ran", "porcentaje" : 0.04  ,"pc":2.14},
+ { "silaba" : "ras", "porcentaje" : 0.04  ,"pc":2.18},
+ { "silaba" : "ren", "porcentaje" : 0.04  ,"pc":2.22},
+ { "silaba" : "ries", "porcentaje" : 0.04  ,"pc":2.26},
+ { "silaba" : "rrue", "porcentaje" : 0.04  ,"pc":2.3},
+ { "silaba" : "san", "porcentaje" : 0.04  ,"pc":2.34},
+ { "silaba" : "sar", "porcentaje" : 0.04  ,"pc":2.38},
+ { "silaba" : "tean", "porcentaje" : 0.04  ,"pc":2.42},
+ { "silaba" : "tiem", "porcentaje" : 0.04  ,"pc":2.46},
+ { "silaba" : "tien", "porcentaje" : 0.04  ,"pc":2.5},
+ { "silaba" : "tos", "porcentaje" : 0.04  ,"pc":2.54},
+ { "silaba" : "trans", "porcentaje" : 0.04  ,"pc":2.58},
+ { "silaba" : "tu", "porcentaje" : 0.04  ,"pc":2.62},
+ { "silaba" : "tuan", "porcentaje" : 0.04  ,"pc":2.66},
+ { "silaba" : "han", "porcentaje" : 0.04  ,"pc":2.7},
+ { "silaba" : "llen", "porcentaje" : 0.04  ,"pc":2.74},
+ { "silaba" : "za", "porcentaje" : 0.04  ,"pc":2.78},
+ { "silaba" : "zar", "porcentaje" : 0.04  ,"pc":2.82},
+ { "silaba" : "buen", "porcentaje" : 0.05  ,"pc":2.87},
+ { "silaba" : "dos", "porcentaje" : 0.05  ,"pc":2.92},
+ { "silaba" : "fen", "porcentaje" : 0.05  ,"pc":2.97},
+ { "silaba" : "fi", "porcentaje" : 0.05  ,"pc":3.02},
+ { "silaba" : "fon", "porcentaje" : 0.05  ,"pc":3.07},
+ { "silaba" : "fras", "porcentaje" : 0.05  ,"pc":3.12},
+ { "silaba" : "gar", "porcentaje" : 0.05  ,"pc":3.17},
+ { "silaba" : "ju", "porcentaje" : 0.05  ,"pc":3.22},
+ { "silaba" : "cuar", "porcentaje" : 0.05  ,"pc":3.27},
+ { "silaba" : "las", "porcentaje" : 0.05  ,"pc":3.32},
+ { "silaba" : "len", "porcentaje" : 0.05  ,"pc":3.37},
+ { "silaba" : "ler", "porcentaje" : 0.05  ,"pc":3.42},
+ { "silaba" : "lian", "porcentaje" : 0.05  ,"pc":3.47},
+ { "silaba" : "rra", "porcentaje" : 0.05  ,"pc":3.52},
+ { "silaba" : "tuad", "porcentaje" : 0.05  ,"pc":3.57},
+ { "silaba" : "ain", "porcentaje" : 0.06  ,"pc":3.63},
+ { "silaba" : "am", "porcentaje" : 0.06  ,"pc":3.69},
+ { "silaba" : "bi", "porcentaje" : 0.06  ,"pc":3.75},
+ { "silaba" : "bru", "porcentaje" : 0.06  ,"pc":3.81},
+ { "silaba" : "e", "porcentaje" : 0.06  ,"pc":3.87},
+ { "silaba" : "ex", "porcentaje" : 0.06  ,"pc":3.93},
+ { "silaba" : "fic", "porcentaje" : 0.06  ,"pc":3.99},
+ { "silaba" : "ir", "porcentaje" : 0.06  ,"pc":4.05},
+ { "silaba" : "que", "porcentaje" : 0.06  ,"pc":4.11},
+ { "silaba" : "quier", "porcentaje" : 0.06  ,"pc":4.17},
+ { "silaba" : "cot", "porcentaje" : 0.06  ,"pc":4.23},
+ { "silaba" : "queer", "porcentaje" : 0.06  ,"pc":4.29},
+ { "silaba" : "cun", "porcentaje" : 0.06  ,"pc":4.35},
+ { "silaba" : "lar", "porcentaje" : 0.06  ,"pc":4.41},
+ { "silaba" : "llen", "porcentaje" : 0.06  ,"pc":4.47},
+ { "silaba" : "mien", "porcentaje" : 0.06  ,"pc":4.53},
+ { "silaba" : "nar", "porcentaje" : 0.06  ,"pc":4.59},
+ { "silaba" : "nas", "porcentaje" : 0.06  ,"pc":4.65},
+ { "silaba" : "nes", "porcentaje" : 0.06  ,"pc":4.71},
+ { "silaba" : "nui", "porcentaje" : 0.06  ,"pc":4.77},
+ { "silaba" : "oi", "porcentaje" : 0.06  ,"pc":4.82999999999999},
+ { "silaba" : "paz", "porcentaje" : 0.06  ,"pc":4.88999999999999},
+ { "silaba" : "plia", "porcentaje" : 0.06  ,"pc":4.94999999999999},
+ { "silaba" : "plus", "porcentaje" : 0.06  ,"pc":5.00999999999999},
+ { "silaba" : "pra", "porcentaje" : 0.06  ,"pc":5.06999999999999},
+ { "silaba" : "saz", "porcentaje" : 0.06  ,"pc":5.12999999999999},
+ { "silaba" : "sian", "porcentaje" : 0.06  ,"pc":5.18999999999999},
+ { "silaba" : "sor", "porcentaje" : 0.06  ,"pc":5.24999999999999},
+ { "silaba" : "hue", "porcentaje" : 0.06  ,"pc":5.30999999999999},
+ { "silaba" : "ze", "porcentaje" : 0.06  ,"pc":5.36999999999999},
+ { "silaba" : "ci", "porcentaje" : 0.06  ,"pc":5.42999999999999},
+ { "silaba" : "cis", "porcentaje" : 0.06  ,"pc":5.48999999999999},
+ { "silaba" : "ai", "porcentaje" : 0.07  ,"pc":5.55999999999999},
+ { "silaba" : "ar", "porcentaje" : 0.07  ,"pc":5.62999999999999},
+ { "silaba" : "at", "porcentaje" : 0.07  ,"pc":5.69999999999999},
+ { "silaba" : "brus", "porcentaje" : 0.07  ,"pc":5.76999999999999},
+ { "silaba" : "drian", "porcentaje" : 0.07  ,"pc":5.83999999999999},
+ { "silaba" : "ga", "porcentaje" : 0.07  ,"pc":5.90999999999999},
+ { "silaba" : "grar", "porcentaje" : 0.07  ,"pc":5.97999999999999},
+ { "silaba" : "jer", "porcentaje" : 0.07  ,"pc":6.04999999999999},
+ { "silaba" : "jias", "porcentaje" : 0.07  ,"pc":6.11999999999999},
+ { "silaba" : "miz", "porcentaje" : 0.07  ,"pc":6.18999999999999},
+ { "silaba" : "nn", "porcentaje" : 0.07  ,"pc":6.25999999999999},
+ { "silaba" : "rrien", "porcentaje" : 0.07  ,"pc":6.32999999999999},
+ { "silaba" : "ss", "porcentaje" : 0.07  ,"pc":6.39999999999999},
+ { "silaba" : "tro", "porcentaje" : 0.07  ,"pc":6.46999999999999},
+ { "silaba" : "tros", "porcentaje" : 0.07  ,"pc":6.53999999999999},
+ { "silaba" : "xa", "porcentaje" : 0.07  ,"pc":6.60999999999999},
+ { "silaba" : "ciem", "porcentaje" : 0.07  ,"pc":6.68},
+ { "silaba" : "ban", "porcentaje" : 0.08  ,"pc":6.76},
+ { "silaba" : "bau", "porcentaje" : 0.08  ,"pc":6.84},
+ { "silaba" : "bec", "porcentaje" : 0.08  ,"pc":6.92},
+ { "silaba" : "bei", "porcentaje" : 0.08  ,"pc":7},
+ { "silaba" : "blia", "porcentaje" : 0.08  ,"pc":7.08},
+ { "silaba" : "bor", "porcentaje" : 0.08  ,"pc":7.16},
+ { "silaba" : "brian", "porcentaje" : 0.08  ,"pc":7.24},
+ { "silaba" : "dau", "porcentaje" : 0.08  ,"pc":7.32},
+ { "silaba" : "dial", "porcentaje" : 0.08  ,"pc":7.4},
+ { "silaba" : "en", "porcentaje" : 0.08  ,"pc":7.48},
+ { "silaba" : "gas", "porcentaje" : 0.08  ,"pc":7.56},
+ { "silaba" : "mes", "porcentaje" : 0.08  ,"pc":7.64},
+ { "silaba" : "mez", "porcentaje" : 0.08  ,"pc":7.72},
+ { "silaba" : "naz", "porcentaje" : 0.08  ,"pc":7.8},
+ { "silaba" : "nien", "porcentaje" : 0.08  ,"pc":7.88},
+ { "silaba" : "prie", "porcentaje" : 0.08  ,"pc":7.96},
+ { "silaba" : "rid", "porcentaje" : 0.08  ,"pc":8.04},
+ { "silaba" : "reac", "porcentaje" : 0.08  ,"pc":8.12},
+ { "silaba" : "sad", "porcentaje" : 0.08  ,"pc":8.2},
+ { "silaba" : "sir", "porcentaje" : 0.08  ,"pc":8.28},
+ { "silaba" : "sun", "porcentaje" : 0.08  ,"pc":8.36},
+ { "silaba" : "um", "porcentaje" : 0.08  ,"pc":8.44},
+ { "silaba" : "cie", "porcentaje" : 0.08  ,"pc":8.52},
+ { "silaba" : "zies", "porcentaje" : 0.08  ,"pc":8.6},
+ { "silaba" : "zon", "porcentaje" : 0.08  ,"pc":8.68},
+ { "silaba" : "biad", "porcentaje" : 0.09  ,"pc":8.77},
+ { "silaba" : "fis", "porcentaje" : 0.09  ,"pc":8.86},
+ { "silaba" : "fue", "porcentaje" : 0.09  ,"pc":8.95},
+ { "silaba" : "nuen", "porcentaje" : 0.09  ,"pc":9.04},
+ { "silaba" : "raz", "porcentaje" : 0.09  ,"pc":9.13},
+ { "silaba" : "ses", "porcentaje" : 0.09  ,"pc":9.22},
+ { "silaba" : "ces", "porcentaje" : 0.09  ,"pc":9.31},
+ { "silaba" : "blen", "porcentaje" : 0.1  ,"pc":9.40999999999999},
+ { "silaba" : "bles", "porcentaje" : 0.1  ,"pc":9.50999999999999},
+ { "silaba" : "des", "porcentaje" : 0.1  ,"pc":9.60999999999999},
+ { "silaba" : "do", "porcentaje" : 0.1  ,"pc":9.70999999999999},
+ { "silaba" : "fuen", "porcentaje" : 0.1  ,"pc":9.80999999999999},
+ { "silaba" : "lean", "porcentaje" : 0.1  ,"pc":9.90999999999999},
+ { "silaba" : "llon", "porcentaje" : 0.1  ,"pc":10.01},
+ { "silaba" : "nos", "porcentaje" : 0.1  ,"pc":10.11},
+ { "silaba" : "res", "porcentaje" : 0.1  ,"pc":10.21},
+ { "silaba" : "ro", "porcentaje" : 0.1  ,"pc":10.31},
+ { "silaba" : "ria", "porcentaje" : 0.1  ,"pc":10.41},
+ { "silaba" : "tam", "porcentaje" : 0.1  ,"pc":10.51},
+ { "silaba" : "chau", "porcentaje" : 0.11  ,"pc":10.62},
+ { "silaba" : "che", "porcentaje" : 0.11  ,"pc":10.73},
+ { "silaba" : "chi", "porcentaje" : 0.11  ,"pc":10.84},
+ { "silaba" : "clau", "porcentaje" : 0.11  ,"pc":10.95},
+ { "silaba" : "cli", "porcentaje" : 0.11  ,"pc":11.06},
+ { "silaba" : "cri", "porcentaje" : 0.11  ,"pc":11.17},
+ { "silaba" : "cha", "porcentaje" : 0.11  ,"pc":11.28},
+ { "silaba" : "chan", "porcentaje" : 0.11  ,"pc":11.39},
+ { "silaba" : "char", "porcentaje" : 0.11  ,"pc":11.5},
+ { "silaba" : "chi", "porcentaje" : 0.11  ,"pc":11.61},
+ { "silaba" : "chis", "porcentaje" : 0.11  ,"pc":11.72},
+ { "silaba" : "da", "porcentaje" : 0.11  ,"pc":11.83},
+ { "silaba" : "cruz", "porcentaje" : 0.11  ,"pc":11.94},
+ { "silaba" : "cuer", "porcentaje" : 0.11  ,"pc":12.05},
+ { "silaba" : "guiar", "porcentaje" : 0.11  ,"pc":12.16},
+ { "silaba" : "tros", "porcentaje" : 0.11  ,"pc":12.27},
+ { "silaba" : "ye", "porcentaje" : 0.11  ,"pc":12.38},
+ { "silaba" : "oia", "porcentaje" : 0.12  ,"pc":12.5},
+ { "silaba" : "ber", "porcentaje" : 0.13  ,"pc":12.63},
+ { "silaba" : "bier", "porcentaje" : 0.13  ,"pc":12.76},
+ { "silaba" : "dran", "porcentaje" : 0.13  ,"pc":12.89},
+ { "silaba" : "fui", "porcentaje" : 0.13  ,"pc":13.02},
+ { "silaba" : "gris", "porcentaje" : 0.13  ,"pc":13.15},
+ { "silaba" : "gu", "porcentaje" : 0.13  ,"pc":13.28},
+ { "silaba" : "guas", "porcentaje" : 0.13  ,"pc":13.41},
+ { "silaba" : "i", "porcentaje" : 0.13  ,"pc":13.54},
+ { "silaba" : "quiar", "porcentaje" : 0.13  ,"pc":13.67},
+ { "silaba" : "lua", "porcentaje" : 0.13  ,"pc":13.8},
+ { "silaba" : "ma", "porcentaje" : 0.13  ,"pc":13.93},
+ { "silaba" : "mier", "porcentaje" : 0.13  ,"pc":14.06},
+ { "silaba" : "mue", "porcentaje" : 0.13  ,"pc":14.19},
+ { "silaba" : "pers", "porcentaje" : 0.13  ,"pc":14.32},
+ { "silaba" : "pue", "porcentaje" : 0.13  ,"pc":14.45},
+ { "silaba" : "puer", "porcentaje" : 0.13  ,"pc":14.58},
+ { "silaba" : "sas", "porcentaje" : 0.13  ,"pc":14.71},
+ { "silaba" : "sep", "porcentaje" : 0.13  ,"pc":14.84},
+ { "silaba" : "tan", "porcentaje" : 0.13  ,"pc":14.97},
+ { "silaba" : "tre", "porcentaje" : 0.13  ,"pc":15.1},
+ { "silaba" : "yan", "porcentaje" : 0.13  ,"pc":15.23},
+ { "silaba" : "yor", "porcentaje" : 0.13  ,"pc":15.36},
+ { "silaba" : "zan", "porcentaje" : 0.13  ,"pc":15.49},
+ { "silaba" : "zas", "porcentaje" : 0.13  ,"pc":15.62},
+ { "silaba" : "zep", "porcentaje" : 0.13  ,"pc":15.75},
+ { "silaba" : "ciar", "porcentaje" : 0.13  ,"pc":15.88},
+ { "silaba" : "guo", "porcentaje" : 0.15  ,"pc":16.03},
+ { "silaba" : "bar", "porcentaje" : 0.16  ,"pc":16.19},
+ { "silaba" : "bas", "porcentaje" : 0.16  ,"pc":16.35},
+ { "silaba" : "beu", "porcentaje" : 0.16  ,"pc":16.51},
+ { "silaba" : "bies", "porcentaje" : 0.16  ,"pc":16.67},
+ { "silaba" : "dad", "porcentaje" : 0.16  ,"pc":16.83},
+ { "silaba" : "dos", "porcentaje" : 0.16  ,"pc":16.99},
+ { "silaba" : "fer", "porcentaje" : 0.16  ,"pc":17.15},
+ { "silaba" : "iz", "porcentaje" : 0.16  ,"pc":17.31},
+ { "silaba" : "jac", "porcentaje" : 0.16  ,"pc":17.47},
+ { "silaba" : "cra", "porcentaje" : 0.16  ,"pc":17.63},
+ { "silaba" : "cres", "porcentaje" : 0.16  ,"pc":17.79},
+ { "silaba" : "cua", "porcentaje" : 0.16  ,"pc":17.95},
+ { "silaba" : "llad", "porcentaje" : 0.16  ,"pc":18.11},
+ { "silaba" : "na", "porcentaje" : 0.16  ,"pc":18.27},
+ { "silaba" : "ñan", "porcentaje" : 0.16  ,"pc":18.43},
+ { "silaba" : "os", "porcentaje" : 0.16  ,"pc":18.59},
+ { "silaba" : "pas", "porcentaje" : 0.16  ,"pc":18.75},
+ { "silaba" : "pec", "porcentaje" : 0.16  ,"pc":18.91},
+ { "silaba" : "pia", "porcentaje" : 0.16  ,"pc":19.07},
+ { "silaba" : "pul", "porcentaje" : 0.16  ,"pc":19.23},
+ { "silaba" : "riad", "porcentaje" : 0.16  ,"pc":19.39},
+ { "silaba" : "so", "porcentaje" : 0.16  ,"pc":19.55},
+ { "silaba" : "ta", "porcentaje" : 0.16  ,"pc":19.71},
+ { "silaba" : "tas", "porcentaje" : 0.16  ,"pc":19.87},
+ { "silaba" : "he", "porcentaje" : 0.16  ,"pc":20.03},
+ { "silaba" : "ya", "porcentaje" : 0.16  ,"pc":20.19},
+ { "silaba" : "fec", "porcentaje" : 0.19  ,"pc":20.38},
+ { "silaba" : "ñol", "porcentaje" : 0.19  ,"pc":20.57},
+ { "silaba" : "guia", "porcentaje" : 0.2  ,"pc":20.77},
+ { "silaba" : "nan", "porcentaje" : 0.2  ,"pc":20.97},
+ { "silaba" : "noz", "porcentaje" : 0.2  ,"pc":21.17},
+ { "silaba" : "si", "porcentaje" : 0.2  ,"pc":21.37},
+ { "silaba" : "ti", "porcentaje" : 0.2  ,"pc":21.57},
+ { "silaba" : "tren", "porcentaje" : 0.2  ,"pc":21.77},
+ { "silaba" : "cai", "porcentaje" : 0.21  ,"pc":21.98},
+ { "silaba" : "can", "porcentaje" : 0.21  ,"pc":22.19},
+ { "silaba" : "cas", "porcentaje" : 0.21  ,"pc":22.4},
+ { "silaba" : "ce", "porcentaje" : 0.21  ,"pc":22.61},
+ { "silaba" : "cel", "porcentaje" : 0.21  ,"pc":22.82},
+ { "silaba" : "cian", "porcentaje" : 0.21  ,"pc":23.03},
+ { "silaba" : "cias", "porcentaje" : 0.21  ,"pc":23.24},
+ { "silaba" : "cla", "porcentaje" : 0.21  ,"pc":23.45},
+ { "silaba" : "con", "porcentaje" : 0.21  ,"pc":23.66},
+ { "silaba" : "clo", "porcentaje" : 0.21  ,"pc":23.87},
+ { "silaba" : "che", "porcentaje" : 0.21  ,"pc":24.08},
+ { "silaba" : "chen", "porcentaje" : 0.21  ,"pc":24.29},
+ { "silaba" : "ches", "porcentaje" : 0.21  ,"pc":24.5},
+ { "silaba" : "chos", "porcentaje" : 0.21  ,"pc":24.71},
+ { "silaba" : "chu", "porcentaje" : 0.21  ,"pc":24.92},
+ { "silaba" : "cru", "porcentaje" : 0.21  ,"pc":25.13},
+ { "silaba" : "cruel", "porcentaje" : 0.21  ,"pc":25.34},
+ { "silaba" : "cruen", "porcentaje" : 0.21  ,"pc":25.55},
+ { "silaba" : "bu", "porcentaje" : 0.22  ,"pc":25.77},
+ { "silaba" : "cui", "porcentaje" : 0.22  ,"pc":25.99},
+ { "silaba" : "cuo", "porcentaje" : 0.22  ,"pc":26.21},
+ { "silaba" : "de", "porcentaje" : 0.22  ,"pc":26.43},
+ { "silaba" : "dua", "porcentaje" : 0.22  ,"pc":26.65},
+ { "silaba" : "mas", "porcentaje" : 0.22  ,"pc":26.87},
+ { "silaba" : "ros", "porcentaje" : 0.22  ,"pc":27.09},
+ { "silaba" : "ter", "porcentaje" : 0.22  ,"pc":27.31},
+ { "silaba" : "el", "porcentaje" : 0.24  ,"pc":27.55},
+ { "silaba" : "be", "porcentaje" : 0.25  ,"pc":27.8},
+ { "silaba" : "fra", "porcentaje" : 0.25  ,"pc":28.05},
+ { "silaba" : "gal", "porcentaje" : 0.25  ,"pc":28.3},
+ { "silaba" : "gua", "porcentaje" : 0.25  ,"pc":28.55},
+ { "silaba" : "in", "porcentaje" : 0.25  ,"pc":28.8},
+ { "silaba" : "me", "porcentaje" : 0.25  ,"pc":29.05},
+ { "silaba" : "pa", "porcentaje" : 0.25  ,"pc":29.3},
+ { "silaba" : "rez", "porcentaje" : 0.25  ,"pc":29.55},
+ { "silaba" : "tar", "porcentaje" : 0.25  ,"pc":29.8},
+ { "silaba" : "te", "porcentaje" : 0.25  ,"pc":30.05},
+ { "silaba" : "tes", "porcentaje" : 0.25  ,"pc":30.3},
+ { "silaba" : "trol", "porcentaje" : 0.25  ,"pc":30.55},
+ { "silaba" : "lea", "porcentaje" : 0.26  ,"pc":30.81},
+ { "silaba" : "an", "porcentaje" : 0.3  ,"pc":31.11},
+ { "silaba" : "bom", "porcentaje" : 0.3  ,"pc":31.41},
+ { "silaba" : "brean", "porcentaje" : 0.3  ,"pc":31.71},
+ { "silaba" : "dez", "porcentaje" : 0.3  ,"pc":32.01},
+ { "silaba" : "jem", "porcentaje" : 0.3  ,"pc":32.31},
+ { "silaba" : "lez", "porcentaje" : 0.3  ,"pc":32.61},
+ { "silaba" : "rar", "porcentaje" : 0.3  ,"pc":32.91},
+ { "silaba" : "tua", "porcentaje" : 0.3  ,"pc":33.21},
+ { "silaba" : "web", "porcentaje" : 0.3  ,"pc":33.51},
+ { "silaba" : "zam", "porcentaje" : 0.3  ,"pc":33.81},
+ { "silaba" : "gol", "porcentaje" : 0.32  ,"pc":34.13},
+ { "silaba" : "gran", "porcentaje" : 0.32  ,"pc":34.45},
+ { "silaba" : "gen", "porcentaje" : 0.34  ,"pc":34.79},
+ { "silaba" : "jon", "porcentaje" : 0.38  ,"pc":35.17},
+ { "silaba" : "cau", "porcentaje" : 0.41  ,"pc":35.58},
+ { "silaba" : "cie", "porcentaje" : 0.41  ,"pc":35.99},
+ { "silaba" : "al", "porcentaje" : 0.42  ,"pc":36.41},
+ { "silaba" : "au", "porcentaje" : 0.42  ,"pc":36.83},
+ { "silaba" : "aun", "porcentaje" : 0.42  ,"pc":37.25},
+ { "silaba" : "aus", "porcentaje" : 0.42  ,"pc":37.67},
+ { "silaba" : "bia", "porcentaje" : 0.42  ,"pc":38.09},
+ { "silaba" : "ca", "porcentaje" : 0.42  ,"pc":38.51},
+ { "silaba" : "car", "porcentaje" : 0.42  ,"pc":38.93},
+ { "silaba" : "cal", "porcentaje" : 0.42  ,"pc":39.35},
+ { "silaba" : "ci", "porcentaje" : 0.42  ,"pc":39.77},
+ { "silaba" : "clue", "porcentaje" : 0.42  ,"pc":40.19},
+ { "silaba" : "chas", "porcentaje" : 0.42  ,"pc":40.61},
+ { "silaba" : "cho", "porcentaje" : 0.42  ,"pc":41.03},
+ { "silaba" : "dan", "porcentaje" : 0.42  ,"pc":41.45},
+ { "silaba" : "lom", "porcentaje" : 0.42  ,"pc":41.87},
+ { "silaba" : "mu", "porcentaje" : 0.42  ,"pc":42.29},
+ { "silaba" : "nea", "porcentaje" : 0.42  ,"pc":42.71},
+ { "silaba" : "proe", "porcentaje" : 0.42  ,"pc":43.13},
+ { "silaba" : "sua", "porcentaje" : 0.42  ,"pc":43.55},
+ { "silaba" : "tra", "porcentaje" : 0.42  ,"pc":43.97},
+ { "silaba" : "tral", "porcentaje" : 0.42  ,"pc":44.39},
+ { "silaba" : "ur", "porcentaje" : 0.42  ,"pc":44.81},
+ { "silaba" : "qui", "porcentaje" : 0.42  ,"pc":45.23},
+ { "silaba" : "zea", "porcentaje" : 0.42  ,"pc":45.65},
+ { "silaba" : "der", "porcentaje" : 0.5  ,"pc":46.15},
+ { "silaba" : "dia", "porcentaje" : 0.5  ,"pc":46.65},
+ { "silaba" : "fia", "porcentaje" : 0.5  ,"pc":47.15},
+ { "silaba" : "mea", "porcentaje" : 0.5  ,"pc":47.65},
+ { "silaba" : "mer", "porcentaje" : 0.5  ,"pc":48.15},
+ { "silaba" : "mia", "porcentaje" : 0.5  ,"pc":48.65},
+ { "silaba" : "net", "porcentaje" : 0.5  ,"pc":49.15},
+ { "silaba" : "pren", "porcentaje" : 0.5  ,"pc":49.65},
+ { "silaba" : "llu", "porcentaje" : 0.5  ,"pc":50.15},
+ { "silaba" : "den", "porcentaje" : 0.64  ,"pc":50.79},
+ { "silaba" : "ez", "porcentaje" : 0.64  ,"pc":51.43},
+ { "silaba" : "mon", "porcentaje" : 0.64  ,"pc":52.07},
+ { "silaba" : "pon", "porcentaje" : 0.64  ,"pc":52.71},
+ { "silaba" : "pos", "porcentaje" : 0.64  ,"pc":53.35},
+ { "silaba" : "soi", "porcentaje" : 0.64  ,"pc":53.99},
+ { "silaba" : "cial", "porcentaje" : 0.64  ,"pc":54.63},
+ { "silaba" : "le", "porcentaje" : 0.66  ,"pc":55.29},
+ { "silaba" : "lia", "porcentaje" : 0.76  ,"pc":56.05},
+ { "silaba" : "ba", "porcentaje" : 0.77  ,"pc":56.82},
+ { "silaba" : "du", "porcentaje" : 0.77  ,"pc":57.59},
+ { "silaba" : "nom", "porcentaje" : 0.77  ,"pc":58.36},
+ { "silaba" : "pea", "porcentaje" : 0.77  ,"pc":59.13},
+ { "silaba" : "ria", "porcentaje" : 0.77  ,"pc":59.9},
+ { "silaba" : "ins", "porcentaje" : 0.8  ,"pc":60.7},
+ { "silaba" : "mac", "porcentaje" : 0.82  ,"pc":61.52},
+ { "silaba" : "nad", "porcentaje" : 0.82  ,"pc":62.34},
+ { "silaba" : "roa", "porcentaje" : 0.82  ,"pc":63.16},
+ { "silaba" : "tad", "porcentaje" : 0.82  ,"pc":63.98},
+ { "silaba" : "toi", "porcentaje" : 0.82  ,"pc":64.8},
+ { "silaba" : "lu", "porcentaje" : 1.02  ,"pc":65.82},
+ { "silaba" : "ral", "porcentaje" : 1.25  ,"pc":67.07},
+ { "silaba" : "nia", "porcentaje" : 1.26  ,"pc":68.33},
+ { "silaba" : "op", "porcentaje" : 1.26  ,"pc":69.59},
+ { "silaba" : "sia", "porcentaje" : 1.26  ,"pc":70.8500000000001},
+ { "silaba" : "tia", "porcentaje" : 1.26  ,"pc":72.1100000000001},
+ { "silaba" : "doi", "porcentaje" : 1.35  ,"pc":73.4600000000001},
+ { "silaba" : "em", "porcentaje" : 1.35  ,"pc":74.81},
+ { "silaba" : "pad", "porcentaje" : 1.35  ,"pc":76.16},
+ { "silaba" : "er", "porcentaje" : 1.4  ,"pc":77.56},
+ { "silaba" : "a", "porcentaje" : 1.73  ,"pc":79.29},
+ { "silaba" : "fa", "porcentaje" : 1.73  ,"pc":81.0200000000001},
+ { "silaba" : "ob", "porcentaje" : 1.73  ,"pc":82.7500000000001},
+ { "silaba" : "sea", "porcentaje" : 1.73  ,"pc":84.4800000000001},
+ { "silaba" : "tea", "porcentaje" : 1.73  ,"pc":86.2100000000001},
+ { "silaba" : "ia", "porcentaje" : 2  ,"pc":88.2100000000001},
+ { "silaba" : "cia", "porcentaje" : 2.01  ,"pc":90.2200000000001},
+ { "silaba" : "del", "porcentaje" : 4.88  ,"pc":95.1000000000001},
+ { "silaba" : "lan", "porcentaje" : 4.88  ,"pc":99.9800000000001}
+
+]
+
+var dado=Math.random()*100;
+
+/* console.log ("dado responde: "+ dado); */
+
+switch (true) {
+case (dado >= 0 &&  dado <  silabario[0].pc): { dcresponde=silabario[0].silaba;}  break;
+case (dado >=  silabario[1].pc &&  dado <  silabario[2].pc):     { dcresponde=silabario[2].silaba;}  break;
+case (dado >=  silabario[2].pc &&  dado <  silabario[3].pc):     { dcresponde=silabario[3].silaba;}  break;
+case (dado >=  silabario[3].pc &&  dado <  silabario[4].pc):     { dcresponde=silabario[4].silaba;}  break;
+case (dado >=  silabario[4].pc &&  dado <  silabario[5].pc):     { dcresponde=silabario[5].silaba;}  break;
+case (dado >=  silabario[5].pc &&  dado <  silabario[6].pc):     { dcresponde=silabario[6].silaba;}  break;
+case (dado >=  silabario[6].pc &&  dado <  silabario[7].pc):     { dcresponde=silabario[7].silaba;}  break;
+case (dado >=  silabario[7].pc &&  dado <  silabario[8].pc):     { dcresponde=silabario[8].silaba;}  break;
+case (dado >=  silabario[8].pc &&  dado <  silabario[9].pc):     { dcresponde=silabario[9].silaba;}  break;
+case (dado >=  silabario[9].pc &&  dado <  silabario[10].pc):     { dcresponde=silabario[10].silaba;}  break;
+case (dado >=  silabario[10].pc &&  dado <  silabario[11].pc):     { dcresponde=silabario[11].silaba;}  break;
+case (dado >=  silabario[11].pc &&  dado <  silabario[12].pc):     { dcresponde=silabario[12].silaba;}  break;
+case (dado >=  silabario[12].pc &&  dado <  silabario[13].pc):     { dcresponde=silabario[13].silaba;}  break;
+case (dado >=  silabario[13].pc &&  dado <  silabario[14].pc):     { dcresponde=silabario[14].silaba;}  break;
+case (dado >=  silabario[14].pc &&  dado <  silabario[15].pc):     { dcresponde=silabario[15].silaba;}  break;
+case (dado >=  silabario[15].pc &&  dado <  silabario[16].pc):     { dcresponde=silabario[16].silaba;}  break;
+case (dado >=  silabario[16].pc &&  dado <  silabario[17].pc):     { dcresponde=silabario[17].silaba;}  break;
+case (dado >=  silabario[17].pc &&  dado <  silabario[18].pc):     { dcresponde=silabario[18].silaba;}  break;
+case (dado >=  silabario[18].pc &&  dado <  silabario[19].pc):     { dcresponde=silabario[19].silaba;}  break;
+case (dado >=  silabario[19].pc &&  dado <  silabario[20].pc):     { dcresponde=silabario[20].silaba;}  break;
+case (dado >=  silabario[20].pc &&  dado <  silabario[21].pc):     { dcresponde=silabario[21].silaba;}  break;
+case (dado >=  silabario[21].pc &&  dado <  silabario[22].pc):     { dcresponde=silabario[22].silaba;}  break;
+case (dado >=  silabario[22].pc &&  dado <  silabario[23].pc):     { dcresponde=silabario[23].silaba;}  break;
+case (dado >=  silabario[23].pc &&  dado <  silabario[24].pc):     { dcresponde=silabario[24].silaba;}  break;
+case (dado >=  silabario[24].pc &&  dado <  silabario[25].pc):     { dcresponde=silabario[25].silaba;}  break;
+case (dado >=  silabario[25].pc &&  dado <  silabario[26].pc):     { dcresponde=silabario[26].silaba;}  break;
+case (dado >=  silabario[26].pc &&  dado <  silabario[27].pc):     { dcresponde=silabario[27].silaba;}  break;
+case (dado >=  silabario[27].pc &&  dado <  silabario[28].pc):     { dcresponde=silabario[28].silaba;}  break;
+case (dado >=  silabario[28].pc &&  dado <  silabario[29].pc):     { dcresponde=silabario[29].silaba;}  break;
+case (dado >=  silabario[29].pc &&  dado <  silabario[30].pc):     { dcresponde=silabario[30].silaba;}  break;
+case (dado >=  silabario[30].pc &&  dado <  silabario[31].pc):     { dcresponde=silabario[31].silaba;}  break;
+case (dado >=  silabario[31].pc &&  dado <  silabario[32].pc):     { dcresponde=silabario[32].silaba;}  break;
+case (dado >=  silabario[32].pc &&  dado <  silabario[33].pc):     { dcresponde=silabario[33].silaba;}  break;
+case (dado >=  silabario[33].pc &&  dado <  silabario[34].pc):     { dcresponde=silabario[34].silaba;}  break;
+case (dado >=  silabario[34].pc &&  dado <  silabario[35].pc):     { dcresponde=silabario[35].silaba;}  break;
+case (dado >=  silabario[35].pc &&  dado <  silabario[36].pc):     { dcresponde=silabario[36].silaba;}  break;
+case (dado >=  silabario[36].pc &&  dado <  silabario[37].pc):     { dcresponde=silabario[37].silaba;}  break;
+case (dado >=  silabario[37].pc &&  dado <  silabario[38].pc):     { dcresponde=silabario[38].silaba;}  break;
+case (dado >=  silabario[38].pc &&  dado <  silabario[39].pc):     { dcresponde=silabario[39].silaba;}  break;
+case (dado >=  silabario[39].pc &&  dado <  silabario[40].pc):     { dcresponde=silabario[40].silaba;}  break;
+case (dado >=  silabario[40].pc &&  dado <  silabario[41].pc):     { dcresponde=silabario[41].silaba;}  break;
+case (dado >=  silabario[41].pc &&  dado <  silabario[42].pc):     { dcresponde=silabario[42].silaba;}  break;
+case (dado >=  silabario[42].pc &&  dado <  silabario[43].pc):     { dcresponde=silabario[43].silaba;}  break;
+case (dado >=  silabario[43].pc &&  dado <  silabario[44].pc):     { dcresponde=silabario[44].silaba;}  break;
+case (dado >=  silabario[44].pc &&  dado <  silabario[45].pc):     { dcresponde=silabario[45].silaba;}  break;
+case (dado >=  silabario[45].pc &&  dado <  silabario[46].pc):     { dcresponde=silabario[46].silaba;}  break;
+case (dado >=  silabario[46].pc &&  dado <  silabario[47].pc):     { dcresponde=silabario[47].silaba;}  break;
+case (dado >=  silabario[47].pc &&  dado <  silabario[48].pc):     { dcresponde=silabario[48].silaba;}  break;
+case (dado >=  silabario[48].pc &&  dado <  silabario[49].pc):     { dcresponde=silabario[49].silaba;}  break;
+case (dado >=  silabario[49].pc &&  dado <  silabario[50].pc):     { dcresponde=silabario[50].silaba;}  break;
+case (dado >=  silabario[50].pc &&  dado <  silabario[51].pc):     { dcresponde=silabario[51].silaba;}  break;
+case (dado >=  silabario[51].pc &&  dado <  silabario[52].pc):     { dcresponde=silabario[52].silaba;}  break;
+case (dado >=  silabario[52].pc &&  dado <  silabario[53].pc):     { dcresponde=silabario[53].silaba;}  break;
+case (dado >=  silabario[53].pc &&  dado <  silabario[54].pc):     { dcresponde=silabario[54].silaba;}  break;
+case (dado >=  silabario[54].pc &&  dado <  silabario[55].pc):     { dcresponde=silabario[55].silaba;}  break;
+case (dado >=  silabario[55].pc &&  dado <  silabario[56].pc):     { dcresponde=silabario[56].silaba;}  break;
+case (dado >=  silabario[56].pc &&  dado <  silabario[57].pc):     { dcresponde=silabario[57].silaba;}  break;
+case (dado >=  silabario[57].pc &&  dado <  silabario[58].pc):     { dcresponde=silabario[58].silaba;}  break;
+case (dado >=  silabario[58].pc &&  dado <  silabario[59].pc):     { dcresponde=silabario[59].silaba;}  break;
+case (dado >=  silabario[59].pc &&  dado <  silabario[60].pc):     { dcresponde=silabario[60].silaba;}  break;
+case (dado >=  silabario[60].pc &&  dado <  silabario[61].pc):     { dcresponde=silabario[61].silaba;}  break;
+case (dado >=  silabario[61].pc &&  dado <  silabario[62].pc):     { dcresponde=silabario[62].silaba;}  break;
+case (dado >=  silabario[62].pc &&  dado <  silabario[63].pc):     { dcresponde=silabario[63].silaba;}  break;
+case (dado >=  silabario[63].pc &&  dado <  silabario[64].pc):     { dcresponde=silabario[64].silaba;}  break;
+case (dado >=  silabario[64].pc &&  dado <  silabario[65].pc):     { dcresponde=silabario[65].silaba;}  break;
+case (dado >=  silabario[65].pc &&  dado <  silabario[66].pc):     { dcresponde=silabario[66].silaba;}  break;
+case (dado >=  silabario[66].pc &&  dado <  silabario[67].pc):     { dcresponde=silabario[67].silaba;}  break;
+case (dado >=  silabario[67].pc &&  dado <  silabario[68].pc):     { dcresponde=silabario[68].silaba;}  break;
+case (dado >=  silabario[68].pc &&  dado <  silabario[69].pc):     { dcresponde=silabario[69].silaba;}  break;
+case (dado >=  silabario[69].pc &&  dado <  silabario[70].pc):     { dcresponde=silabario[70].silaba;}  break;
+case (dado >=  silabario[70].pc &&  dado <  silabario[71].pc):     { dcresponde=silabario[71].silaba;}  break;
+case (dado >=  silabario[71].pc &&  dado <  silabario[72].pc):     { dcresponde=silabario[72].silaba;}  break;
+case (dado >=  silabario[72].pc &&  dado <  silabario[73].pc):     { dcresponde=silabario[73].silaba;}  break;
+case (dado >=  silabario[73].pc &&  dado <  silabario[74].pc):     { dcresponde=silabario[74].silaba;}  break;
+case (dado >=  silabario[74].pc &&  dado <  silabario[75].pc):     { dcresponde=silabario[75].silaba;}  break;
+case (dado >=  silabario[75].pc &&  dado <  silabario[76].pc):     { dcresponde=silabario[76].silaba;}  break;
+case (dado >=  silabario[76].pc &&  dado <  silabario[77].pc):     { dcresponde=silabario[77].silaba;}  break;
+case (dado >=  silabario[77].pc &&  dado <  silabario[78].pc):     { dcresponde=silabario[78].silaba;}  break;
+case (dado >=  silabario[78].pc &&  dado <  silabario[79].pc):     { dcresponde=silabario[79].silaba;}  break;
+case (dado >=  silabario[79].pc &&  dado <  silabario[80].pc):     { dcresponde=silabario[80].silaba;}  break;
+case (dado >=  silabario[80].pc &&  dado <  silabario[81].pc):     { dcresponde=silabario[81].silaba;}  break;
+case (dado >=  silabario[81].pc &&  dado <  silabario[82].pc):     { dcresponde=silabario[82].silaba;}  break;
+case (dado >=  silabario[82].pc &&  dado <  silabario[83].pc):     { dcresponde=silabario[83].silaba;}  break;
+case (dado >=  silabario[83].pc &&  dado <  silabario[84].pc):     { dcresponde=silabario[84].silaba;}  break;
+case (dado >=  silabario[84].pc &&  dado <  silabario[85].pc):     { dcresponde=silabario[85].silaba;}  break;
+case (dado >=  silabario[85].pc &&  dado <  silabario[86].pc):     { dcresponde=silabario[86].silaba;}  break;
+case (dado >=  silabario[86].pc &&  dado <  silabario[87].pc):     { dcresponde=silabario[87].silaba;}  break;
+case (dado >=  silabario[87].pc &&  dado <  silabario[88].pc):     { dcresponde=silabario[88].silaba;}  break;
+case (dado >=  silabario[88].pc &&  dado <  silabario[89].pc):     { dcresponde=silabario[89].silaba;}  break;
+case (dado >=  silabario[89].pc &&  dado <  silabario[90].pc):     { dcresponde=silabario[90].silaba;}  break;
+case (dado >=  silabario[90].pc &&  dado <  silabario[91].pc):     { dcresponde=silabario[91].silaba;}  break;
+case (dado >=  silabario[91].pc &&  dado <  silabario[92].pc):     { dcresponde=silabario[92].silaba;}  break;
+case (dado >=  silabario[92].pc &&  dado <  silabario[93].pc):     { dcresponde=silabario[93].silaba;}  break;
+case (dado >=  silabario[93].pc &&  dado <  silabario[94].pc):     { dcresponde=silabario[94].silaba;}  break;
+case (dado >=  silabario[94].pc &&  dado <  silabario[95].pc):     { dcresponde=silabario[95].silaba;}  break;
+case (dado >=  silabario[95].pc &&  dado <  silabario[96].pc):     { dcresponde=silabario[96].silaba;}  break;
+case (dado >=  silabario[96].pc &&  dado <  silabario[97].pc):     { dcresponde=silabario[97].silaba;}  break;
+case (dado >=  silabario[97].pc &&  dado <  silabario[98].pc):     { dcresponde=silabario[98].silaba;}  break;
+case (dado >=  silabario[98].pc &&  dado <  silabario[99].pc):     { dcresponde=silabario[99].silaba;}  break;
+case (dado >=  silabario[99].pc &&  dado <  silabario[100].pc):     { dcresponde=silabario[100].silaba;}  break;
+case (dado >=  silabario[100].pc &&  dado <  silabario[101].pc):     { dcresponde=silabario[101].silaba;}  break;
+case (dado >=  silabario[101].pc &&  dado <  silabario[102].pc):     { dcresponde=silabario[102].silaba;}  break;
+case (dado >=  silabario[102].pc &&  dado <  silabario[103].pc):     { dcresponde=silabario[103].silaba;}  break;
+case (dado >=  silabario[103].pc &&  dado <  silabario[104].pc):     { dcresponde=silabario[104].silaba;}  break;
+case (dado >=  silabario[104].pc &&  dado <  silabario[105].pc):     { dcresponde=silabario[105].silaba;}  break;
+case (dado >=  silabario[105].pc &&  dado <  silabario[106].pc):     { dcresponde=silabario[106].silaba;}  break;
+case (dado >=  silabario[106].pc &&  dado <  silabario[107].pc):     { dcresponde=silabario[107].silaba;}  break;
+case (dado >=  silabario[107].pc &&  dado <  silabario[108].pc):     { dcresponde=silabario[108].silaba;}  break;
+case (dado >=  silabario[108].pc &&  dado <  silabario[109].pc):     { dcresponde=silabario[109].silaba;}  break;
+case (dado >=  silabario[109].pc &&  dado <  silabario[110].pc):     { dcresponde=silabario[110].silaba;}  break;
+case (dado >=  silabario[110].pc &&  dado <  silabario[111].pc):     { dcresponde=silabario[111].silaba;}  break;
+case (dado >=  silabario[111].pc &&  dado <  silabario[112].pc):     { dcresponde=silabario[112].silaba;}  break;
+case (dado >=  silabario[112].pc &&  dado <  silabario[113].pc):     { dcresponde=silabario[113].silaba;}  break;
+case (dado >=  silabario[113].pc &&  dado <  silabario[114].pc):     { dcresponde=silabario[114].silaba;}  break;
+case (dado >=  silabario[114].pc &&  dado <  silabario[115].pc):     { dcresponde=silabario[115].silaba;}  break;
+case (dado >=  silabario[115].pc &&  dado <  silabario[116].pc):     { dcresponde=silabario[116].silaba;}  break;
+case (dado >=  silabario[116].pc &&  dado <  silabario[117].pc):     { dcresponde=silabario[117].silaba;}  break;
+case (dado >=  silabario[117].pc &&  dado <  silabario[118].pc):     { dcresponde=silabario[118].silaba;}  break;
+case (dado >=  silabario[118].pc &&  dado <  silabario[119].pc):     { dcresponde=silabario[119].silaba;}  break;
+case (dado >=  silabario[119].pc &&  dado <  silabario[120].pc):     { dcresponde=silabario[120].silaba;}  break;
+case (dado >=  silabario[120].pc &&  dado <  silabario[121].pc):     { dcresponde=silabario[121].silaba;}  break;
+case (dado >=  silabario[121].pc &&  dado <  silabario[122].pc):     { dcresponde=silabario[122].silaba;}  break;
+case (dado >=  silabario[122].pc &&  dado <  silabario[123].pc):     { dcresponde=silabario[123].silaba;}  break;
+case (dado >=  silabario[123].pc &&  dado <  silabario[124].pc):     { dcresponde=silabario[124].silaba;}  break;
+case (dado >=  silabario[124].pc &&  dado <  silabario[125].pc):     { dcresponde=silabario[125].silaba;}  break;
+case (dado >=  silabario[125].pc &&  dado <  silabario[126].pc):     { dcresponde=silabario[126].silaba;}  break;
+case (dado >=  silabario[126].pc &&  dado <  silabario[127].pc):     { dcresponde=silabario[127].silaba;}  break;
+case (dado >=  silabario[127].pc &&  dado <  silabario[128].pc):     { dcresponde=silabario[128].silaba;}  break;
+case (dado >=  silabario[128].pc &&  dado <  silabario[129].pc):     { dcresponde=silabario[129].silaba;}  break;
+case (dado >=  silabario[129].pc &&  dado <  silabario[130].pc):     { dcresponde=silabario[130].silaba;}  break;
+case (dado >=  silabario[130].pc &&  dado <  silabario[131].pc):     { dcresponde=silabario[131].silaba;}  break;
+case (dado >=  silabario[131].pc &&  dado <  silabario[132].pc):     { dcresponde=silabario[132].silaba;}  break;
+case (dado >=  silabario[132].pc &&  dado <  silabario[133].pc):     { dcresponde=silabario[133].silaba;}  break;
+case (dado >=  silabario[133].pc &&  dado <  silabario[134].pc):     { dcresponde=silabario[134].silaba;}  break;
+case (dado >=  silabario[134].pc &&  dado <  silabario[135].pc):     { dcresponde=silabario[135].silaba;}  break;
+case (dado >=  silabario[135].pc &&  dado <  silabario[136].pc):     { dcresponde=silabario[136].silaba;}  break;
+case (dado >=  silabario[136].pc &&  dado <  silabario[137].pc):     { dcresponde=silabario[137].silaba;}  break;
+case (dado >=  silabario[137].pc &&  dado <  silabario[138].pc):     { dcresponde=silabario[138].silaba;}  break;
+case (dado >=  silabario[138].pc &&  dado <  silabario[139].pc):     { dcresponde=silabario[139].silaba;}  break;
+case (dado >=  silabario[139].pc &&  dado <  silabario[140].pc):     { dcresponde=silabario[140].silaba;}  break;
+case (dado >=  silabario[140].pc &&  dado <  silabario[141].pc):     { dcresponde=silabario[141].silaba;}  break;
+case (dado >=  silabario[141].pc &&  dado <  silabario[142].pc):     { dcresponde=silabario[142].silaba;}  break;
+case (dado >=  silabario[142].pc &&  dado <  silabario[143].pc):     { dcresponde=silabario[143].silaba;}  break;
+case (dado >=  silabario[143].pc &&  dado <  silabario[144].pc):     { dcresponde=silabario[144].silaba;}  break;
+case (dado >=  silabario[144].pc &&  dado <  silabario[145].pc):     { dcresponde=silabario[145].silaba;}  break;
+case (dado >=  silabario[145].pc &&  dado <  silabario[146].pc):     { dcresponde=silabario[146].silaba;}  break;
+case (dado >=  silabario[146].pc &&  dado <  silabario[147].pc):     { dcresponde=silabario[147].silaba;}  break;
+case (dado >=  silabario[147].pc &&  dado <  silabario[148].pc):     { dcresponde=silabario[148].silaba;}  break;
+case (dado >=  silabario[148].pc &&  dado <  silabario[149].pc):     { dcresponde=silabario[149].silaba;}  break;
+case (dado >=  silabario[149].pc &&  dado <  silabario[150].pc):     { dcresponde=silabario[150].silaba;}  break;
+case (dado >=  silabario[150].pc &&  dado <  silabario[151].pc):     { dcresponde=silabario[151].silaba;}  break;
+case (dado >=  silabario[151].pc &&  dado <  silabario[152].pc):     { dcresponde=silabario[152].silaba;}  break;
+case (dado >=  silabario[152].pc &&  dado <  silabario[153].pc):     { dcresponde=silabario[153].silaba;}  break;
+case (dado >=  silabario[153].pc &&  dado <  silabario[154].pc):     { dcresponde=silabario[154].silaba;}  break;
+case (dado >=  silabario[154].pc &&  dado <  silabario[155].pc):     { dcresponde=silabario[155].silaba;}  break;
+case (dado >=  silabario[155].pc &&  dado <  silabario[156].pc):     { dcresponde=silabario[156].silaba;}  break;
+case (dado >=  silabario[156].pc &&  dado <  silabario[157].pc):     { dcresponde=silabario[157].silaba;}  break;
+case (dado >=  silabario[157].pc &&  dado <  silabario[158].pc):     { dcresponde=silabario[158].silaba;}  break;
+case (dado >=  silabario[158].pc &&  dado <  silabario[159].pc):     { dcresponde=silabario[159].silaba;}  break;
+case (dado >=  silabario[159].pc &&  dado <  silabario[160].pc):     { dcresponde=silabario[160].silaba;}  break;
+case (dado >=  silabario[160].pc &&  dado <  silabario[161].pc):     { dcresponde=silabario[161].silaba;}  break;
+case (dado >=  silabario[161].pc &&  dado <  silabario[162].pc):     { dcresponde=silabario[162].silaba;}  break;
+case (dado >=  silabario[162].pc &&  dado <  silabario[163].pc):     { dcresponde=silabario[163].silaba;}  break;
+case (dado >=  silabario[163].pc &&  dado <  silabario[164].pc):     { dcresponde=silabario[164].silaba;}  break;
+case (dado >=  silabario[164].pc &&  dado <  silabario[165].pc):     { dcresponde=silabario[165].silaba;}  break;
+case (dado >=  silabario[165].pc &&  dado <  silabario[166].pc):     { dcresponde=silabario[166].silaba;}  break;
+case (dado >=  silabario[166].pc &&  dado <  silabario[167].pc):     { dcresponde=silabario[167].silaba;}  break;
+case (dado >=  silabario[167].pc &&  dado <  silabario[168].pc):     { dcresponde=silabario[168].silaba;}  break;
+case (dado >=  silabario[168].pc &&  dado <  silabario[169].pc):     { dcresponde=silabario[169].silaba;}  break;
+case (dado >=  silabario[169].pc &&  dado <  silabario[170].pc):     { dcresponde=silabario[170].silaba;}  break;
+case (dado >=  silabario[170].pc &&  dado <  silabario[171].pc):     { dcresponde=silabario[171].silaba;}  break;
+case (dado >=  silabario[171].pc &&  dado <  silabario[172].pc):     { dcresponde=silabario[172].silaba;}  break;
+case (dado >=  silabario[172].pc &&  dado <  silabario[173].pc):     { dcresponde=silabario[173].silaba;}  break;
+case (dado >=  silabario[173].pc &&  dado <  silabario[174].pc):     { dcresponde=silabario[174].silaba;}  break;
+case (dado >=  silabario[174].pc &&  dado <  silabario[175].pc):     { dcresponde=silabario[175].silaba;}  break;
+case (dado >=  silabario[175].pc &&  dado <  silabario[176].pc):     { dcresponde=silabario[176].silaba;}  break;
+case (dado >=  silabario[176].pc &&  dado <  silabario[177].pc):     { dcresponde=silabario[177].silaba;}  break;
+case (dado >=  silabario[177].pc &&  dado <  silabario[178].pc):     { dcresponde=silabario[178].silaba;}  break;
+case (dado >=  silabario[178].pc &&  dado <  silabario[179].pc):     { dcresponde=silabario[179].silaba;}  break;
+case (dado >=  silabario[179].pc &&  dado <  silabario[180].pc):     { dcresponde=silabario[180].silaba;}  break;
+case (dado >=  silabario[180].pc &&  dado <  silabario[181].pc):     { dcresponde=silabario[181].silaba;}  break;
+case (dado >=  silabario[181].pc &&  dado <  silabario[182].pc):     { dcresponde=silabario[182].silaba;}  break;
+case (dado >=  silabario[182].pc &&  dado <  silabario[183].pc):     { dcresponde=silabario[183].silaba;}  break;
+case (dado >=  silabario[183].pc &&  dado <  silabario[184].pc):     { dcresponde=silabario[184].silaba;}  break;
+case (dado >=  silabario[184].pc &&  dado <  silabario[185].pc):     { dcresponde=silabario[185].silaba;}  break;
+case (dado >=  silabario[185].pc &&  dado <  silabario[186].pc):     { dcresponde=silabario[186].silaba;}  break;
+case (dado >=  silabario[186].pc &&  dado <  silabario[187].pc):     { dcresponde=silabario[187].silaba;}  break;
+case (dado >=  silabario[187].pc &&  dado <  silabario[188].pc):     { dcresponde=silabario[188].silaba;}  break;
+case (dado >=  silabario[188].pc &&  dado <  silabario[189].pc):     { dcresponde=silabario[189].silaba;}  break;
+case (dado >=  silabario[189].pc &&  dado <  silabario[190].pc):     { dcresponde=silabario[190].silaba;}  break;
+case (dado >=  silabario[190].pc &&  dado <  silabario[191].pc):     { dcresponde=silabario[191].silaba;}  break;
+case (dado >=  silabario[191].pc &&  dado <  silabario[192].pc):     { dcresponde=silabario[192].silaba;}  break;
+case (dado >=  silabario[192].pc &&  dado <  silabario[193].pc):     { dcresponde=silabario[193].silaba;}  break;
+case (dado >=  silabario[193].pc &&  dado <  silabario[194].pc):     { dcresponde=silabario[194].silaba;}  break;
+case (dado >=  silabario[194].pc &&  dado <  silabario[195].pc):     { dcresponde=silabario[195].silaba;}  break;
+case (dado >=  silabario[195].pc &&  dado <  silabario[196].pc):     { dcresponde=silabario[196].silaba;}  break;
+case (dado >=  silabario[196].pc &&  dado <  silabario[197].pc):     { dcresponde=silabario[197].silaba;}  break;
+case (dado >=  silabario[197].pc &&  dado <  silabario[198].pc):     { dcresponde=silabario[198].silaba;}  break;
+case (dado >=  silabario[198].pc &&  dado <  silabario[199].pc):     { dcresponde=silabario[199].silaba;}  break;
+case (dado >=  silabario[199].pc &&  dado <  silabario[200].pc):     { dcresponde=silabario[200].silaba;}  break;
+case (dado >=  silabario[200].pc &&  dado <  silabario[201].pc):     { dcresponde=silabario[201].silaba;}  break;
+case (dado >=  silabario[201].pc &&  dado <  silabario[202].pc):     { dcresponde=silabario[202].silaba;}  break;
+case (dado >=  silabario[202].pc &&  dado <  silabario[203].pc):     { dcresponde=silabario[203].silaba;}  break;
+case (dado >=  silabario[203].pc &&  dado <  silabario[204].pc):     { dcresponde=silabario[204].silaba;}  break;
+case (dado >=  silabario[204].pc &&  dado <  silabario[205].pc):     { dcresponde=silabario[205].silaba;}  break;
+case (dado >=  silabario[205].pc &&  dado <  silabario[206].pc):     { dcresponde=silabario[206].silaba;}  break;
+case (dado >=  silabario[206].pc &&  dado <  silabario[207].pc):     { dcresponde=silabario[207].silaba;}  break;
+case (dado >=  silabario[207].pc &&  dado <  silabario[208].pc):     { dcresponde=silabario[208].silaba;}  break;
+case (dado >=  silabario[208].pc &&  dado <  silabario[209].pc):     { dcresponde=silabario[209].silaba;}  break;
+case (dado >=  silabario[209].pc &&  dado <  silabario[210].pc):     { dcresponde=silabario[210].silaba;}  break;
+case (dado >=  silabario[210].pc &&  dado <  silabario[211].pc):     { dcresponde=silabario[211].silaba;}  break;
+case (dado >=  silabario[211].pc &&  dado <  silabario[212].pc):     { dcresponde=silabario[212].silaba;}  break;
+case (dado >=  silabario[212].pc &&  dado <  silabario[213].pc):     { dcresponde=silabario[213].silaba;}  break;
+case (dado >=  silabario[213].pc &&  dado <  silabario[214].pc):     { dcresponde=silabario[214].silaba;}  break;
+case (dado >=  silabario[214].pc &&  dado <  silabario[215].pc):     { dcresponde=silabario[215].silaba;}  break;
+case (dado >=  silabario[215].pc &&  dado <  silabario[216].pc):     { dcresponde=silabario[216].silaba;}  break;
+case (dado >=  silabario[216].pc &&  dado <  silabario[217].pc):     { dcresponde=silabario[217].silaba;}  break;
+case (dado >=  silabario[217].pc &&  dado <  silabario[218].pc):     { dcresponde=silabario[218].silaba;}  break;
+case (dado >=  silabario[218].pc &&  dado <  silabario[219].pc):     { dcresponde=silabario[219].silaba;}  break;
+case (dado >=  silabario[219].pc &&  dado <  silabario[220].pc):     { dcresponde=silabario[220].silaba;}  break;
+case (dado >=  silabario[220].pc &&  dado <  silabario[221].pc):     { dcresponde=silabario[221].silaba;}  break;
+case (dado >=  silabario[221].pc &&  dado <  silabario[222].pc):     { dcresponde=silabario[222].silaba;}  break;
+case (dado >=  silabario[222].pc &&  dado <  silabario[223].pc):     { dcresponde=silabario[223].silaba;}  break;
+case (dado >=  silabario[223].pc &&  dado <  silabario[224].pc):     { dcresponde=silabario[224].silaba;}  break;
+case (dado >=  silabario[224].pc &&  dado <  silabario[225].pc):     { dcresponde=silabario[225].silaba;}  break;
+case (dado >=  silabario[225].pc &&  dado <  silabario[226].pc):     { dcresponde=silabario[226].silaba;}  break;
+case (dado >=  silabario[226].pc &&  dado <  silabario[227].pc):     { dcresponde=silabario[227].silaba;}  break;
+case (dado >=  silabario[227].pc &&  dado <  silabario[228].pc):     { dcresponde=silabario[228].silaba;}  break;
+case (dado >=  silabario[228].pc &&  dado <  silabario[229].pc):     { dcresponde=silabario[229].silaba;}  break;
+case (dado >=  silabario[229].pc &&  dado <  silabario[230].pc):     { dcresponde=silabario[230].silaba;}  break;
+case (dado >=  silabario[230].pc &&  dado <  silabario[231].pc):     { dcresponde=silabario[231].silaba;}  break;
+case (dado >=  silabario[231].pc &&  dado <  silabario[232].pc):     { dcresponde=silabario[232].silaba;}  break;
+case (dado >=  silabario[232].pc &&  dado <  silabario[233].pc):     { dcresponde=silabario[233].silaba;}  break;
+case (dado >=  silabario[233].pc &&  dado <  silabario[234].pc):     { dcresponde=silabario[234].silaba;}  break;
+case (dado >=  silabario[234].pc &&  dado <  silabario[235].pc):     { dcresponde=silabario[235].silaba;}  break;
+case (dado >=  silabario[235].pc &&  dado <  silabario[236].pc):     { dcresponde=silabario[236].silaba;}  break;
+case (dado >=  silabario[236].pc &&  dado <  silabario[237].pc):     { dcresponde=silabario[237].silaba;}  break;
+case (dado >=  silabario[237].pc &&  dado <  silabario[238].pc):     { dcresponde=silabario[238].silaba;}  break;
+case (dado >=  silabario[238].pc &&  dado <  silabario[239].pc):     { dcresponde=silabario[239].silaba;}  break;
+case (dado >=  silabario[239].pc &&  dado <  silabario[240].pc):     { dcresponde=silabario[240].silaba;}  break;
+case (dado >=  silabario[240].pc &&  dado <  silabario[241].pc):     { dcresponde=silabario[241].silaba;}  break;
+case (dado >=  silabario[241].pc &&  dado <  silabario[242].pc):     { dcresponde=silabario[242].silaba;}  break;
+case (dado >=  silabario[242].pc &&  dado <  silabario[243].pc):     { dcresponde=silabario[243].silaba;}  break;
+case (dado >=  silabario[243].pc &&  dado <  silabario[244].pc):     { dcresponde=silabario[244].silaba;}  break;
+case (dado >=  silabario[244].pc &&  dado <  silabario[245].pc):     { dcresponde=silabario[245].silaba;}  break;
+case (dado >=  silabario[245].pc &&  dado <  silabario[246].pc):     { dcresponde=silabario[246].silaba;}  break;
+case (dado >=  silabario[246].pc &&  dado <  silabario[247].pc):     { dcresponde=silabario[247].silaba;}  break;
+case (dado >=  silabario[247].pc &&  dado <  silabario[248].pc):     { dcresponde=silabario[248].silaba;}  break;
+case (dado >=  silabario[248].pc &&  dado <  silabario[249].pc):     { dcresponde=silabario[249].silaba;}  break;
+case (dado >=  silabario[249].pc &&  dado <  silabario[250].pc):     { dcresponde=silabario[250].silaba;}  break;
+case (dado >=  silabario[250].pc &&  dado <  silabario[251].pc):     { dcresponde=silabario[251].silaba;}  break;
+case (dado >=  silabario[251].pc &&  dado <  silabario[252].pc):     { dcresponde=silabario[252].silaba;}  break;
+case (dado >=  silabario[252].pc &&  dado <  silabario[253].pc):     { dcresponde=silabario[253].silaba;}  break;
+case (dado >=  silabario[253].pc &&  dado <  silabario[254].pc):     { dcresponde=silabario[254].silaba;}  break;
+case (dado >=  silabario[254].pc &&  dado <  silabario[255].pc):     { dcresponde=silabario[255].silaba;}  break;
+case (dado >=  silabario[255].pc &&  dado <  silabario[256].pc):     { dcresponde=silabario[256].silaba;}  break;
+case (dado >=  silabario[256].pc &&  dado <  silabario[257].pc):     { dcresponde=silabario[257].silaba;}  break;
+case (dado >=  silabario[257].pc &&  dado <  silabario[258].pc):     { dcresponde=silabario[258].silaba;}  break;
+case (dado >=  silabario[258].pc &&  dado <  silabario[259].pc):     { dcresponde=silabario[259].silaba;}  break;
+case (dado >=  silabario[259].pc &&  dado <  silabario[260].pc):     { dcresponde=silabario[260].silaba;}  break;
+case (dado >=  silabario[260].pc &&  dado <  silabario[261].pc):     { dcresponde=silabario[261].silaba;}  break;
+case (dado >=  silabario[261].pc &&  dado <  silabario[262].pc):     { dcresponde=silabario[262].silaba;}  break;
+case (dado >=  silabario[262].pc &&  dado <  silabario[263].pc):     { dcresponde=silabario[263].silaba;}  break;
+case (dado >=  silabario[263].pc &&  dado <  silabario[264].pc):     { dcresponde=silabario[264].silaba;}  break;
+case (dado >=  silabario[264].pc &&  dado <  silabario[265].pc):     { dcresponde=silabario[265].silaba;}  break;
+case (dado >=  silabario[265].pc &&  dado <  silabario[266].pc):     { dcresponde=silabario[266].silaba;}  break;
+case (dado >=  silabario[266].pc &&  dado <  silabario[267].pc):     { dcresponde=silabario[267].silaba;}  break;
+case (dado >=  silabario[267].pc &&  dado <  silabario[268].pc):     { dcresponde=silabario[268].silaba;}  break;
+case (dado >=  silabario[268].pc &&  dado <  silabario[269].pc):     { dcresponde=silabario[269].silaba;}  break;
+case (dado >=  silabario[269].pc &&  dado <  silabario[270].pc):     { dcresponde=silabario[270].silaba;}  break;
+case (dado >=  silabario[270].pc &&  dado <  silabario[271].pc):     { dcresponde=silabario[271].silaba;}  break;
+case (dado >=  silabario[271].pc &&  dado <  silabario[272].pc):     { dcresponde=silabario[272].silaba;}  break;
+case (dado >=  silabario[272].pc &&  dado <  silabario[273].pc):     { dcresponde=silabario[273].silaba;}  break;
+case (dado >=  silabario[273].pc &&  dado <  silabario[274].pc):     { dcresponde=silabario[274].silaba;}  break;
+case (dado >=  silabario[274].pc &&  dado <  silabario[275].pc):     { dcresponde=silabario[275].silaba;}  break;
+case (dado >=  silabario[275].pc &&  dado <  silabario[276].pc):     { dcresponde=silabario[276].silaba;}  break;
+case (dado >=  silabario[276].pc &&  dado <  silabario[277].pc):     { dcresponde=silabario[277].silaba;}  break;
+case (dado >=  silabario[277].pc &&  dado <  silabario[278].pc):     { dcresponde=silabario[278].silaba;}  break;
+case (dado >=  silabario[278].pc &&  dado <  silabario[279].pc):     { dcresponde=silabario[279].silaba;}  break;
+case (dado >=  silabario[279].pc &&  dado <  silabario[280].pc):     { dcresponde=silabario[280].silaba;}  break;
+case (dado >=  silabario[280].pc &&  dado <  silabario[281].pc):     { dcresponde=silabario[281].silaba;}  break;
+case (dado >=  silabario[281].pc &&  dado <  silabario[282].pc):     { dcresponde=silabario[282].silaba;}  break;
+case (dado >=  silabario[282].pc &&  dado <  silabario[283].pc):     { dcresponde=silabario[283].silaba;}  break;
+case (dado >=  silabario[283].pc &&  dado <  silabario[284].pc):     { dcresponde=silabario[284].silaba;}  break;
+case (dado >=  silabario[284].pc &&  dado <  silabario[285].pc):     { dcresponde=silabario[285].silaba;}  break;
+case (dado >=  silabario[285].pc &&  dado <  silabario[286].pc):     { dcresponde=silabario[286].silaba;}  break;
+case (dado >=  silabario[286].pc &&  dado <  silabario[287].pc):     { dcresponde=silabario[287].silaba;}  break;
+case (dado >=  silabario[287].pc &&  dado <  silabario[288].pc):     { dcresponde=silabario[288].silaba;}  break;
+case (dado >=  silabario[288].pc &&  dado <  silabario[289].pc):     { dcresponde=silabario[289].silaba;}  break;
+case (dado >=  silabario[289].pc &&  dado <  silabario[290].pc):     { dcresponde=silabario[290].silaba;}  break;
+case (dado >=  silabario[290].pc &&  dado <  silabario[291].pc):     { dcresponde=silabario[291].silaba;}  break;
+case (dado >=  silabario[291].pc &&  dado <  silabario[292].pc):     { dcresponde=silabario[292].silaba;}  break;
+case (dado >=  silabario[292].pc &&  dado <  silabario[293].pc):     { dcresponde=silabario[293].silaba;}  break;
+case (dado >=  silabario[293].pc &&  dado <  silabario[294].pc):     { dcresponde=silabario[294].silaba;}  break;
+case (dado >=  silabario[294].pc &&  dado <  silabario[295].pc):     { dcresponde=silabario[295].silaba;}  break;
+case (dado >=  silabario[295].pc &&  dado <  silabario[296].pc):     { dcresponde=silabario[296].silaba;}  break;
+case (dado >=  silabario[296].pc &&  dado <  silabario[297].pc):     { dcresponde=silabario[297].silaba;}  break;
+case (dado >=  silabario[297].pc &&  dado <  silabario[298].pc):     { dcresponde=silabario[298].silaba;}  break;
+case (dado >=  silabario[298].pc &&  dado <  silabario[299].pc):     { dcresponde=silabario[299].silaba;}  break;
+case (dado >=  silabario[299].pc &&  dado <  silabario[300].pc):     { dcresponde=silabario[300].silaba;}  break;
+case (dado >=  silabario[300].pc &&  dado <  silabario[301].pc):     { dcresponde=silabario[301].silaba;}  break;
+case (dado >=  silabario[301].pc &&  dado <  silabario[302].pc):     { dcresponde=silabario[302].silaba;}  break;
+case (dado >=  silabario[302].pc &&  dado <  silabario[303].pc):     { dcresponde=silabario[303].silaba;}  break;
+case (dado >=  silabario[303].pc &&  dado <  silabario[304].pc):     { dcresponde=silabario[304].silaba;}  break;
+case (dado >=  silabario[304].pc &&  dado <  silabario[305].pc):     { dcresponde=silabario[305].silaba;}  break;
+case (dado >=  silabario[305].pc &&  dado <  silabario[306].pc):     { dcresponde=silabario[306].silaba;}  break;
+case (dado >=  silabario[306].pc &&  dado <  silabario[307].pc):     { dcresponde=silabario[307].silaba;}  break;
+case (dado >=  silabario[307].pc &&  dado <  silabario[308].pc):     { dcresponde=silabario[308].silaba;}  break;
+case (dado >=  silabario[308].pc &&  dado <  silabario[309].pc):     { dcresponde=silabario[309].silaba;}  break;
+case (dado >=  silabario[309].pc &&  dado <  silabario[310].pc):     { dcresponde=silabario[310].silaba;}  break;
+case (dado >=  silabario[310].pc &&  dado <  silabario[311].pc):     { dcresponde=silabario[311].silaba;}  break;
+case (dado >=  silabario[311].pc &&  dado <  silabario[312].pc):     { dcresponde=silabario[312].silaba;}  break;
+case (dado >=  silabario[312].pc &&  dado <  silabario[313].pc):     { dcresponde=silabario[313].silaba;}  break;
+case (dado >=  silabario[313].pc &&  dado <  silabario[314].pc):     { dcresponde=silabario[314].silaba;}  break;
+case (dado >=  silabario[314].pc &&  dado <  silabario[315].pc):     { dcresponde=silabario[315].silaba;}  break;
+case (dado >=  silabario[315].pc &&  dado <  silabario[316].pc):     { dcresponde=silabario[316].silaba;}  break;
+case (dado >=  silabario[316].pc &&  dado <  silabario[317].pc):     { dcresponde=silabario[317].silaba;}  break;
+case (dado >=  silabario[317].pc &&  dado <  silabario[318].pc):     { dcresponde=silabario[318].silaba;}  break;
+case (dado >=  silabario[318].pc &&  dado <  silabario[319].pc):     { dcresponde=silabario[319].silaba;}  break;
+case (dado >=  silabario[319].pc &&  dado <  silabario[320].pc):     { dcresponde=silabario[320].silaba;}  break;
+case (dado >=  silabario[320].pc &&  dado <  silabario[321].pc):     { dcresponde=silabario[321].silaba;}  break;
+case (dado >=  silabario[321].pc &&  dado <  silabario[322].pc):     { dcresponde=silabario[322].silaba;}  break;
+case (dado >=  silabario[322].pc &&  dado <  silabario[323].pc):     { dcresponde=silabario[323].silaba;}  break;
+case (dado >=  silabario[323].pc &&  dado <  silabario[324].pc):     { dcresponde=silabario[324].silaba;}  break;
+case (dado >=  silabario[324].pc &&  dado <  silabario[325].pc):     { dcresponde=silabario[325].silaba;}  break;
+case (dado >=  silabario[325].pc &&  dado <  silabario[326].pc):     { dcresponde=silabario[326].silaba;}  break;
+case (dado >=  silabario[326].pc &&  dado <  silabario[327].pc):     { dcresponde=silabario[327].silaba;}  break;
+case (dado >=  silabario[327].pc &&  dado <  silabario[328].pc):     { dcresponde=silabario[328].silaba;}  break;
+case (dado >=  silabario[328].pc &&  dado <  silabario[329].pc):     { dcresponde=silabario[329].silaba;}  break;
+case (dado >=  silabario[329].pc &&  dado <  silabario[330].pc):     { dcresponde=silabario[330].silaba;}  break;
+case (dado >=  silabario[330].pc &&  dado <  silabario[331].pc):     { dcresponde=silabario[331].silaba;}  break;
+case (dado >=  silabario[331].pc &&  dado <  silabario[332].pc):     { dcresponde=silabario[332].silaba;}  break;
+case (dado >=  silabario[332].pc &&  dado <  silabario[333].pc):     { dcresponde=silabario[333].silaba;}  break;
+case (dado >=  silabario[333].pc &&  dado <  silabario[334].pc):     { dcresponde=silabario[334].silaba;}  break;
+case (dado >=  silabario[334].pc &&  dado <  silabario[335].pc):     { dcresponde=silabario[335].silaba;}  break;
+case (dado >=  silabario[335].pc &&  dado <  silabario[336].pc):     { dcresponde=silabario[336].silaba;}  break;
+case (dado >=  silabario[336].pc &&  dado <  silabario[337].pc):     { dcresponde=silabario[337].silaba;}  break;
+case (dado >=  silabario[337].pc &&  dado <  silabario[338].pc):     { dcresponde=silabario[338].silaba;}  break;
+case (dado >=  silabario[338].pc &&  dado <  silabario[339].pc):     { dcresponde=silabario[339].silaba;}  break;
+case (dado >=  silabario[339].pc &&  dado <  silabario[340].pc):     { dcresponde=silabario[340].silaba;}  break;
+case (dado >=  silabario[340].pc &&  dado <  silabario[341].pc):     { dcresponde=silabario[341].silaba;}  break;
+case (dado >=  silabario[341].pc &&  dado <  silabario[342].pc):     { dcresponde=silabario[342].silaba;}  break;
+case (dado >=  silabario[342].pc &&  dado <  silabario[343].pc):     { dcresponde=silabario[343].silaba;}  break;
+case (dado >=  silabario[343].pc &&  dado <  silabario[344].pc):     { dcresponde=silabario[344].silaba;}  break;
+case (dado >=  silabario[344].pc &&  dado <  silabario[345].pc):     { dcresponde=silabario[345].silaba;}  break;
+case (dado >=  silabario[345].pc &&  dado <  silabario[346].pc):     { dcresponde=silabario[346].silaba;}  break;
+case (dado >=  silabario[346].pc &&  dado <  silabario[347].pc):     { dcresponde=silabario[347].silaba;}  break;
+case (dado >=  silabario[347].pc &&  dado <  silabario[348].pc):     { dcresponde=silabario[348].silaba;}  break;
+case (dado >=  silabario[348].pc &&  dado <  silabario[349].pc):     { dcresponde=silabario[349].silaba;}  break;
+case (dado >=  silabario[349].pc &&  dado <  silabario[350].pc):     { dcresponde=silabario[350].silaba;}  break;
+case (dado >=  silabario[350].pc &&  dado <  silabario[351].pc):     { dcresponde=silabario[351].silaba;}  break;
+case (dado >=  silabario[351].pc &&  dado <  silabario[352].pc):     { dcresponde=silabario[352].silaba;}  break;
+case (dado >=  silabario[352].pc &&  dado <  silabario[353].pc):     { dcresponde=silabario[353].silaba;}  break;
+case (dado >=  silabario[353].pc &&  dado <  silabario[354].pc):     { dcresponde=silabario[354].silaba;}  break;
+case (dado >=  silabario[354].pc &&  dado <  silabario[355].pc):     { dcresponde=silabario[355].silaba;}  break;
+case (dado >=  silabario[355].pc &&  dado <  silabario[356].pc):     { dcresponde=silabario[356].silaba;}  break;
+case (dado >=  silabario[356].pc &&  dado <  silabario[357].pc):     { dcresponde=silabario[357].silaba;}  break;
+case (dado >=  silabario[357].pc &&  dado <  silabario[358].pc):     { dcresponde=silabario[358].silaba;}  break;
+case (dado >=  silabario[358].pc &&  dado <  silabario[359].pc):     { dcresponde=silabario[359].silaba;}  break;
+case (dado >=  silabario[359].pc &&  dado <  silabario[360].pc):     { dcresponde=silabario[360].silaba;}  break;
+case (dado >=  silabario[360].pc &&  dado <  silabario[361].pc):     { dcresponde=silabario[361].silaba;}  break;
+case (dado >=  silabario[361].pc &&  dado <  silabario[362].pc):     { dcresponde=silabario[362].silaba;}  break;
+case (dado >=  silabario[362].pc &&  dado <  silabario[363].pc):     { dcresponde=silabario[363].silaba;}  break;
+case (dado >=  silabario[363].pc &&  dado <  silabario[364].pc):     { dcresponde=silabario[364].silaba;}  break;
+case (dado >=  silabario[364].pc &&  dado <  silabario[365].pc):     { dcresponde=silabario[365].silaba;}  break;
+case (dado >=  silabario[365].pc &&  dado <  silabario[366].pc):     { dcresponde=silabario[366].silaba;}  break;
+case (dado >=  silabario[366].pc &&  dado <  silabario[367].pc):     { dcresponde=silabario[367].silaba;}  break;
+case (dado >=  silabario[367].pc &&  dado <  silabario[368].pc):     { dcresponde=silabario[368].silaba;}  break;
+case (dado >=  silabario[368].pc &&  dado <  silabario[369].pc):     { dcresponde=silabario[369].silaba;}  break;
+case (dado >=  silabario[369].pc &&  dado <  silabario[370].pc):     { dcresponde=silabario[370].silaba;}  break;
+case (dado >=  silabario[370].pc &&  dado <  silabario[371].pc):     { dcresponde=silabario[371].silaba;}  break;
+case (dado >=  silabario[371].pc &&  dado <  silabario[372].pc):     { dcresponde=silabario[372].silaba;}  break;
+case (dado >=  silabario[372].pc &&  dado <  silabario[373].pc):     { dcresponde=silabario[373].silaba;}  break;
+case (dado >=  silabario[373].pc &&  dado <  silabario[374].pc):     { dcresponde=silabario[374].silaba;}  break;
+case (dado >=  silabario[374].pc &&  dado <  silabario[375].pc):     { dcresponde=silabario[375].silaba;}  break;
+case (dado >=  silabario[375].pc &&  dado <  silabario[376].pc):     { dcresponde=silabario[376].silaba;}  break;
+case (dado >=  silabario[376].pc &&  dado <  silabario[377].pc):     { dcresponde=silabario[377].silaba;}  break;
+case (dado >=  silabario[377].pc &&  dado <  silabario[378].pc):     { dcresponde=silabario[378].silaba;}  break;
+case (dado >=  silabario[378].pc &&  dado <  silabario[379].pc):     { dcresponde=silabario[379].silaba;}  break;
+case (dado >=  silabario[379].pc &&  dado <  silabario[380].pc):     { dcresponde=silabario[380].silaba;}  break;
+case (dado >=  silabario[380].pc &&  dado <  silabario[381].pc):     { dcresponde=silabario[381].silaba;}  break;
+case (dado >=  silabario[381].pc &&  dado <  silabario[382].pc):     { dcresponde=silabario[382].silaba;}  break;
+case (dado >=  silabario[382].pc &&  dado <  silabario[383].pc):     { dcresponde=silabario[383].silaba;}  break;
+case (dado >=  silabario[383].pc &&  dado <  silabario[384].pc):     { dcresponde=silabario[384].silaba;}  break;
+case (dado >=  silabario[384].pc &&  dado <  silabario[385].pc):     { dcresponde=silabario[385].silaba;}  break;
+case (dado >=  silabario[385].pc &&  dado <  silabario[386].pc):     { dcresponde=silabario[386].silaba;}  break;
+case (dado >=  silabario[386].pc &&  dado <  silabario[387].pc):     { dcresponde=silabario[387].silaba;}  break;
+case (dado >=  silabario[387].pc &&  dado <  silabario[388].pc):     { dcresponde=silabario[388].silaba;}  break;
+case (dado >=  silabario[388].pc &&  dado <  silabario[389].pc):     { dcresponde=silabario[389].silaba;}  break;
+case (dado >=  silabario[389].pc &&  dado <  silabario[390].pc):     { dcresponde=silabario[390].silaba;}  break;
+case (dado >=  silabario[390].pc &&  dado <  silabario[391].pc):     { dcresponde=silabario[391].silaba;}  break;
+case (dado >=  silabario[391].pc &&  dado <  silabario[392].pc):     { dcresponde=silabario[392].silaba;}  break;
+
+  
+/*
+    
+    case (dado >= silabario[0].pc &&  dado <  silabario[1].pc): 
+    { dcresponde=silabario[1].silaba;}  break;
+  case (dado >= silabario[1].pc &&   dado <  silabario[2].pc):
+    { dcresponde=silabario[2].silaba;}  break;
+  case (dado >= silabario[2].pc &&   dado <  silabario[3].pc):
+    { dcresponde=silabario[3].silaba;} break;
+  case (dado >= silabario[3].pc &&  dado <  silabario[4].pc): 
+    { dcresponde=silabario[4].silaba;}  break;
+  case (dado >= silabario[4].pc &&   dado <  silabario[5].pc):
+    { dcresponde=silabario[5].silaba;}  break;
+
+*/
+    
+}
+
+  return dcresponde;   
+}
+
+/* fin de la funcion dado cargado*/
+
+
+
+  
+
+var angulo_fraseos=[
+
+ 'Vía Láctea ',
+ 'Meteoritos ',
+ 'Catalogo espectral ',
+ 'Asteroides ',
+ 'Supernova local ',
+ 'Catalogo espectral ',
+ 'Enana blanca a punto de ebullición ',
+ 'Etrella fugaz ',
+ 'Luz emitida ',
+ 'Satélite natural ',
+ 'Planeta enano ',
+ 'Asteroide ',
+ 'Meteoroide ',
+ 'Cometa ',
+ 'Objeto transneptuniano ',
+ 'Luna ',
+ 'Sol ',
+ 'Cuerpo celeste ',
+ 'Estrella ',
+ 'Infinito de infinitos ',
+ 'Estallido circumpolar ',
+ 'Polvo estelar ',
+ 'Espacio gaseoso ',
+ 'Espacio vacío ',
+ 'Materia obscura ',
+ 'Agujero negro ',
+ 'Gigante gaseoso ',
+ 'Año-luz ',
+ 'Expo planeta ',
+ 'Astrobiologia ',
+ 'Sirio ',
+ 'Disco de oro ',
+ 'Orión ' ,
+ 'Multiverso ',
+ 'Tipo espectral ',
+ 'Cometa ',
+ 'Gigante gaseoso ',
+ 'Cumulo de las Pléyades ',
+ 'Polvo estelar ',
+ 'Arcoiris ',
+ 'Eclipse ',
+ 'Enana blanca ',
+ 'Cuásar ',
+ 'Cumulo estelar ',
+ 'Cumulo de galaxias ',
+ 'Evento catastrófico de supernova ',
+ 'Final de supernova ',
+ 'Planeta rocoso ',
+ 'Atmosfera estelar ',
+ 'Gigante gaseoso ',
+ 'Anillos de saturno ',
+ 'Estratosférico ',
+ 'Catálogo de estrellas ',
+ 'Tipo espectral ',
+ 'Astronomía babilónica ',
+ 'Cielo egipcio ',
+ 'Estrella circumpolar ',
+ 'Carta estelar ',
+'Ecuador celeste',
+ 'Planeta extrasolar ',
+ 'Astrónomo ancestral ',
+ 'Equinoccio ',
+ 'Alineación oracular ',
+ 'Eclíptica de la esfera celeste ',
+ 'Horizonte de sucesos ',
+ 'Libro de las estrellas ',
+ 'Enciclopedia cósmica ' ,
+ 'Cielo digitalizado ' ,
+ 'Paradoja de Galileo ',
+ 'Osa Mayor ',
+ 'Anillos de Saturno ' ,
+ 'Gaia ',
+ 'Anudada con Andrómeda ',
+ 'Luna Roja ',
+ 'Paradoja de Fermi ',
+ 'Péndulo en oscilacion libre ',
+ 'Energía oscura ',
+ 'Espectro estelar ',
+ 'Estación espacial ',
+ 'Estrella binaria ',
+ 'Nubes fractales ' ,
+ 'Cosmonauta ',
+ 'Tiempo cero ',
+ 'Aurora Boreal ',
+ 'Calendario solar ',
+ 'Cefeida ',
+ 'Ciclo solar ',
+ 'Estrella enana ',
+ 'Estrella fugaz ',
+ 'Estrella supermasiva ',
+ 'Planeta extrasolar ',
+ 'Coordenadas celestes ',
+ 'Estrella de neutrones ',
+ 'Estrella polar ',
+ 'Estrella supergigante ',
+ 'Estrella variable ',
+ 'Partícula de dios ',
+ 'Exoplaneta ',
+ 'Expansión del universo ',
+ 'Fases de la luna ',
+ 'Formación estelar ',
+ 'Lente gravitatoria ',
+ 'Galaxia activa ',
+ 'Todas las estrellas ',
+ 'Big Bang ',
+ 'Luz ultravioleta ',
+ 'Anillo doble de Saturno ',
+ 'Mancha solar ',
+ 'Materia obscura ',
+ 'Interestelar ',
+ 'Meteorito ',
+ 'Nebulosa ',
+ 'Planeta enano ',
+ 'Nova ',
+ 'Infrarrojo ',
+ 'Objeto transneptuniano ',
+ 'Supernova ' ,
+ 'Radiotelescopio ' ,
+ 'Calendario Lunar ',
+ 'Tiempo astronómico ',
+ 'Universo paralelo ',
+ 'Pulsar ',
+ 'Fondo cósmico de microondas ',
+ 'Radioastronomía ',
+ 'Rayos cósmicos ',
+ 'Satélite ' ,
+ 'Saturno ',
+ 'Proton ',
+ 'Sol ',
+ 'Espacio-tiempo ',
+ 'Reloj astronómico ',
+ 'Reloj solar ',
+ 'Reloj de agua ',
+ 'Tiempo paralelo ',
+ 'Numero Infinito ',
+ 'Calendario Lunar ',
+ 'Esfera ',
+ 'Tierra ',
+ 'Partícula subatómica ',
+ 'Neutrino ',
+ 'Plasma estelar ',
+ 'Gravedad ',
+ 'Helio en estado gaseoso ',
+ 'Protoestrella ',
+ 'Gigante roja ',
+ 'Pulsar ',
+ 'Cometa ',
+ 'Supercúmulo ',
+ 'Cuásar frío ',
+ 'Colisión de galaxias ',
+ 'Astro luminoso ' ,
+ 'Vía Láctea ',
+ 'Pendulo de Foucault ',
+ 'Orión ' ,
+ 'Calendario Solar ',
+ 'Electron ',
+ 'Graviton ',
+ 'Foton ',
+ 'Oxigeno ',
+ 'Número atómico ',
+ 'Brillo aparente ',
+ 'Astrolabio '
+
+
+    ];
+    
+  
+var ddsustantivos=[
+      
+ '¿descifrar es acaso traducir? ',
+ 'árbol gramático ',
+ 'inmanencia poética ',
+ 'primer cardinal transfinito ',
+ 'vacío semántico ',
+ 'lenguaje clandestino ',
+ 'dispositivo metafórico ',
+ 'múltiple puro ',
+ 'figura evanescente ',
+ 'múltiple inconsciente ',
+ 'dispersión semiótica ',
+ 'objeto fallido ',
+ 'un árbol recursivo ',
+ 'lengua tranfinita ',
+ 'infinito lingüístico ',
+ 'microscópicas escrituras ',
+ 'infinito configurado ',
+ 'lengua materna ', 
+ 'partitura materna ',
+ 'la mirada dice ',
+ 'Habla, maquina de la memoria ',
+ 'cardinal tranfinito ',
+ 'palabras enlazadas como estrellas ',
+ 'ciclos sin nombre ',
+ 'un vacío sin bordes la lengua ',
+ 'Figura verbal evanescente ',
+ 'Objeto fallido de la lengua ',
+ 'silencio fallido ' ,
+ 'Trémula escritura ',
+ 'infinita inmanencia lingüística ',
+ 'múltiple puro y callado ',
+ 'palabras dispersas ',
+ 'sonido mudo ',
+ 'cuadrantes lingüísticos ',
+ 'metafórica maquinaria ',
+ 'sueños despiertan voces ',
+ 'incorpóreas escrituras ',
+ 'lenguaje de la no forma ',
+ 'límites arborescentes del habla ',
+ 'callar lo no dicho ',
+ 'olvidar lo callado lo borrado ',
+ 'lo no dicho borrado ',
+ 'una palabra un silencio otra palabra ',
+ 'dice lo que dice ',
+ 'un silencio un rumor prohibido ',
+ 'mente recursiva ',
+ 'lengua prosodia de trasnoche ',
+ 'confesión terapéutica de la vigilia ',
+ 'lenguas disidencias subterráneas ',
+ 'sueño recurrente ',
+ 'un libro clandestino ',
+ 'poema inconcluso ',
+ 'mundo sin palabras ',
+ 'canto de la lengua materna ',
+ 'Silencio fallido ' ,
+ 'lenguajes mórficos ',
+ 'configuración de palabras ',
+ 'pausa y palabra ' ,
+ 'lenguaje no humano ',
+ 'cuerpo verbal finito ',
+ 'palabras enlazadas con puntos ',
+ 'W es infinito ',
+ 'isomorfismo lingüístico ',
+ 'límite del habla ',
+ 'habla sin restricción ',
+ 'escritura irrestricta ',
+ 'sintagma preciso ',
+ 'infinito en potencia ',
+ 'palabra no puede perecer ',
+ 'lo dicho entre líneas ',
+ 'finito perfecto ',
+ 'inmensidad silencio ',
+ 'lenguaje atributo de infinitud ',
+ 'una disposición subjetiva ',
+ 'metalenguaje ',
+ 'borroneo de infancia ',
+ 'mirada mórfica ',       
+ 'palabras irrestrictas ',
+ 'gramática poética ',   
+ 'infancia transgredida en el lenguaje ',
+ 'la precisión expresiva del árbol lingüístico ',
+ 'Oh árbol recursivo ',
+ 'conjugación azarosa ',
+ 'la gramática de lo callado ',
+ 'el sueño sistema de escritura ',
+ 'verbos conjugados al azar ',
+ 'una gramática derivativa ',   
+ 'la recursividad del laberinto ',
+ 'un árbol recursivo ',
+ 'pausa del sintagma ',
+ 'semántica que la comprime ',
+ 'sintaxis prohibida ',
+ 'escrituras entrelazan ',
+ 'palabras clandestinas ',
+ 'sujetos sin objetos ',
+ 'palabra recursiva ',
+ 'infancia del olvido ',
+ 'escuela del recuerdo ',
+ 'recuerdo prelingüístico ', 
+ 'ideas desanudadas de las palabras ',
+ 'homofonía entre alfabetos ',
+ 'Ideograma ',
+ 'marcada pausa entre las palabras ',
+ 'dice lo que dice ',
+ 'fidelidad onírica ',
+ 'anotar una lengua ',
+ 'Alli donde eso escribe, eso no es figurativo ',
+ 'significante no falla ',
+ 'conjunción azarosa ',
+ 'sonido rítmico ' ,
+ 'escape semántico ',
+ 'intensísima atracción ',
+ 'finito imperfecto del habla ',
+ 'silencios arborescentes ',
+ 'palabras atracciones ',
+ 'palabra prohibida ',
+ 'lengua clandestina ',
+ 'palabras meteoritos ',
+ 'conjunción de sintagmas ',
+ 'texto inconcluso ',
+ 'feroz figura retórica ',
+ 'notacion directa de la intuicion ',
+ 'una estrategia alternativa a la traducción ',
+ 'dice lo que dice ',
+ 'el sueño lucido ',
+ 'psicomagia palabra no dicha ',
+ 'los libros prohibidos ',
+ 'la palabra desciframiento ',
+ 'ficción imaginaria ',
+ 'sustrato narrativo ',
+ 'figura arquetípica ',
+ 'destino intertextual ',
+'inconsciente autoral',
+ 'revelacion diurna ',
+ 'la estrategia de la sospecha ',
+ 'obsesión metafórica ',
+ 'auto ficción de vidas paralelas ',
+ 'epifanía de una estirpe ',
+ 'escritura matemática ',
+ 'escritura combinatoria ',
+ 'irresistible metalenguaje ',
+ 'pensamiento tentacular ',
+ 'identidad líquida ',
+ 'semiótica trans ',
+ 'escritura computable ',
+ 'prejuicio jeroglífico ',
+ 'inconsciente que cifra ',
+ 'desciframiento del jeroglífico ',
+ 'Kircher afirmaba que sabía leer los jeroglíficos ',
+ 'el sueño como un sistema de escritura ',
+ 'imagen significante feroz ',
+ 'la palabra desciframiento ',
+ 'un texto cifrado ',
+ 'el descifrado de una partitura ',
+ 'el texto de la piedra de Rosetta ',
+ 'olvido del Olvido ',
+ 'fijación de la palabra ',
+ 'escritura fonetica ',
+ 'Sombra de las ideas ',
+ 'biblioteca clandestina ',
+ 'una sonata de piano ',
+ 'el dibujo en el tapiz ',
+ 'Lengua Interestelar '
+
+
+];
+    
+      
+    
+var verboprets=[
+'REGIMA',
+'OSIRIS',
+'CAOS',
+'SUEÑO',
+'CERES',
+'TRIPTÓLEMO',
+'PITUMNO',
+'ERICTONIO',
+'GLAUCIO',
+'TRACES',
+'MISA',
+'PIRODES',
+'HASAMÓN',
+'FEGA',
+'BELHAIOT',
+'PILUMNO',
+'ORESTEO',
+'NOÉ',
+'LIBER',
+'ESTÁFILO',
+'ISI S',
+'MINERVA',
+'ARISTEO',
+'NEMBROT',
+'FALA',
+'GEBUR',
+'RAMESO',
+'REGOMER',
+'SARGO',
+'DÁNAO',
+'DOXIO',
+'JOBAL',
+'HUSBAL',
+'CICLOPE',
+'TEODORO',
+'PERDIX',
+'TALO',
+'TEÓDOTO',
+'PARUG',
+'SEMEOL',
+'ESPEUSIPO',
+'LUSCINIO',
+'COREBO',
+'BARCA',
+'CLÓSTER',
+'ARACNE',
+'BOECIO',
+'FRIGIO',
+'CAATAR',
+'PROCÓN',
+'LICARNASO',
+'CARES',
+'ABANTE',
+'STRAM',
+'CRATES',
+'ÁRFALO',
+'DUBÍTRIDES',
+'HERMAEL',
+'RAMESES',
+'MINOS',
+'DÉDALO',
+'GLICERA',
+'AMOR',
+'ANACARSIS',
+'DELOS',
+'LIDO',
+'APIS',
+'QUIRÓN',
+'CIRCE',
+'FARFACÓN',
+'AIGUAM',
+'HÓSTANES',
+'ZOROASTRO',
+'SUÁ',
+'CALDEO',
+'ÁTALO',
+'PROMETEO',
+'ABEL',
+'ENOS',
+'ZEDECOR',
+'CURETA',
+'ABRAHAM',
+'JUAN',
+'EMAEL',
+'IMO',
+'ANFIARAO',
+'ORFEO',
+'ÁLFARES',
+'CRITÓN',
+'BELO',
+'DIÁGORAS',
+'QUEMIS',
+'MIRCANES',
+'GIDES',
+'MARSIAS',
+'TUBAL',
+'ANFIÓN',
+'AMURIO',
+'BAROS',
+'VENUS',
+'TUBALCAÍN',
+'PISEO',
+'BIRRIAS',
+'BELOROFONTE',
+'NEPTUNO',
+'ETOLO',
+'PERSEO',
+'ARTEMÓN',
+'FÉNIX',
+'MALETES',
+'GAEGAR',
+'ERMO',
+'MARMITO',
+'TEUT',
+'CONRADO',
+'TALES',
+'PITÁGORAS',
+'NAUFIDES',
+'ENDIMIÓN',
+'HIPARCO',
+'ATLAS',
+'ARQUÍMEDES',
+'CLEÓSTRATO',
+'ARQUITAS',
+'JENÓFANES',
+'PLATÓN',
+'RAIMUNDO',
+'GIORDANO',
+'PROTÁGORAS',
+'ALCMEÓN',
+'EUCLIDES',
+'EPICURO',
+'TIMÓN',
+'CRATES',
+'CLEANTES',
+'MENEDEMO',
+'POLIMNESTO',
+'FILOLAO',
+'EUSPEUSIPO',
+'ANAXÁGORAS',
+'ARQUELAO',
+'PIRRÓN',
+'DIODORO',
+'SIMÓN',
+'DIÓGENES',
+'HOMERO',
+'SÓFOCLES',
+'FARMACÓN',
+'TAPES',
+'MÉLICO'
+
+];
+      
+
+          
+var colcuatros=[
+
+
+'la muñeca en el interior del bolsillo',
+ 'un nuevo y pequeño yo salvaje',
+ 'un hombre vestido de rojo',
+ 'un hombre vestido de negro trotando a lomo de un caballo negro',
+ 'no un carruaje o un coche sino una caldera',
+ 'en el subsuelo salvaje de la naturaleza femenina ',
+ 'al bosque a buscar a Baba Yaga ',
+ 'naturaleza sensorial ',
+ 'belleza oscura ',
+ 'estado de reposo ',
+ 'estado sensorial de la música ',
+ 'alumbramiento psíquico ',
+ 'una dulzura que no parecía de este mundo ',
+ 'un fuego subterráneo cuyas llamas suben y bajan cíclicamente ',
+ 'intensa conciencia sensorial ',
+ 'sexual Sagrada ',
+ 'indagación de los misterios metálicos ',
+ 'transmutación de la sombra ',
+ 'la naturaleza doble de los seres ',
+ 'el poder de DOS ',
+ 'el poder del Nombre ',
+ 'Barba Azul la psique intenta evitar que la maten ',
+ 'sigiloso apetito ',
+ 'adquisición de la fiereza ',
+ '¿Qué es este grito del mar? ',
+ 'un sueño que surge de la conciencia del soñador ',
+ 'las fases de la memoria ',
+ 'hallazgo accidental del tesoro ',
+ 'la persecución y el escondrijo ',
+ 'los rasgos mas característicos de la psique salvaje ',
+ 'un tercer ojo de sabiduría ',
+ 'lobos y otras criaturas se acercan al río para refrescarse ',
+ 'hiperfascinación por heroinas ',
+ 'espacio para los nenufares ',
+ 'el temblor y el canto del corazón ',
+ 'danza del cuerpo y el alma ',
+ 'llena y se vacía sube y baja igual que un rio salvaje ',
+ 'hallazgo de la manada ',
+ 'alquimia blanca ',
+ 'me siento bajo los viejos y grandes arboles de mi infancia ',
+ 'un estado mental en el que pueda alcanzar esta clase de soledad ',
+ 'el ancestro desterrado ',
+ 'arbol de Diana ',
+ 'un misterioso anhelo que se intensifica cada vez mas ',
+ 'enfrentarse con los peñascos y las piedras cubiertas de nieve ',
+ 'por detrás del velo sus ojos de plata ',
+ 'mucho tiempo lejos de casa ',
+ 'espacios fisicos de la mente-casa ',
+ 'señal natural del regreso a casa ',
+ 'responder a la llamada aunque no sepamos a donde vamos ',
+ 'lo que realmente siente y piensa acerca de si misma ',
+ 'la diosa sumeria Inanna en su forma acuática ',
+ 'medicina muy buena para los ojos ',
+ 'un ancestral mensaje que dice -no temas ',
+ 'justo las sensaciones que tiene que experimentar ',
+ 'la mujer que vive en el fondo del lago ',
+ 'una mujer anhela su lugar de origen psíquico ',
+ 'la recuperación de lo divino en la oscuridad de Hel ',
+ 'un resplandor del crepúsculo infernal ',
+ 'un surco recién arado de negra tierra ',
+ 'estalla desde la oscuridad de debajo de la montaña ',
+ 'llamada para la vuelta a casa ',
+ 'la psique interior ',
+ 'los archivos pisquicos de la humanidad ',
+ 'estamos atadas a los compromisos de la tierra ',
+ 'podemos alejarnos a nado en el mar ',
+ 'cualidades que se asocian con una sanadora ',
+ 'una influencia entorpecedora en nuestras vidas ',
+ 'arquetipo de la sanadora ',
+ 'el heroe solar ',
+ 'somos como los anfibios podemos vivir en tierra pero ',
+ 'no sin efectuar viajes al agua ',
+ 'los arroyos que existen en nosotras ',
+ 'alguien prepara un lugar psíquico especial ',
+ 'este gran rio subterráneo encuentra estuarios ',
+ 'quien quiera que la oiga  la vea o la perciba ',
+ 'contemplación de la palabra -la imagen o la idea ',
+ 'estamos tan vivas que damos vida a nuestra vez ',
+ 'camina junto a los ciclos de la naturaleza ',
+ 'cuando el espíritu pesa se dirige hacia el agua ',
+ 'alimento de la vida creativa ',
+ 'creatividad cambia de forma ',
+ 'espíritu deslumbrador ',
+ 'nadie se pone de acuerdo acerca de lo que ha visto en medio de semejante resplandor ',
+ 'el cálido cuerpo de un recién nacido ',
+ 'excarvar en busca del oro de la psique ',
+ 'la entrega de la lagrima ',
+ 'las fases mas tardías ',
+ 'androgino primordial ',
+ 'tradicion de las cuentistas/cantadoras ',
+ 'te ha narrado el cuento y te ha explicado su significado ',
+ 'la persona que se lo enseño a la persona que te lo enseño ',
+ 'ombigo genalogico del cuento ',
+ 'no apropiarse de la obra que no se ha otorgado ',
+ 'un cuento no es simplemente un cuento ',
+ 'personas que se conocen muy bien se intercambian cuentos a modo de regalos ',
+ 'el narrador equivocado ',
+ 'cuentistas-curanderas ',
+ 'ser una sombra significa tener un toque y un paso tan ligeros ',
+ 'convertirse en algo tan tenue como el humo y volver a manifestarse ',
+ 'Un nuevo yo está en camino ',
+ 'vida interior tal y como la hemos conocido a punto de cambiar ',
+ 'Lo que ansiamos tener pertenece a otro mundo ',
+ 'la fatiga en el mundo subterraneo ',
+ 'el depredador atraido por la conciencia ',
+ 'Oso de la Luna creciente ',
+ 'Antes del Zen las montañas eran montañas y los arboles eran arboles ',
+ 'Durante el Zen las montañas eran tronos de los espiritus ',
+ 'los arboles las voces de la sabiduria ',
+ 'La vida tendria que volver al mundo ',
+ 'Las mujeres (y los hombres) tienden a dar por terminado los acontecimientos pasados diciendo ',
+ 'Yo/El/Ella/Ellos hiceron todo lo que pudieron ',
+ 'clavar las cosas en la tierra ',
+ 'la cólera colectiva es tambien una maestra ',
+ 'cualquier persona que conozca lo que es  la adolescencia ',
+ 'la soledad es un bosque plegable que llevo conmigo donde quiera que voy ',
+ 'el regreso a casa de la psique ',
+ 'narrativa pre-personal ',
+ 'trans-personal ',
+ 'ritual de Luna llena '
+
+
+];
+
+      
+var colcincos=[
+
+ 'Zafiro ',
+ 'Tanzanita ',
+ 'Color verde hierba ',
+ 'Esmeralda ',
+ 'Azul claro ',
+ 'Aguamarina ',
+ 'Topacio ',
+ 'Cristal ',
+ 'Morganita ',
+ 'Rosa ',
+ 'Rubi ',
+ 'Rodonita ',
+ 'Labradorita ',
+ 'Craso ',
+ 'Translúcido ',
+ 'Reflejo azulado ',
+ 'Oro ',
+ 'Plata ',
+ 'Vitreo ',
+ 'Cobre ',
+ 'Mercurio ',
+ 'Platino ',
+ 'Arrecife de coral ',
+ 'Roca metamorfica ',
+ 'Diamante ',
+ 'Rubí ',
+ 'Gema ',
+ 'Esmeralda ',
+ 'Carbono ',
+ 'Arrecife ',
+ 'Jade ',
+ 'Zircón ',
+ 'Ámbar ',
+ 'Espinela ',
+ 'Lapislázuli ',
+ 'Malaquita ',
+ 'Cuarzo  ',
+ 'Ágata ',
+ 'Cuarzo rutilado ',
+ 'Cornalina ',
+ 'Aguamarina ' ,
+ 'Incoloro ',
+ 'Leucozafiro ',
+ 'Adularescencia ',
+ 'Labradorescencia ',
+ 'Turquesa ',
+ 'Opalescencia ',
+ 'Aventurescencia ',
+ 'Adamantina ',
+ 'Obsidiana ',
+ 'Nacar ',
+ 'Sedoso ',
+ 'Opalo ',
+ 'Ambar ',
+ 'Céreo jade ',
+ 'Graso azabache ',
+ 'Transparencia ',
+ 'Semitransparencia ',
+ 'Fuego ',
+ 'Iridiscencia ',
+ 'Agata ',
+ 'Diamante ',
+ 'Granate ',
+ 'Topacio azul ',
+ 'Fabulitas ',
+ 'Perla ',
+ 'Rodonita ',
+ 'Meteoro ',
+ 'Escarabajo de Oro ',
+ 'Meteorito ',
+ 'Ojo de gato ',
+ 'Fractal ',
+ 'Topacio ',
+ 'Ópalo ',
+ 'Quasi cristal ',
+ 'Zafiro ',
+ 'Algas ',
+ 'Árboles ',
+ 'Condrita ',
+ 'Acondrita ',
+ 'Lapislazuli ',
+ 'Costas fractales ',
+ 'Alegoria ',
+ 'Olas marinas ',
+ 'Ananás ',
+ 'Proteínas ',
+ 'Turquesa ',
+ 'Roca Ignea ',
+ 'Copo de nieve ',
+ 'Alejandrita ',
+ 'Amatista ',
+ 'Bolivianita ',
+ 'Carbono ',
+ 'Ematista ',
+ 'la Puerta de Ishtar ',
+ 'Cuarzo citrino ',
+ 'Cuarzo blanco ',
+ 'Cuarzo rosa ',
+ 'Azufre ',
+ 'Fósforo ',
+ 'Silicio ',
+ 'Niquel ',
+ 'Uranio ',
+ 'Neon ',
+ 'Cromo ',
+'Potasio ',
+ 'Flúor ',
+ 'Rueda de la vida ',
+ 'la paraoja de los gemelos ',
+ 'Paradoja de Galileo ',
+ 'la Caverna ',
+ 'El huevo y la gallina ',
+ 'Paradoja del hotel infinito ',
+ 'Conjunto de Cantor ',
+ 'Aquiles y la Tortuga ',
+ 'Serpiente que se muerde la cola ',
+ 'Paradoja de Teseo ',
+ 'Ojo de Dios ',
+ 'Biblioteca infinita ',
+ 'Catálogo de catálogos ',
+ 'Teorema del  mono infinito ',
+ 'reloj de arena ',
+ 'Micrroscopia ',
+ 'Macroscopia ',
+ 'Topologia '
+
+
+];
+
+var colsietes=[  
+
+ 'la memoria del hombre es un repertorio de ácidos nucleicos ',
+ 'dos sillas abarrotadas de libros ',
+ 'una lámina de acero que se desplaza ',
+ 'una placa de vidrio mojada ',
+ 'una vaga luminosidad purpúrea ',
+ 'una llovizna de arena fina ',
+ 'oxígeno para aparatos portátiles ',
+ 'la noche por encima del globo transparente ',
+ 'objetos heterogéneos echados allí de cualquier modo ',
+ 'Prometeo navegaba por las inmediaciones de Alfa de Acuario ',
+ 'un susurro en el exterior de la nave ',
+ 'un desorden que habían tratado de disimular burdamente ',
+ 'sorprendí una forma que se movía pero no era otra cosa que mi propia imagen ',
+ 'estrepito de acero que rebota sobre acero ',
+ 'un campo magnético artificial ',
+ 'las ondas apizarradas del océano ',
+ 'Planeta Solaris ',
+ 'un deslumbrante fulgor escarlata ',
+ 'las olas del océano como centelleantes crestas de mercurio ',
+ 'espejos de radiotelescopios ',
+ 'un dispositivo automático ',
+ 'no es mi intención dictarle a usted una cierta secuencia de pensamientos ',
+ 'la certeza de haber iniciado un viaje sin retorno ',
+ 'la pesa de un péndulo gigante ',
+ 'superficie estriada de surcos violáceos ',
+ 'la vos misma del planeta Solaris ',
+ 'el rugido del viento ',
+ 'el collar del paracaídas ',
+ 'una superficie ajedrezada con puntos verdes y blancos ',
+ 'un cuerpo oblongo y plateado ',
+ 'los flancos erizados de antenas de radar ',
+ '¿tú qué sugieres? —pregunté—. ¿Enviarla al espacio? Mañana volvería ¿no es cierto? ',
+ 'objetos heterogéneos echados allí de cualquier modo ',
+ 'una sombra elipsoidal de un negro mas intenso ',
+ 'un frasco de vidrio oscuro ',
+ 'un frasco tan liviano que parecía soplado en papel ',
+ 'al resplandor purpúreo de un crepúsculo lúgubre ',
+ 'la fosforescencia del cuadrante del contador ',
+ 'un espacio vacío a mis espaldas una célula fotoeléctrica ',
+ 'la vos inanimada del centro de información ',
+ 'una maraña de cintas magnetofónicas ',
+ 'réplicas grotescas de los instrumentos ',
+ 'tan alto como la nave de una catedral ',
+ 'curva parabólica ',
+ 'el desorden que reinaba, una flecha de neón ',
+ 'una plataforma mecánica que se desplaza sin ruido ',
+ 'ventana panorámica una bruma ardiente ' ,
+ 'claraboyas de vidrio espuma espesa ',
+ 'cibernética ',
+ 'un zocalo invisible ',
+ 'recipientes calorífugos cubiertos de polvo ',
+ 'detrás de la ventana las crestas de las olas ',
+ 'Las agujas del reloj de pared ',
+ '—la esfera estaba dividida en veinticuatro partes— ',
+ 'El sol empezaba a descender ',
+ 'no estamos en la Tierra ',
+ 'el visitante está casi en blanco, es sólo un fantasma nutrido de recuerdos ',
+ 'observador invisible ',
+ 'fenómenos análogos serían considerados un simple capricho de la naturaleza ',
+ 'una muñeca de museo ',
+ 'una ventana panorámica cóncava ',
+ 'del agua un resplandor grasoso ',
+ 'olas aceite de tintes rosáceos ',
+ 'reflejos escarlatas un camarote de barco ',
+ 'la diversidad inagotable de las formaciones solaristas ',
+ 'anaqueles atestados de libros ',
+ 'reflejos escarlatas ',
+ 'la palabra garabateada con trazos borrosos ',
+ 'advertencias dementes ',
+ 'hombros hundidos bajo el peso de la escafandra ',
+ 'Una ventana panorámica cóncava ',
+ 'dominaba el océano un resplandor escarlata ',
+ 'agua brillaba con un resplandor grasoso ',
+ 'en el estudio de Solaris, un punto de vista lírico es inconveniente ',
+ 'un planeta en el que todo al fin resulta posible ',
+ 'el océano rara vez se repite ',
+ 'toda clase de instrumentos ',
+ 'Un microscopio depositado directamente en el suelo ',
+ '¿Qué improvisaría yo para aquellos espectadores interiores? ',
+ 'botas de exploración planetaria ',
+ 'una muñeca viva. Abría y cerraba los labios ',
+ 'perdiendo de vista la medida y el significado de la realidad ',
+ 'No es la Operación Pensamiento es la Operación Desesperación ',
+ 'los primeros atlas y los primeros inventarios ',
+ 'la obra abstracta y acida de un autodidacta ',
+ 'Renuncias a continuar con el experimento, deseas partir y llevarla contigo ',
+ 'pálidos fantasmas de las estrellas ',
+ '¿cómo podría yo descifrar un recuerdo reprimido? ',
+ '¿cómo podría hacerlo esa extraña y gigantesca criatura? ',
+ 'millones de hipótesis recopiladas en la biblioteca ',
+ 'mis procesos mentales serían proyectado en el océano ',
+ 'registro de todos los procesos, conscientes e inconscientes ',
+ 'descubrimiento de otros mundos y otras civilizaciones ',
+ '¿Y qué haremos con esos otros mundos? ',
+ 'alguien hubiera intentado borrar todos los rastros ',
+ 'La Tierra y Solaris ',
+ 'sin haber explorado íntegramente sus propios abismos ',
+ 'el largo devenir histórico de los hombres ',
+ 'La película se desenrollaba- invisible bajo las dos cápsulas esféricas ',
+ 'ella no tenía cuerpo-no tenía rostro- respiraba en mí real e imperceptible ',
+ 'el océano era un conglomerado químico sin vida propia ',
+ 'una nave de reconocimiento en órbita ',
+ 'la piedra filosofal de los estudios solaristas ',
+ 'maravillosas creaciones y una órbita excéntrica ',
+ 'ese plasma, esas ciudades vivientes que aparecen y desaparecen a lo largo del día ',
+ 'una biblioteca donde todos los libros están escritos en una lengua incomprensible ',
+ '¿No hay otros planetas como éste? ',
+ 'concebida como un proyecto enciclopédico ',
+ 'un solo libro no hubiera bastado para contenerla ',
+ 'Las ondulaciones sombrías del océano reflejaban una luz violácea ',
+ 'El cielo era rojo sólo en el cénit ',
+ 'unos globos de cristal que contenían flores ',
+ 'callejones que descendían bruscamente hacia la orilla ',
+ 'orilla bañada de espumas viscosas ',
+ 'Ciudad flotante ',
+ 'un navío a punto de zozobrar ',
+ 'las cascadas de arena caían en barrancos ',
+ 'los músculos negros del océano ',
+ 'la ola titubeó, retrocedió ',
+ 'Del océano había brotado una flor ',
+ 'formas inesperadas ',
+ 'una intrincada red de callejuelas sinuosas ',
+ 'montañas que se levantaban en la superficie del océano ',
+ 'las ciudades cartilaginosas de los mimoides ',
+ 'la teoría del océano apsíquico ',
+ '¿Era el océano una criatura viviente? ',
+ 'Imposible negar las funciones psíquicas del océano ',
+ 'El océano vivía, pensaba, actuaba ',
+ 'Un librito pequeño encuadernado en piel ',
+ 'El disco del sol azul descendía de un lado del horizonte ',
+ 'una gigantesca flor de vidrio ',
+ 'colosal rubí palpitante de resplandores ',
+ 'una esbelta columna ',
+ 'una presencia invisible ',
+ 'unas plegarias aritméticas ',
+ 'Le hemos puesto nombre a todas las estrellas ',
+ 'emprendimos el viaje sublime ',
+ 'Mira nuestro triunfo, Kelvin, mira nuestras celdas ',
+ 'Un muro de vidrio corredizo ',
+ 'la doble puerta blindada que se abría al océano ',
+ 'y admitir que avanzaba hacia algo inalcanzable ',
+ 'el océano tomó la huella más profunda ',
+ 'una clasificación alfabética de las hipótesis solaristas ',
+ 'una ciudad marroquí, desquiciada por un terremoto ',
+ 'piel reptante de un animal ',
+ 'una carne musculosa que segregaba una espuma carmesí ',
+ 'las ruinas de una ciudad arcaica ',
+ 'algo que recordaba a un jardín ',
+ 'epejismo preciso ',
+ 'escafandra despresurizada ',
+ 'una muñeca de museo ',
+ 'un busto de yeso ',
+ 'una cara flexible ',
+ 'una niña triunfante ',
+ 'la niebla que se cierra ',
+ 'instinto de predicción ',
+ 'alucinación fuera del cuerpo ',
+ 'foto descolorida del centeno ',
+ 'mapa de una ciudad abandonada ',
+ 'una cudad de juguete ',
+ 'un telefono gastado',
+ 'libros sin autor conocido',
+ 'y la caotica biblioteca', 
+ 'unos ojos demasiado claros ',
+ 'un objeto mágico ',
+ 'un  conejo de peluche ',
+ 'un marco sin ventana ',
+ 'un disco de vidrio ',
+ 'El cuerpo de los sabios considerado como un todo '
+
+
+
+
+];
+      
+app.controller('myCtrl', function($scope) {
+    $scope.angulo_fraseo = angulo_fraseos[ Math.floor(Math.random() * angulo_fraseos.length)] ;
+    $scope.sustantivo = ddsustantivos[ Math.floor(Math.random() * ddsustantivos.length)] ;
+    $scope.verbopret = verboprets[ Math.floor(Math.random() * verboprets.length)] ;
+    $scope.colcuatro= colcuatros[ Math.floor(Math.random() * colcuatros.length)] ;
+    $scope.colcinco= colcincos[ Math.floor(Math.random() * colcincos.length)] ;
+    $scope.colsiete= colsietes[ Math.floor(Math.random() * colsietes.length)] ;
+    $scope.numcolsiete= Math.floor(Math.random() * colsietes.length);
+    $scope.numpoema=Math.random()*(900-0)+0;
+  
+    $scope.silaba1=dadocargado();
+    $scope.silaba2=dadocargado();
+    $scope.silaba3=dadocargado();
+    $scope.silaba4=dadocargado();
+    $scope.silaba5=dadocargado();
+    $scope.silaba6=dadocargado();
+  
+    $scope.silaba7=dadocargado();
+    $scope.silaba8=dadocargado();
+    $scope.silaba9=dadocargado();
+    $scope.silaba10=dadocargado();
+    $scope.silaba11=dadocargado();
+    $scope.silaba12=dadocargado();
+  
+    $scope.silaba13=dadocargado();
+    $scope.silaba14=dadocargado();
+    $scope.silaba15=dadocargado();
+    $scope.silaba16=dadocargado();
+    $scope.silaba17=dadocargado();
+    $scope.silaba18=dadocargado();
+   
+    
+    $scope.cuantas= getParameterByName('estrellas');
+
+});
+
+var svg = document.getElementById("svg");
+var polygon = document.createElementNS("http://www.w3.org/2000/svg", "polygon");
+svg.appendChild(polygon);
+
+var array = arr = [ 
+    [ Math.random() *10,0 ], 
+    [ Math.random() * 40, 
+     Math.random() * 190 ],
+    [ Math.random() * 100, Math.random() * 70 ],
+    [ Math.random() * 12,Math.random() * 80 ],     
+    [ Math.random() * 175,Math.random() * 200 ], ];
+
+for (value of array) {
+  var point = svg.createSVGPoint();
+  point.x = value[0];
+  point.y = value[1];
+  polygon.points.appendItem(point);
+}
+
+
+
+      
+</script>
+    
+
+</body>
+
+</html>

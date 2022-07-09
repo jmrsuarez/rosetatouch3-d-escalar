@@ -1,0 +1,2620 @@
+<svg width="200" height="130" 
+     version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 200 130">
+  
+  <rect x="0" y="0" width="200" height="130" fill="black" />
+
+  
+
+  
+  <circle cx="100" cy="60" r="2.5" stroke="blue" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="7.5" stroke="blue" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="12.5" stroke="blue" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="17.5" stroke="blue" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="22.5" stroke="blue" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="27.5" stroke="blue" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="32.5" stroke="blue" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="37.5" stroke="blue" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="42.5" stroke="blue" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="47.5" stroke="blue" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="52.5" stroke="blue" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="57.5" stroke="blue" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="62.5" stroke="blue" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="67.5" stroke="blue" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="72.5" stroke="blue" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="77.5" stroke="blue" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="82.5" stroke="blue" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="87.5" stroke="blue" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="92.5" stroke="blue" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="97.5" stroke="blue" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="102.5" stroke="blue" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="107.5" stroke="blue" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="112.5" stroke="blue" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="117.5" stroke="blue" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="125" stroke="blue" stroke-width=".1" fill="transparent" />
+
+  
+   <g stroke="blue" stroke-width=".1" stroke-linecap="round">
+     
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(357.1875  100 60)" />
+     
+   <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(3.375 100 60)" />
+   <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(9   100 60)" />
+   <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(14.625   100 60)" />
+   <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(20.25   100 60)" />
+   
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(25.875  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(31.5   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(37.125  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(42.75  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(48.375   100 60)" />
+     
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(54   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(59.625  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(65.25   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(70.875   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(76.5   100 60)" />
+     
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(82.125   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(87.75   100 60)" />
+   
+     
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(93.375   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(99  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(104.625   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(110.25   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(115.875   100 60)" />
+          
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(121.5   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(127.125  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(132.75   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(138.375   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(144   100 60)" />
+            
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(149.625   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(155.25  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(160.875  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(166.5   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(172.125 100 60)" />   
+     
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(177.75  100 60)" />   
+     
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(183.375   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(189  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(194.625  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(200.25  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(205.875 100 60)" /> 
+     
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(211.5  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(217.125  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(222.75  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(228.375  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(234 100 60)" /> 
+     
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(239.625  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(245.25  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(250.875  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(256.5  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(262.125 100 60)" /> 
+     
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(267.75  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(273.375  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(279  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(284.625  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(290.25 100 60)" /> 
+         
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(295.875   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(301.5 100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(307.125  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(312.75  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(318.375  100 60)" /> 
+     
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(324  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(329.625 100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(335.25  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(340.875 100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(346.5 100 60)" /> 
+        
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(352.125  100 60)" />
+     
+     
+  </g>
+  
+  
+<defs>
+    
+     
+</defs>
+
+
+
+  <text  class="textorotado"    style="fill:blue;"  transform = "rotate(0 100 60)">
+
+    <tspan x="100" y="-30"  font-size="0.25em">E</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >E</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >E</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >E</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >E</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >E</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >E</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >E</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >E</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >E</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >E</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >E</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >E</tspan>
+</text>
+
+
+  
+  <text  class="textorotado"    style="fill:blue;"  transform = "rotate(5.625 100 60)">
+
+    
+    <tspan x="100" y="-30"  font-size="0.25em">E</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >E</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >E</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >E</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >E</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >E</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >E</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >E</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >E</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >E</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+    
+</text>
+
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(11 100 60)">
+
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >E</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >E</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >E</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >E</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >E</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >E</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >E</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >E</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >E</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >E</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >E</tspan>
+  
+  
+  
+</text>
+
+  
+
+<text  class="textorotado"     style="fill:blue;"  transform = "rotate(16 100 60)">
+
+ <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >E</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >E</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >E</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >E</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >E</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >E</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >E</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >E</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >E</tspan>
+  
+</text>
+  
+  
+  
+  
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(22 100 60)">
+
+   <tspan x="100" y="-30"  font-size="0.25em">E</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >E</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >E</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >E</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >E</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >E</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >E</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >E</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >E</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+  
+</text>
+  
+  
+  
+  
+  
+<text  class="textorotado"     style="fill:blue;"  transform = "rotate(28 100 60)">
+
+
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >E</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >E</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >E</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >E</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >E</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >E</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >E</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >E</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >E</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >E</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >E</tspan>
+  
+</text>
+  
+  
+<text  class="textorotado"     style="fill:blue;"  transform = "rotate(33 100 60)">
+
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+  
+  
+  
+<text  class="textorotado"     style="fill:blue;"  transform = "rotate(39 100 60)">
+
+  
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(45 100 60)">
+
+  <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(50 100 60)">
+
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"   style="fill:blue;"  transform = "rotate(56 100 60)">
+
+ 
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"   style="fill:blue;"  transform = "rotate(61 100 60)">
+
+  
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+  
+  
+</text>
+  
+  
+  
+  
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(67 100 60)">
+
+  
+  
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"     style="fill:blue;"  transform = "rotate(73.125 100 60)">
+
+ 
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"   style="fill:blue;"  transform = "rotate(78.75 100 60)">
+
+  
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+  
+  
+<text  class="textorotado"     style="fill:blue;"  transform = "rotate(84.375 100 60)">
+
+  <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+  
+</text>
+  
+  
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(90 100 60)">
+
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"  style="fill:blue;"  transform = "rotate(95.625 100 60)">
+
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(101.25 100 60)">
+
+  
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+  
+</text>
+  
+  
+  
+  
+<text  class="textorotado"   style="fill:blue;"  transform = "rotate(106.875 100 60)">
+
+  
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(112.5 100 60)">
+
+  <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"     style="fill:blue;"  transform = "rotate(118.125 100 60)">
+
+  
+  <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(123.75 100 60)">
+
+  
+  
+  <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+  
+</text>
+  
+  
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(129.375 100 60)">
+
+  <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+  
+</text>
+  
+  
+<text  class="textorotado"     style="fill:blue;"  transform = "rotate(135 100 60)">
+
+  
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+  
+</text>
+  
+  
+<text  class="textorotado"     style="fill:blue;"  transform = "rotate(140.625 100 60)">
+
+  
+  <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(146.25 100 60)">
+
+  
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+  
+</text>
+  
+  
+<text  class="textorotado"     style="fill:blue;"  transform = "rotate(151.875 100 60)">
+
+  
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(157.5 100 60)">
+
+  
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+  
+</text>
+  
+  
+  
+<text  class="textorotado"     style="fill:blue;"  transform = "rotate(163.125 100 60)">
+
+  
+ <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"     style="fill:blue;"  transform = "rotate(168.75 100 60)">
+
+  
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+<text  class="textorotado"     style="fill:blue;"  transform = "rotate(174.375 100 60)">
+
+  
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+  
+</text>
+  
+  
+  
+<text  class="textorotado"     style="fill:blue;"  transform = "rotate(180 100 60)">
+
+  
+  
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(185.625 100 60)">
+
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+  
+</text>
+  
+  
+  
+  
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(174.375 100 60)">
+
+  
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+  
+</text>
+  
+  
+  
+<text  class="textorotado"     style="fill:blue;"  transform = "rotate(180 100 60)">
+
+  
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(185.625 100 60)">
+
+  
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(191.25 100 60)">
+
+ <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"     style="fill:blue;"  transform = "rotate(196.875 100 60)">
+
+  <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"     style="fill:blue;"  transform = "rotate(202.5 100 60)">
+
+  
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(208.125 100 60)">
+
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+  
+  
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(213.75 100 60)">
+
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(219.375 100 60)">
+
+  
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(225 100 60)">
+
+  
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+  
+  
+  
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(230.625 100 60)">
+
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+  
+  
+<text  class="textorotado"   style="fill:blue;"  transform = "rotate(236.25 100 60)">
+
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+  
+  
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(241.875 100 60)">
+
+  
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(247.5 100 60)">
+
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"   style="fill:blue;"  transform = "rotate(253.125 100 60)">
+
+  
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+  
+</text>
+  
+  
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(258.75 100 60)">
+
+  
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(264.375 100 60)">
+
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(270 100 60)">
+
+  
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+  
+</text>
+  
+  
+  
+  
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(275.625 100 60)">
+
+  
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+  
+</text>
+  
+  
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(281.25 100 60)">
+
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(286.875 100 60)">
+
+  
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+  
+</text>
+  
+  
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(292.5 100 60)">
+
+  
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(298.125 100 60)">
+
+  
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(303.75 100 60)">
+
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"     style="fill:blue;"  transform = "rotate(309.375 100 60)">
+
+ 
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(315 100 60)">
+
+  
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(320.625 100 60)">
+
+  
+  
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+<text  class="textorotado"  style="fill:blue;"  transform = "rotate(326.25 100 60)">
+
+  
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(331.875 100 60)">
+
+  
+  <tspan x="100" y="-30"  font-size="0.25em">E</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >Φ</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >Ω</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >Ω</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >Ω</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >Ω</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >.</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >Ω</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >Ω</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >Ω</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+  
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(337.5 100 60)">
+
+  
+   <tspan x="100" y="-30"  font-size="0.25em">Ω</tspan> 
+    <tspan x="100" y="-25"  font-size="0.24em">o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em">o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em">o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em">Ω</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em">o</tspan>
+    <tspan x="100" y="0" font-size="0.19em">o</tspan>
+    <tspan x="100" y="5" font-size="0.18em">Ω</tspan>
+    <tspan x="100" y="10" font-size="0.17em">o</tspan>
+    <tspan x="100" y="15" font-size="0.16em">Ω</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >Ω</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >Ω</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >Ω</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(343.125 100 60)">
+
+  
+  
+  
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+  
+  
+<text  class="textorotado"     style="fill:blue;"  transform = "rotate(348.75 100 60)">
+
+  
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+<text  class="textorotado"    style="fill:blue;"  transform = "rotate(354.375 100 60)">
+
+  
+  
+   <tspan x="100" y="-30"  font-size="0.25em">o</tspan>
+    <tspan x="100" y="-25"  font-size="0.24em" >o</tspan>
+    <tspan x="100" y="-20"  font-size="0.23em" >o</tspan>
+    <tspan x="100" y="-15" font-size="0.22em" >o</tspan>
+    <tspan x="100" y="-10" font-size="0.21em" >o</tspan>
+  
+    <tspan x="100" y="-5" font-size="0.20em" >o</tspan>
+    <tspan x="100" y="0" font-size="0.19em" >o</tspan>
+    <tspan x="100" y="5" font-size="0.18em" >o</tspan>
+    <tspan x="100" y="10" font-size="0.17em" >o</tspan>
+    <tspan x="100" y="15" font-size="0.16em" >o</tspan>
+
+    <tspan x="100" y="20" font-size="0.15em" >o</tspan>
+    <tspan x="100" y="25" font-size="0.14em" >o</tspan>
+    <tspan x="100" y="30" font-size="0.13em" >o</tspan>
+    <tspan x="100" y="35" font-size="0.12em" >o</tspan>
+    <tspan x="100" y="40" font-size="0.11em" >o</tspan>
+  
+    <tspan x="100" y="45" font-size="0.10em" >o</tspan>
+    <tspan x="100" y="50" font-size="0.09em" >o</tspan>
+    <tspan x="100" y="55" font-size="0.08em" >o</tspan>
+    <tspan x="100" y="60" font-size="0.07em" >o</tspan>
+    <tspan x="100" y="65" font-size="0.06em" >o</tspan>
+  
+    <tspan x="100" y="70" font-size="0.05em" >o</tspan>
+    <tspan x="100" y="75" font-size="0.04em" >o</tspan>
+    <tspan x="100" y="80" font-size="0.03em" >o</tspan>
+    <tspan x="100" y="85" font-size="0.02em" >o</tspan>
+    <tspan x="100" y="90" font-size="0.01em" >o</tspan>
+  
+</text>
+  
+  
+  
+   <animate attributeName="viewBox" begin="0s" dur="4s"
+
+           values="20 6 100 65; 0 0 200 130" fill="freeze" />
+  
+</svg>

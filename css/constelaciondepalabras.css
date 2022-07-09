@@ -1,0 +1,265 @@
+/* CSS files add styling rules to your content */
+
+
+    body { 
+        background: black; 
+        overflow: hidden;
+    } 
+  
+  
+    @keyframes animate { 
+        0% { 
+            width: 0px; 
+            height: 0px; 
+        } 
+        30% { 
+            width: 50px; 
+            height: 0px; 
+        } 
+        60% { 
+            width: 50px; 
+            height: 80px; 
+        } 
+    } 
+
+
+  
+.geeks { 
+            width: 78%; 
+            /*top: 30%;*/
+            top:10%; 
+            position: absolute; 
+            left: 17%; 
+            overflow: hidden; 
+            animation: animate 2s linear forwards; 
+            color:white;  
+            font-size: 1.2em;
+            font-family: "Source Sans Pro", sans-serif;
+            /*border: 10px solid red;*/
+        } 
+  
+.geeks h1 { 
+            color: white;
+            font-size: 0.70em;
+            font-family: "Source Sans Pro", sans-serif;
+        
+        }
+
+
+.geeksi { 
+            color: white;
+            font-size: 0.70em;
+            font-family: "Source Sans Pro", sans-serif;
+        
+        } 
+
+
+.geeksa { 
+            color: white;
+            font-size: 0.8em;
+            font-family: "Source Sans Pro", sans-serif;
+         } 
+
+.geeksb { 
+            color: white;
+            font-size: 0.8em;
+            font-family: "Source Sans Pro", sans-serif;
+        
+        } 
+
+.geeksc { 
+            color: white;
+            font-size: 1em;
+            font-family: "Source Sans Pro", sans-serif;
+        
+        } 
+
+
+.geeksd { 
+            color: white;
+            font-size: 0.7em;
+            font-family: "Source Sans Pro", sans-serif;
+        
+        } 
+
+
+.geekgran { 
+            color: white;
+            font-size: 3em;
+            font-family: "Source Sans Pro", sans-serif;
+        
+        } 
+
+
+
+.geekse { 
+            color: white;
+            font-size: .95em;
+            font-family: "Source Sans Pro", sans-serif;
+        
+        } 
+
+
+        @keyframes animate { 
+            0% { 
+                width: 0px; 
+                height: 0px; 
+            } 
+            30% { 
+                width: 0px; 
+                height: 0px; 
+            } 
+            60% { 
+                width: 50px; 
+                height: 80px; 
+            } 
+        } 
+
+
+
+
+.btn {
+  display:block;
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+ border: 5px solid DeepSkyBlue;
+  position:absolute;
+  right:2%;
+  top:90%;
+  cursor: pointer;
+}
+
+.btn:hover {
+  display:block;
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  border: 6px solid white;
+  
+  position:absolute;
+}
+
+
+.btn:after {
+  display:block;
+  height: 12.5px;
+  width:  12.5px;
+  border-radius: 50%;
+content: " ";
+  position: absolute;
+  z-index: -1;
+  top: 2px;
+  left: 2px;
+  right: 5px;
+  bottom: 5px;
+  border: 7px solid Teal;
+}
+
+
+
+#sic01
+{
+  display:none;
+}
+
+#sic02
+{
+  display:none;
+}
+
+#sic03
+{
+  display:none;
+}
+
+#sic04
+{
+  display:none;
+}
+
+#sic05
+{
+  display:none;
+}
+
+#sic06
+{
+  display:none;
+}
+
+
+#sic07
+{
+  display:none;
+}
+
+#sic08
+{
+  display:none;
+}
+
+#sic09
+{
+  display:none;
+}
+
+#sic10
+{
+  display:none;
+}
+
+#sic11
+{
+  display:none;
+}
+
+#sic12
+{
+  display:none;
+}
+
+
+#sic13
+{
+  display:none;
+}
+
+#sic14
+{
+  display:none;
+}
+
+#sic15
+{
+  display:none;
+}
+
+#sic16
+{
+  display:none;
+}
+
+#sic17
+{
+  display:none;
+}
+
+#sic18
+{
+  display:none;
+}
+
+#constelacion
+{
+  display:none;
+}
+
+
+polyline {
+  stroke: white;          
+  stroke-width:3;
+  fill:none;
+}
+
+

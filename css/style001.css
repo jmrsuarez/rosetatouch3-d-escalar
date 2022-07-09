@@ -1,0 +1,96 @@
+body
+{
+  background-image:'https://i.imgur.com/7J9w9l6.png';
+  background:black;
+  overflow: hidden; /* Hide scrollbars */
+}
+
+.mySlides {
+  display:none;
+  
+}
+
+.sobre
+{
+  position:absolute;
+}
+
+.roseta
+{  
+  /*outline: 25px dotted green; */
+   width:1450;
+   margin-left:auto;
+   margin-right:auto;
+   display:block;
+  transform: translateX(-6.30%);
+   position:absolute;
+      
+}
+
+.divh1
+{
+  padding: 40px;
+  color:white;
+  position:absolute;
+  font-family: Helvetica, sans-serif;
+  font-weight:lighter;
+}
+
+
+.divp1
+{
+  padding: 40px;
+  color:white;
+  position:absolute;
+  font-family: Helvetica, sans-serif;
+  font-weight:lighter;
+  right:2%;
+  display:none;
+}
+
+.divj1
+{
+  padding: 40px;
+  color:white;
+  position:absolute;
+  font-family: Helvetica, sans-serif;
+  font-weight:lighter;
+  width:22%;
+  bottom:1%;
+  
+}
+
+
+
+sub {
+  font-size: 0.55em;
+}
+
+.desvanecer
+{animation:fading 10s infinite}@keyframes fading{0%{opacity:0}50%{opacity:1}100%{opacity:0}
+}
+
+.desvanecer2
+{animation:fading 7s infinite}@keyframes fading{0%{opacity:0}30%{opacity:1}80%{opacity:1}100%{opacity:0}
+}
+
+
+
+function redirect (url) {
+    var ua        = navigator.userAgent.toLowerCase(),
+        isIE      = ua.indexOf('msie') !== -1,
+        version   = parseInt(ua.substr(4, 2), 10);
+
+    // Internet Explorer 8 and lower
+    if (isIE && version < 9) {
+        var link = document.createElement('a');
+        link.href = url;
+        document.body.appendChild(link);
+        link.click();
+    }
+
+    // All other browsers can use the standard window.location.href (they don't lose HTTP_REFERER like Internet Explorer 8 & lower does)
+    else { 
+        window.location.href = url; 
+    }
+}

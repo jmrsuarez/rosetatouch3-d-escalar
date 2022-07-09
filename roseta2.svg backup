@@ -1,0 +1,324 @@
+<svg width="200" height="130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  
+  <rect x="0" y="0" width="200" height="200" fill="blue" />
+
+  
+
+  
+  <circle cx="100" cy="60" r="5" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="10" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="15" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="20" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="25" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="30" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="35" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="40" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="45" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="50" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="55" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="60" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="65" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="70" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="75" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="80" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="85" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="90" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="95" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="100" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="105" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="110" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="115" stroke="yellow" stroke-width=".1" fill="transparent" />
+  <circle cx="100" cy="60" r="120" stroke="yellow" stroke-width=".1" fill="transparent" />
+
+  <circle cx="100" cy="60" r="125" stroke="yellow" stroke-width=".1" fill="transparent" />
+
+  
+   <g stroke="yellow" stroke-width=".1" stroke-linecap="round">
+        <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(0  100 60)" />
+     
+   <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(5.625  100 60)" />
+   <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(11.25   100 60)" />
+   <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(16.875   100 60)" />
+   <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(22.5   100 60)" />
+   
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(28.125  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(33.75   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(39.375   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(45   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(50.625   100 60)" />
+     
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(56.25   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(61.875  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(67.5   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(73.125   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(78.75   100 60)" />
+     
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(84.375   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(90   100 60)" />
+   
+     
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(95.625   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(101.25  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(106.875   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(112.5   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(118.125   100 60)" />
+     
+     
+          
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(123.75   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(129.375  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(135   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(140.625   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(146.25   100 60)" />
+     
+     
+     
+            
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(151.875   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(157.5  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(163.125  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(168.75   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(174.375  100 60)" />   
+     
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(180  100 60)" />   
+     
+                 
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(185.625   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(191.25  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(196.875  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(202.5  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(208.125 100 60)" /> 
+     
+     
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(213.75   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(219.375  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(225  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(230.635  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(236.5 100 60)" /> 
+     
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(241.875  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(247.5  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(253.125  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(258.75  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(264.375 100 60)" /> 
+     
+    
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(270   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(275.625  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(281.25  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(286.875  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(292.5 100 60)" /> 
+     
+         
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(298.125   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(303.75 100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(309.375  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(315  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(320.625  100 60)" /> 
+     
+         
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(326.25   100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(331.875 100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(337.5  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(343.125  100 60)" />
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(348.75  100 60)" /> 
+     
+         
+  <line x1="-10" y1="60" x2="95" y2="60" transform="rotate(354.375   100 60)" />
+     
+     
+  </g>
+  
+  
+  <defs>
+
+    
+    <path d="M95,60a5
+             ,5
+             0 
+             1,0
+             10,0a5,5 0 1,0 -10,0" 
+          id="circle01"  />
+    
+    <path d="M90,60a10,10 0 1,0 20,0a10,10 0 1,0 -20,0" 
+          id="circle02"  />
+    
+    <path d="M85,60a15,15 0 1,0 30,0a15,15 0 1,0 -30,0" 
+          id="circle03"  />
+    
+    <path d="M80,60a20,20 0 1,0 40,0a20,20 0 1,0 -40,0" 
+          id="circle04"  />
+    
+    <path d="M75,60a25,25 0 1,0 50,0a25,25 0 1,0 -50,0" 
+          id="circle05"  />
+    
+    <path d="M70,60a30,30 0 1,0 60,0a30,30 0 1,0 -60,0" 
+          id="circle06"  />
+    
+    <path d="M65,60a35,35 0 1,0 70,0a35,35 0 1,0 -70,0" 
+          id="circle07"  />
+    
+    <path d="M60,60a40,40 0 1,0 80,0a40,40 0 1,0 -80,0" 
+          id="circle08"  />
+    
+    
+    <path d="M55,60a45,45 0 1,0 90,0a45,45 0 1,0 -90,0" 
+          id="circle09"  />
+    
+    
+    <path d="M50,60a50,50 0 1,0 100,0a50,50 0 1,0 -100,0" 
+          id="circle10"  />
+    
+    <path d="M45,60a55,55 0 1,0 110,0a55,55 0 1,0 -110,0" 
+          id="circle11"  />
+    
+    
+    <path d="M40,60a60,60 0 1,0 120,0a60,60 0 1,0 -120,0" 
+          id="circle12"  />
+    
+    
+    
+    <path d="M35,60a65,65 0 1,0 130,0a65,65 0 1,0 -130,0" 
+          id="circle13"  />
+    
+    
+    
+    <path d="M30,60a70,70 0 1,0 140,0a70,70 0 1,0 -140,0" 
+          id="circle14"  />
+    
+    
+    
+    <path d="M25,60a75,75 0 1,0 150,0a75,75 0 1,0 -150,0" 
+          id="circle15"  />
+    
+    
+    
+    <path d="M20,60a80,80 0 1,0 160,0a80,80 0 1,0 -160,0" 
+          id="circle16"  />
+    
+    
+    <path d="M15,60a85,85 0 1,0 170,0a85,85 0 1,0 -170,0" 
+          id="circle17"  />
+    
+    
+    <path d="M10,60a90,90 0 1,0 180,0a90,90 0 1,0 -180,0" 
+          id="circle18"  />
+    
+    <path d="M5,60a95,95 0 1,0 190,0a95,95 0 1,0 -190,0" 
+          id="circle19"  />
+    
+    <path d="M0,60a100,100 0 1,0 200,0a100,100 0 1,0 -200,0" 
+          id="circle20"  />
+    
+    <path d="M-5,60a105,105 0 1,0 210,0a105,105 0 1,0 -210,0" 
+          id="circle21"  />
+    
+    
+    
+</defs>
+
+
+<text  class="textocircular"   font-size="0.02em">
+    <textPath xlink:href="#circle01">&#187; Texto y simbolos siguiendo una -ruta- abcdefghijklmnopqrstuvwzyz  abcdefghijklmnopqrstuvwzyz</textPath>
+</text>
+
+<text  class="textocircular"   font-size="0.04em">
+    <textPath xlink:href="#circle02">Texto y simbolos siguiendo una -ruta- abcdefghijklmnopqrstuvwzyz abcdefghijklmnopqrstuvwzyz</textPath>
+</text>
+  
+<text  class="textocircular"   font-size="0.06em">
+    <textPath xlink:href="#circle03">Texto y simbolos siguiendo una -ruta- abcdefghijklmnopqrstuvwzyz abcdefghijklmnopqrstuvwzyz</textPath>
+</text>
+  
+<text  class="textocircular"   font-size="0.08em">
+    <textPath xlink:href="#circle04">Texto y simbolos siguiendo una -ruta- abcdefghijklmnopqrstuvwzyz abcdefghijklmnopqrstuvwzyz</textPath>
+</text>
+
+<text  class="textocircular"   font-size="0.1em">
+    <textPath xlink:href="#circle05">Texto y simbolos siguiendo una -ruta-</textPath>
+</text>
+
+<text  class="textocircular"   font-size="0.12em">
+
+    <textPath xlink:href="#circle06">Texto y simbolos siguiendo una -ruta-</textPath>
+</text>
+  
+<text  class="textocircular"   font-size="0.14em">
+
+    <textPath xlink:href="#circle07">Texto y simbolos siguiendo una -ruta-</textPath>
+</text>
+  
+<text  class="textocircular"   font-size="0.16em">
+
+    <textPath xlink:href="#circle08">Texto y simbolos siguiendo una -ruta-</textPath>
+</text>
+
+<text  class="textocircular"   font-size="0.18em">
+
+    <textPath xlink:href="#circle09">Texto y simbolos siguiendo una -ruta-</textPath>
+</text>
+
+<text  class="textocircular"   font-size="0.2em">
+
+    <textPath xlink:href="#circle10">Texto y simbolos siguiendo una -ruta-</textPath>
+</text>
+  
+<text  class="textocircular"   font-size="0.22em">
+
+    <textPath xlink:href="#circle11">Texto y simbolos siguiendo una -ruta- abcdefghijklmnopqrstuvwzyz abcdefghijklmnopqrstuvwzyz abcdefghijklmnopqrstuvwzyz </textPath>
+</text>
+
+<text  class="textocircular"   font-size="0.24em">
+
+    <textPath xlink:href="#circle12">Texto y simbolos siguiendo una -ruta- abcdefghijklmnopqrstuvwzyz abcdefghijklmnopqrstuvwzyz abcdefghijklmnopqrstuvwzyz </textPath>
+</text>
+  
+<text  class="textocircular"   font-size="0.28em">
+
+    <textPath xlink:href="#circle13">Texto y simbolos siguiendo una -ruta- abcdefghijklmnopqrstuvwzyz abcdefghijklmnopqrstuvwzyz abcdefghijklmnopqrstuvwzyz </textPath>
+</text>
+  
+<text  class="textocircular"   font-size="0.3em">
+
+    <textPath xlink:href="#circle14">Texto y simbolos 	&#937; siguiendo una -ruta- abcdefghijklmnopqrstuvwzyz abcdefghijklmnopqrstuvwzyz abcdefghijklmnopqrstuvwzyz </textPath>
+</text>
+  
+
+<text  class="textocircular"   font-size="0.32em">
+
+    <textPath xlink:href="#circle15">Texto y simbolos 	&#937; siguiendo una -ruta- abcdefghijklmnopqrstuvwzyz abcdefghijklmnopqrstuvwzyz abcdefghijklmnopqrstuvwzyz </textPath>
+</text>
+
+<text  class="textocircular"   font-size="0.34em">
+
+    <textPath xlink:href="#circle16">- - - - - - - -	&#937; - - - - - - - - -  siguiendo una -ruta- abcdefghijklmnopqrstuvwzyz abcdefghijklmnopqrstuvwzyz abcdefghijklmnopqrstuvwzyz </textPath>
+</text>
+  
+<text  class="textocircular"   font-size="0.36em">
+
+    <textPath xlink:href="#circle17"> - - - - - - - - - - - - - - &#187; - - - - - - - - -  siguiendo una -ruta- abcdefghijklmnopqrstuvwzyz abcdefghijklmnopqrstuvwzyz abcdefghijklmnopqrstuvwzyz </textPath>
+</text>
+  
+<text  class="textocircular"   font-size="0.38em">
+
+    <textPath xlink:href="#circle18">- - - - - - - - - - - - - - -  &#187;  - - - - - - - - - - ijklmnopqrstuvwzyz abcdefghijklmnopqrstuvwzyz </textPath>
+</text>
+
+<text  class="textocircular"   font-size="0.4em">
+
+    <textPath xlink:href="#circle19">- - - - - - - - - - - - - - - &#187;  siguiendo una -ruta- abcdefghijklmnopqrstuvwzyz abcdefghijklmnopqrstuvwzyz abcdefghijklmnopqrstuvwzyz </textPath>
+</text>
+
+<text  class="textocircular"   font-size="0.42em">
+
+    <textPath xlink:href="#circle20">- - - - - - - - - - - - - - -  &#187; &#936;  </textPath>
+</text>
+
+  
+<text  class="textocircular"   font-size="0.44em">
+  <textPath xlink:href="#circle21"> - - - - - - - -  - - - - - - &#187; &#187; </textPath>
+</text>
+  
+  
+  
+</svg>

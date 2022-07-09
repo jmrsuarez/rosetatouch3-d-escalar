@@ -1,0 +1,65 @@
+body
+{
+
+  background:black;
+  overflow: hidden; /* Hide scrollbars */
+}
+
+.mySlides {
+  display:none; 
+}
+
+.sobre
+{
+  position:absolute;
+}
+
+.roseta
+{  
+  /*outline: 25px dotted green; */
+   width:1450;
+   margin-left:auto;
+   margin-right:auto;
+   display:block;
+   transform: translateX(-6.30%);
+   position:absolute;     
+}
+
+.divh1
+{
+  padding: 40px;
+  color:white;
+  position:absolute;
+  font-family: Helvetica, sans-serif;
+  font-weight:lighter;
+  width:22%;
+}
+
+.divj1
+{
+  padding: 40px;
+  color:white;
+  position:absolute;
+  font-family: Helvetica, sans-serif;
+  font-weight:lighter;
+  width:22%;
+  bottom:1%;
+  
+}
+
+.divp1
+{
+  padding: 40px;
+  color:white;
+  position:absolute;
+  font-family: Helvetica, sans-serif;
+  font-weight:lighter;
+  right:2%;
+  display:none;
+}
+
+
+sub {
+  font-size: 0.55em;
+}
+
